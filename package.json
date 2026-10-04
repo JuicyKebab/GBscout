@@ -1,0 +1,24 @@
+{
+  "name": "esim-compare",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "ingest": "node scripts/ingest.mjs",
+    "log-prices": "node scripts/log-prices.mjs",
+    "deploy": "next build && wrangler deploy",
+    "preview": "next build && wrangler dev"
+  },
+  "dependencies": {
+    "next": "16.2.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "vanilla-cookieconsent": "^3.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4",
+    "wrangler": "^4.147.0"
+  }
+}
