@@ -1,6 +1,6 @@
 import { absoluteUrl } from "@/lib/site";
 import { DESTINATIONS } from "@/lib/destinations";
-import { getDatasetMeta, getOffers, providersWithAlternatives, validPairs } from "@/lib/data";
+import { getDatasetMeta, getOffers, providersWithAlternatives, providersWithData, validPairs } from "@/lib/data";
 import { pairSlug } from "@/lib/providers";
 
 // Vereist voor `output: "export"` (statische build).
@@ -28,10 +28,17 @@ export default function sitemap() {
     changeFrequency: "weekly",
     priority: 0.6,
   }));
+  const providers = providersWithData().map((p) => ({
+    url: absoluteUrl(`/providers/${p}`),
+    lastModified,
+    changeFrequency: "weekly",
+    priority: 0.7,
+  }));
   return [
     { url: absoluteUrl("/"), lastModified, changeFrequency: "weekly", priority: 1 },
     { url: absoluteUrl("/esim"), lastModified, changeFrequency: "weekly", priority: 0.7 },
     ...destinations,
+    ...providers,
     ...pairs,
     ...alternatives,
     { url: absoluteUrl("/methodology"), changeFrequency: "yearly", priority: 0.3 },

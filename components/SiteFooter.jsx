@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { SITE } from "@/lib/site";
-import { getPopular, validPairs, providersWithAlternatives } from "@/lib/data";
+import { getPopular, validPairs, providersWithData } from "@/lib/data";
 import { pairSlug, providerName } from "@/lib/providers";
 
 export default function SiteFooter() {
   const destinations = getPopular(8).filter((d) => d.hasPage);
   const pairs = validPairs().slice(0, 6);
-  const providers = providersWithAlternatives();
+  const providers = providersWithData();
   return (
     <footer className="mt-16 border-t border-stone-200 bg-white">
       <div className="mx-auto grid max-w-5xl gap-8 px-4 py-10 text-sm text-stone-600 sm:grid-cols-2 lg:grid-cols-4">
@@ -40,7 +40,7 @@ export default function SiteFooter() {
               <p className="mt-4 font-semibold text-stone-900">Providers</p>
               <ul className="mt-2 space-y-1">
                 {providers.map((p) => (
-                  <li key={p}><Link href={`/alternatives/${p}`} className="hover:text-stone-900">{providerName(p)} alternatives</Link></li>
+                  <li key={p}><Link href={`/providers/${p}`} className="hover:text-stone-900">{providerName(p)} eSIM review</Link></li>
                 ))}
               </ul>
             </>
