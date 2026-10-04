@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:06:19.006Z",
+  "generated_at": "2026-10-04T11:37:55.822Z",
   "items": [
     {
       "provider": "airalo",
@@ -222,6 +222,103 @@
           "unlimited": true,
           "validity_days": 30,
           "price": 125.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "albania",
+      "source_url": "https://saily.com/esim-albania/",
+      "fetched_at": "2026-10-04T11:36:53.856Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 21.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 25.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 57.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 72.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
           "plan_name": null,
           "network": null
         }
@@ -634,6 +731,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 218.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "argentina",
+      "source_url": "https://saily.com/esim-argentina/",
+      "fetched_at": "2026-10-04T11:37:38.507Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 5.29,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 46.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 57.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 72.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
           "plan_name": null,
           "network": null
         }
@@ -1464,6 +1658,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "australia",
+      "source_url": "https://saily.com/esim-australia/",
+      "fetched_at": "2026-10-04T11:35:35.302Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "australia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=aus&wmc-currency=USD",
@@ -1876,6 +2167,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "austria",
+      "source_url": "https://saily.com/esim-austria/",
+      "fetched_at": "2026-10-04T11:37:13.984Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 1.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 5.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "austria",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=aut&wmc-currency=USD",
@@ -2194,6 +2582,39 @@
           "unlimited": true,
           "validity_days": 30,
           "price": 111.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "bahamas",
+      "source_url": "https://saily.com/esim-bahamas/",
+      "fetched_at": "2026-10-04T11:37:18.584Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
           "plan_name": null,
           "network": null
         }
@@ -2548,6 +2969,47 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "bolivia",
+      "source_url": "https://saily.com/esim-bolivia/",
+      "fetched_at": "2026-10-04T11:37:45.268Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 20.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "bolivia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bol&wmc-currency=USD",
@@ -2890,6 +3352,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 287.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "brazil",
+      "source_url": "https://saily.com/esim-brazil/",
+      "fetched_at": "2026-10-04T11:36:12.593Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 39.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 21.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 36.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 89.99,
           "plan_name": null,
           "network": null
         }
@@ -3340,6 +3899,47 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "cambodia",
+      "source_url": "https://saily.com/esim-cambodia/",
+      "fetched_at": "2026-10-04T11:37:04.743Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 5.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 14.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 23.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "cambodia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=khm&wmc-currency=USD",
@@ -3722,6 +4322,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 287.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "canada",
+      "source_url": "https://saily.com/esim-canada/",
+      "fetched_at": "2026-10-04T11:35:19.339Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 5.29,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 30.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 33.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 56.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 85.99,
           "plan_name": null,
           "network": null
         }
@@ -4164,6 +4861,55 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "chile",
+      "source_url": "https://saily.com/esim-chile/",
+      "fetched_at": "2026-10-04T11:36:47.331Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "chile",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=chl&wmc-currency=USD",
@@ -4546,6 +5292,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "china",
+      "source_url": "https://saily.com/esim-china/",
+      "fetched_at": "2026-10-04T11:35:17.063Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 39.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 49.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 60.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 72.99,
           "plan_name": null,
           "network": null
         }
@@ -4996,6 +5839,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "colombia",
+      "source_url": "https://saily.com/esim-colombia/",
+      "fetched_at": "2026-10-04T11:36:10.074Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 40.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 62.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "colombia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=col&wmc-currency=USD",
@@ -5410,6 +6350,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 287.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "costa-rica",
+      "source_url": "https://saily.com/esim-costa-rica/",
+      "fetched_at": "2026-10-04T11:35:42.348Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 36.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 47.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 37.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 62.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 88.99,
           "plan_name": null,
           "network": null
         }
@@ -5854,6 +6891,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "croatia",
+      "source_url": "https://saily.com/esim-croatia/",
+      "fetched_at": "2026-10-04T11:36:45.208Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 49.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 58.99,
           "plan_name": null,
           "network": null
         }
@@ -6353,6 +7487,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "cyprus",
+      "source_url": "https://saily.com/esim-cyprus/",
+      "fetched_at": "2026-10-04T11:37:47.545Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 56.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 68.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "cyprus",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=cyp&wmc-currency=USD",
@@ -6797,6 +8028,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "denmark",
+      "source_url": "https://saily.com/esim-denmark/",
+      "fetched_at": "2026-10-04T11:37:02.433Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "denmark",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=dnk&wmc-currency=USD",
@@ -7233,6 +8561,47 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "dominican-republic",
+      "source_url": "https://saily.com/esim-dominican-republic/",
+      "fetched_at": "2026-10-04T11:36:23.267Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 8.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 20.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 37.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "dominican-republic",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=dom&wmc-currency=USD",
@@ -7607,6 +8976,95 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 300.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "ecuador",
+      "source_url": "https://saily.com/esim-ecuador/",
+      "fetched_at": "2026-10-04T11:36:49.467Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 5.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 51.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 72.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
           "plan_name": null,
           "network": null
         }
@@ -8011,6 +9469,87 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 287.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "egypt",
+      "source_url": "https://saily.com/esim-egypt/",
+      "fetched_at": "2026-10-04T11:36:25.332Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 14.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 33.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 42.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 89.99,
           "plan_name": null,
           "network": null
         }
@@ -8841,6 +10380,39 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "fiji",
+      "source_url": "https://saily.com/esim-fiji/",
+      "fetched_at": "2026-10-04T11:37:27.657Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "fiji",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=fji&wmc-currency=USD",
@@ -9191,6 +10763,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "france",
+      "source_url": "https://saily.com/esim-france/",
+      "fetched_at": "2026-10-04T11:35:23.842Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 23.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 41.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 59.99,
           "plan_name": null,
           "network": null
         }
@@ -9595,6 +11264,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "georgia",
+      "source_url": "https://saily.com/esim-georgia/",
+      "fetched_at": "2026-10-04T11:37:40.767Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.79,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 30.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -10039,6 +11805,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "germany",
+      "source_url": "https://saily.com/esim-germany/",
+      "fetched_at": "2026-10-04T11:35:52.836Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 23.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 41.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 59.99,
           "plan_name": null,
           "network": null
         }
@@ -10837,6 +12700,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "greece",
+      "source_url": "https://saily.com/esim-greece/",
+      "fetched_at": "2026-10-04T11:35:55.087Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "greece",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=grc&wmc-currency=USD",
@@ -11281,6 +13241,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "hong-kong",
+      "source_url": "https://saily.com/esim-hong-kong/",
+      "fetched_at": "2026-10-04T11:36:16.823Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 36.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "hong-kong",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hkg&wmc-currency=USD",
@@ -11717,6 +13774,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "hungary",
+      "source_url": "https://saily.com/esim-hungary/",
+      "fetched_at": "2026-10-04T11:37:29.917Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "hungary",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hun&wmc-currency=USD",
@@ -12145,6 +14299,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "iceland",
+      "source_url": "https://saily.com/esim-iceland/",
+      "fetched_at": "2026-10-04T11:36:07.944Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "iceland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=isl&wmc-currency=USD",
@@ -12511,6 +14762,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 306.5,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "india",
+      "source_url": "https://saily.com/esim-india/",
+      "fetched_at": "2026-10-04T11:35:32.889Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 23.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 44.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 76.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
           "plan_name": null,
           "network": null
         }
@@ -12977,6 +15325,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "indonesia",
+      "source_url": "https://saily.com/esim-indonesia/",
+      "fetched_at": "2026-10-04T11:35:57.200Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.79,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 21.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "indonesia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=idn&wmc-currency=USD",
@@ -13429,6 +15874,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "ireland",
+      "source_url": "https://saily.com/esim-ireland/",
+      "fetched_at": "2026-10-04T11:35:48.589Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 25.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "ireland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=irl&wmc-currency=USD",
@@ -13859,6 +16401,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "israel",
+      "source_url": "https://saily.com/esim-israel/",
+      "fetched_at": "2026-10-04T11:36:29.571Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 5.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -14301,6 +16940,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "italy",
+      "source_url": "https://saily.com/esim-italy/",
+      "fetched_at": "2026-10-04T11:35:14.673Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 20.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 54.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 63.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "italy",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ita&wmc-currency=USD",
@@ -14713,6 +17449,47 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "jamaica",
+      "source_url": "https://saily.com/esim-jamaica/",
+      "fetched_at": "2026-10-04T11:36:33.894Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 39.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "yesim",
       "slug": "jamaica",
       "source_url": "https://yesim.app/country/jamaica/",
@@ -15022,6 +17799,127 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "japan",
+      "source_url": "https://saily.com/esim-japan/",
+      "fetched_at": "2026-10-04T11:35:08.601Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 1,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 3,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 14,
+          "price": 46.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -15432,6 +18330,55 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "jordan",
+      "source_url": "https://saily.com/esim-jordan/",
+      "fetched_at": "2026-10-04T11:37:11.522Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.79,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "jordan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=jor&wmc-currency=USD",
@@ -15686,6 +18633,47 @@
           "unlimited": true,
           "validity_days": 30,
           "price": 125.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "kenya",
+      "source_url": "https://saily.com/esim-kenya/",
+      "fetched_at": "2026-10-04T11:36:55.994Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 47.99,
           "plan_name": null,
           "network": null
         }
@@ -16120,6 +19108,55 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "laos",
+      "source_url": "https://saily.com/esim-laos/",
+      "fetched_at": "2026-10-04T11:37:20.841Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 45.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "yesim",
       "slug": "laos",
       "source_url": "https://yesim.app/country/laos/",
@@ -16532,6 +19569,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "malaysia",
+      "source_url": "https://saily.com/esim-malaysia/",
+      "fetched_at": "2026-10-04T11:37:00.167Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 21.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "malaysia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mys&wmc-currency=USD",
@@ -16810,6 +19944,23 @@
           "unlimited": true,
           "validity_days": 30,
           "price": 199.5,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "maldives",
+      "source_url": "https://saily.com/esim-maldives/",
+      "fetched_at": "2026-10-04T11:37:43.031Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 14.99,
           "plan_name": null,
           "network": null
         }
@@ -17157,6 +20308,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 121.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "mexico",
+      "source_url": "https://saily.com/esim-mexico/",
+      "fetched_at": "2026-10-04T11:35:21.786Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 14.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 23.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 37.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -17561,6 +20809,87 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 159.5,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "morocco",
+      "source_url": "https://saily.com/esim-morocco/",
+      "fetched_at": "2026-10-04T11:36:21.143Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 21.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 33.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 42.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 35.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 89.99,
           "plan_name": null,
           "network": null
         }
@@ -18019,6 +21348,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "netherlands",
+      "source_url": "https://saily.com/esim-netherlands/",
+      "fetched_at": "2026-10-04T11:37:54.310Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "netherlands",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nld&wmc-currency=USD",
@@ -18463,6 +21889,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "new-zealand",
+      "source_url": "https://saily.com/esim-new-zealand/",
+      "fetched_at": "2026-10-04T11:36:05.656Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 23.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 37.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "new-zealand",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nzl&wmc-currency=USD",
@@ -18899,6 +22422,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "norway",
+      "source_url": "https://saily.com/esim-norway/",
+      "fetched_at": "2026-10-04T11:36:38.511Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "norway",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nor&wmc-currency=USD",
@@ -19329,6 +22949,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "pakistan",
+      "source_url": "https://saily.com/esim-pakistan/",
+      "fetched_at": "2026-10-04T11:36:58.070Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -19779,6 +23496,47 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "panama",
+      "source_url": "https://saily.com/esim-panama/",
+      "fetched_at": "2026-10-04T11:36:36.197Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 39.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "panama",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pan&wmc-currency=USD",
@@ -20161,6 +23919,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 196.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "peru",
+      "source_url": "https://saily.com/esim-peru/",
+      "fetched_at": "2026-10-04T11:36:14.734Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 40.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -20557,6 +24412,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "philippines",
+      "source_url": "https://saily.com/esim-philippines/",
+      "fetched_at": "2026-10-04T11:35:30.460Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -21023,6 +24975,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "poland",
+      "source_url": "https://saily.com/esim-poland/",
+      "fetched_at": "2026-10-04T11:37:49.859Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 5.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 20.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "poland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pol&wmc-currency=USD",
@@ -21459,6 +25508,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "portugal",
+      "source_url": "https://saily.com/esim-portugal/",
+      "fetched_at": "2026-10-04T11:35:46.235Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "portugal",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=prt&wmc-currency=USD",
@@ -21744,6 +25890,55 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 300.5,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "puerto-rico",
+      "source_url": "https://saily.com/esim-puerto-rico/",
+      "fetched_at": "2026-10-04T11:37:34.051Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 36.99,
           "plan_name": null,
           "network": null
         }
@@ -22059,6 +26254,55 @@
           "unlimited": true,
           "validity_days": 30,
           "price": 111.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "qatar",
+      "source_url": "https://saily.com/esim-qatar/",
+      "fetched_at": "2026-10-04T11:37:51.980Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 48.99,
           "plan_name": null,
           "network": null
         }
@@ -22471,6 +26715,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "romania",
+      "source_url": "https://saily.com/esim-romania/",
+      "fetched_at": "2026-10-04T11:37:25.291Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -23180,6 +27521,95 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "saudi-arabia",
+      "source_url": "https://saily.com/esim-saudi-arabia/",
+      "fetched_at": "2026-10-04T11:36:42.810Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 42.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 54.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 69.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "saudi-arabia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=sau&wmc-currency=USD",
@@ -23594,6 +28024,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "singapore",
+      "source_url": "https://saily.com/esim-singapore/",
+      "fetched_at": "2026-10-04T11:35:59.348Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 6.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -24044,6 +28571,95 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "south-africa",
+      "source_url": "https://saily.com/esim-south-africa/",
+      "fetched_at": "2026-10-04T11:36:27.450Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 36.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 44.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 76.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 109.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "south-africa",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=zaf&wmc-currency=USD",
@@ -24442,6 +29058,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "south-korea",
+      "source_url": "https://saily.com/esim-south-korea/",
+      "fetched_at": "2026-10-04T11:35:50.758Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -24884,6 +29597,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "spain",
+      "source_url": "https://saily.com/esim-spain/",
+      "fetched_at": "2026-10-04T11:35:28.328Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 6.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 54.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 63.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "spain",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=esp&wmc-currency=USD",
@@ -25314,6 +30124,95 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "sri-lanka",
+      "source_url": "https://saily.com/esim-sri-lanka/",
+      "fetched_at": "2026-10-04T11:37:23.162Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 30.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -25764,6 +30663,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "sweden",
+      "source_url": "https://saily.com/esim-sweden/",
+      "fetched_at": "2026-10-04T11:36:40.729Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 6.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "sweden",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=swe&wmc-currency=USD",
@@ -26194,6 +31190,111 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "switzerland",
+      "source_url": "https://saily.com/esim-switzerland/",
+      "fetched_at": "2026-10-04T11:36:19.033Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 36.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 3,
+          "price": 11.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 33.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 45.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 56.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 67.99,
           "plan_name": null,
           "network": null
         }
@@ -26644,6 +31745,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "taiwan",
+      "source_url": "https://saily.com/esim-taiwan/",
+      "fetched_at": "2026-10-04T11:36:03.169Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 30.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 21.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "taiwan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=twn&wmc-currency=USD",
@@ -27048,6 +32246,55 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "tanzania",
+      "source_url": "https://saily.com/esim-tanzania/",
+      "fetched_at": "2026-10-04T11:37:09.211Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 16.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 44.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "tanzania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tza&wmc-currency=USD",
@@ -27406,6 +32653,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "thailand",
+      "source_url": "https://saily.com/esim-thailand/",
+      "fetched_at": "2026-10-04T11:35:26.117Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 2.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 5.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 14.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 20.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 30.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 38.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 48.99,
           "plan_name": null,
           "network": null
         }
@@ -27856,6 +33200,95 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "tunisia",
+      "source_url": "https://saily.com/esim-tunisia/",
+      "fetched_at": "2026-10-04T11:37:16.294Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 31.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 27.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 44.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 76.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 98.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "tunisia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tun&wmc-currency=USD",
@@ -28292,6 +33725,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "turkey",
+      "source_url": "https://saily.com/esim-turkey/",
+      "fetched_at": "2026-10-04T11:35:40.157Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 6.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 15.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "turkey",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tur&wmc-currency=USD",
@@ -28647,6 +34177,103 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "uae",
+      "source_url": "https://saily.com/esim-united-arab-emirates/",
+      "fetched_at": "2026-10-04T11:36:31.810Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 19.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 33.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "uae",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=are&wmc-currency=USD",
@@ -28956,6 +34583,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "united-kingdom",
+      "source_url": "https://saily.com/esim-united-kingdom/",
+      "fetched_at": "2026-10-04T11:35:12.511Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 30.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
@@ -29414,6 +35138,127 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "united-states",
+      "source_url": "https://saily.com/esim-united-states/",
+      "fetched_at": "2026-10-04T11:35:06.246Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 8.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 36.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 1,
+          "price": 3.49,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 3,
+          "price": 11.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 24.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 33.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 14,
+          "price": 43.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 45.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 56.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 67.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "united-states",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=usa&wmc-currency=USD",
@@ -29866,6 +35711,55 @@
       ]
     },
     {
+      "provider": "saily",
+      "slug": "uzbekistan",
+      "source_url": "https://saily.com/esim-uzbekistan/",
+      "fetched_at": "2026-10-04T11:37:36.421Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 4.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 9.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 13.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 22.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 32.99,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
       "provider": "ubigi",
       "slug": "uzbekistan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=uzb&wmc-currency=USD",
@@ -30296,6 +36190,103 @@
           "unlimited": true,
           "validity_days": 90,
           "price": 138.9,
+          "plan_name": null,
+          "network": null
+        }
+      ]
+    },
+    {
+      "provider": "saily",
+      "slug": "vietnam",
+      "source_url": "https://saily.com/esim-vietnam/",
+      "fetched_at": "2026-10-04T11:35:37.786Z",
+      "currency": "USD",
+      "plans": [
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 3.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 7.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 10.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 28.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 18.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 26.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 34.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 48.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 20,
+          "price": 59.99,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 71.99,
           "plan_name": null,
           "network": null
         }
