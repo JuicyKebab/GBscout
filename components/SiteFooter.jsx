@@ -13,8 +13,20 @@ export default function SiteFooter() {
         <div>
           <p className="font-semibold text-stone-900">{SITE.name}</p>
           <p className="mt-2 text-pretty">
-            Independent eSIM price comparison. The ranking uses price only. Some links are affiliate links; see the{" "}
+            Curated eSIM price comparison: we verify a handful of providers and rank every plan by price per GB. The
+            ranking uses price only. Some links are affiliate links; see the{" "}
             <Link href="/affiliate-disclosure" className="underline underline-offset-2 hover:text-stone-900">affiliate disclosure</Link>.
+          </p>
+          {SITE.operatorName ? (
+            <p className="mt-2 text-pretty">
+              Built and run by {SITE.operatorName}.{" "}
+              {SITE.contactEmail ? (
+                <a href={`mailto:${SITE.contactEmail}`} className="underline underline-offset-2 hover:text-stone-900">{SITE.contactEmail}</a>
+              ) : null}
+            </p>
+          ) : null}
+          <p className="mt-2">
+            <Link href="/about" className="underline underline-offset-2 hover:text-stone-900">About GBScout</Link>
           </p>
         </div>
         <div>

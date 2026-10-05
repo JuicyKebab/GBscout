@@ -1,15 +1,16 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import DestinationGuide from "@/components/DestinationGuide";
 import FaqList from "@/components/FaqList";
 import JsonLd from "@/components/JsonLd";
 import PlanTable, { planLabel } from "@/components/PlanTable";
 import Verdicts from "@/components/Verdicts";
 import { DESTINATIONS, getDestination, forName } from "@/lib/destinations";
-import { getOffers } from "@/lib/data";
+import { getOffers, providersWithData } from "@/lib/data";
 import { days, fullDate, money, plural } from "@/lib/format";
 import { outbound, providerName } from "@/lib/providers";
-import { breadcrumbJsonLd, faqJsonLd, itemListJsonLd } from "@/lib/schema";
+import { breadcrumbJsonLd, itemListJsonLd } from "@/lib/schema";
 
 export const dynamicParams = false;
 
@@ -118,6 +119,10 @@ export default async function DestinationPage({ params }) {
   const pageList = DESTINATIONS.filter((x) => getOffers(x.slug).hasPage);
   const pos = pageList.findIndex((x) => x.slug === slug);
   const others = [...pageList.slice(pos + 1), ...pageList.slice(0, pos)].slice(0, 12);
+  // Contextual links from this destination to the review page of each provider it ranks.
+  const withReviews = new Set(providersWithData());
+  const providerPages = o.providers.filter((p) => withReviews.has(p));
+  const twoMetrics = o.fixed.length > 0 && o.unlimited.length > 0;
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
@@ -126,9 +131,21 @@ export default async function DestinationPage({ params }) {
         Best eSIM for {forName(d)}: {plural(o.providers.length, "provider")} compared on price
       </h1>
       {date ? <p className="mt-2 text-sm text-stone-500">Prices checked {date}.</p> : null}
+      {twoMetrics ? (
+        <p className="mt-2 text-sm text-stone-600">
+          Two honest numbers: <span className="font-medium text-stone-900">price per GB</span> for data plans,{" "}
+          <span className="font-medium text-stone-900">price per day</span> for unlimited plans.
+        </p>
+      ) : null}
       <p className="mt-4 max-w-3xl text-base text-pretty text-stone-800 sm:text-lg">{answerText(d, o)}</p>
 
       <Verdicts offers={o} />
+
+      <p className="mt-6 rounded-xl border border-stone-200 bg-stone-50 px-4 py-3 text-sm text-pretty text-stone-700">
+        Works on any unlocked, eSIM-capable phone (iPhone XS or newer, most Pixel and Galaxy from 2019 on). You install
+        it by scanning a QR code emailed right after purchase, so there is no SIM swap and no store visit, and you can set
+        it up before you fly.
+      </p>
 
       {o.fixed.length ? (
         <section aria-labelledby="fixed" className="mt-12">
@@ -166,7 +183,24 @@ export default async function DestinationPage({ params }) {
         </p>
       ) : null}
 
+      <DestinationGuide offers={o} place={forName(d)} />
+
       <FaqList faqs={faqs} />
+
+      {providerPages.length ? (
+        <section aria-labelledby="reviews" className="mt-12">
+          <h2 id="reviews" className="text-lg font-semibold text-stone-900">Provider reviews</h2>
+          <ul className="mt-3 flex flex-wrap gap-2">
+            {providerPages.map((p) => (
+              <li key={p}>
+                <Link href={`/providers/${p}`} className="inline-block rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm hover:border-teal-700">
+                  {providerName(p)} eSIM review
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
 
       <section aria-labelledby="more" className="mt-12">
         <h2 id="more" className="text-lg font-semibold text-stone-900">Other destinations</h2>
@@ -199,7 +233,6 @@ export default async function DestinationPage({ params }) {
           labelOf: (r) => `${providerName(r.provider)} ${planLabel(r)}`,
         })}
       />
-      <JsonLd data={faqJsonLd(faqs)} />
     </div>
   );
 }

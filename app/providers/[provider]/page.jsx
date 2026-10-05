@@ -7,7 +7,7 @@ import { ProviderFacts, FairUseNotes } from "@/components/FactsTable";
 import { getProviderOverview, providersWithData, getAlternatives } from "@/lib/data";
 import { fullDate, money, plural } from "@/lib/format";
 import { outbound, providerName, pairSlug, PAIRS } from "@/lib/providers";
-import { breadcrumbJsonLd, faqJsonLd } from "@/lib/schema";
+import { breadcrumbJsonLd } from "@/lib/schema";
 
 export const dynamicParams = false;
 
@@ -182,7 +182,6 @@ export default async function ProviderPage({ params }) {
       </p>
 
       <JsonLd data={breadcrumbJsonLd(trail)} />
-      <JsonLd data={faqJsonLd(faqs)} />
     </div>
   );
 }
