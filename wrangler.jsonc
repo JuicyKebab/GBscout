@@ -1,0 +1,22 @@
+{
+  // Een Cloudflare Worker die alleen statische bestanden uitserveert (de map `out/` uit `next build`).
+  "name": "gbscout",
+  "compatibility_date": "2026-10-01",
+  // Zonder deze regel zet wrangler het workers.dev-adres uit bij elke deploy.
+  "workers_dev": true,
+  "preview_urls": false,
+  // Eigen domeinen. Vereist dat de zone gbscout.com in dit account op "Active" staat en dat er geen
+  // andere A/AAAA/CNAME-records voor deze hostnamen bestaan (anders: fout 100117). Cloudflare maakt
+  // de DNS-records en het certificaat zelf aan.
+  "routes": [
+    { "pattern": "gbscout.com", "custom_domain": true },
+    { "pattern": "www.gbscout.com", "custom_domain": true }
+  ],
+  "assets": {
+    "directory": "./out",
+    // /esim/japan serveert out/esim/japan.html; /esim/japan/ werkt ook.
+    "html_handling": "auto-trailing-slash",
+    // Onbekende URL's krijgen out/404.html met een echte 404-status.
+    "not_found_handling": "404-page"
+  }
+}

@@ -1,0 +1,9 @@
+# Omgekeerde vergelijkingsparen wijzen permanent naar de canonieke URL (zie PAIRS in lib/providers.js).
+/compare/holafly-vs-airalo /compare/airalo-vs-holafly 301
+/compare/airalo-vs-saily /compare/saily-vs-airalo 301
+/compare/nomad-vs-airalo /compare/airalo-vs-nomad 301
+/compare/ubigi-vs-airalo /compare/airalo-vs-ubigi 301
+/compare/yesim-vs-airalo /compare/airalo-vs-yesim 301
+/compare/jetpac-vs-airalo /compare/airalo-vs-jetpac 301
+/compare/saily-vs-holafly /compare/holafly-vs-saily 301
+/compare/yesim-vs-ubigi /compare/ubigi-vs-yesim 301

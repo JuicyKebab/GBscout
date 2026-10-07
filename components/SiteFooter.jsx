@@ -36,6 +36,7 @@ export default function SiteFooter() {
               <li key={d.slug}><Link href={`/esim/${d.slug}`} className="hover:text-stone-900">eSIM for {d.name}</Link></li>
             ))}
             <li><Link href="/esim" className="font-medium text-stone-900 hover:underline">All destinations →</Link></li>
+            <li><Link href="/esim-price-spread" className="hover:text-stone-900">Price spread by destination</Link></li>
           </ul>
         </div>
         <div>

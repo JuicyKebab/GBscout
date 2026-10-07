@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+/* Cookie preferences revisit button for vanilla-cookieconsent. */
+.gbs-cc-revisit {
+  position: fixed;
+  left: 12px;
+  bottom: 12px;
+  z-index: 40;
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+  color: #fff;
+  background: #0f766e;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  opacity: 0.85;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+}
+.gbs-cc-revisit:hover { opacity: 1; }
+body:has(#cc-main .cm--show) .gbs-cc-revisit { display: none; }
+#cc-main { --cc-z-index: 2147483647; }

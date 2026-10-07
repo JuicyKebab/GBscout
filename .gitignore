@@ -1,0 +1,22 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+*.log
+.wrangler
+
+# Interne strategie/marketing-docs (niet publiek)
+ACTION-PLAN.md
+FULL-AUDIT-REPORT.md
+SEO-PLAYBOOK-PLAN.md
+trust-profiles-checklist.md
+seo-launch-tracker.html
+affiliate-applications.md
+research.md
+mvp-scope.md
+brand-context.md
+growth-kit-*.md
+marketing-audit-*.md
+competitive-*.md

@@ -1,0 +1,1128 @@
+{
+  "generated_at": "2026-10-03T16:32:35.459Z",
+  "providers": {
+    "airalo": {
+      "name": "Airalo",
+      "founded_year": {
+        "value": 2019,
+        "source": "https://en.wikipedia.org/wiki/Airalo",
+        "seen": "2026-10-03",
+        "note": "(secondary: Wikipedia). No official airalo.com page found stating founding year. Founders per Wikipedia: Ahmet Bahadir Ozdemir, Abraham Burak."
+      },
+      "parent_company": {
+        "value": "AirGSM Pte Ltd",
+        "source": "https://www.airalo.com/more-info/terms-conditions",
+        "seen": "2026-10-03",
+        "note": "This is the contracting/legal entity per official terms: 'AirGSM Pte Ltd, a company registered in Singapore at 6 Raffles Blvd, #03-308 Marina Square, Singapore 039594'. No parent company stated on official pages; Wikipedia lists none (privately held). Do not present as parent group."
+      },
+      "hq_country": {
+        "value": "Singapore",
+        "source": "https://www.airalo.com/more-info/terms-conditions",
+        "seen": "2026-10-03",
+        "note": "Registered address in Singapore per official terms. CONTRADICTION (secondary: Wikipedia) says headquartered in Delaware (US) with operational base in Singapore. Safer wording: 'Singapore-registered'."
+      },
+      "destinations_count": {
+        "value": "200+ countries and regions",
+        "source": "https://www.airalo.com/help/about-airalo/NFHQSUXFCZOM/what-is-airalo/SWXKPHXAMHQ1",
+        "seen": "2026-10-03",
+        "note": "Quote: 'Airalo is the world's first eSIM store and offers eSIMs for 200+ countries and regions'. Another help article says 'over 200+ countries, and regions!'. Europe regional eSIM page states '41 Countries and Networks' (https://www.airalo.com/europe-esim)."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://www.airalo.com/europe-esim/eurolink-180days-100gb",
+        "seen": "2026-10-03",
+        "note": "Europe page lists fixed packages e.g. 1GB/3 days (EUR 5.00) up to 100GB/180 days (EUR 167.00)."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://www.airalo.com/europe-esim",
+        "seen": "2026-10-03",
+        "note": "Unlimited packages 3-30 days listed for Europe and Japan (see unlimited_fair_use for cap)."
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://www.airalo.com/help/getting-started-with-airalo/E8DFWD88SHUX/is-there-an-esim-for-my-desired-country/F0IIWYA9WIIQ",
+        "seen": "2026-10-03",
+        "note": "Help article references Global, Regional and Local eSIMs; Discover+ Global eSIM documented at help center."
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "Standard plans are data-only. Some plans ('Data, Voice & Text') include calls and SMS; 'Data Only' plans do not. Discover+ Global eSIM includes a US (+1) phone number with calls and SMS; inbound SMS is not deducted from SMS balance."
+        },
+        "source": "https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-use-calls-and-texts-with-my-esim/3CR1PNGN426T",
+        "seen": "2026-10-03",
+        "note": "Discover+ details from https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/what-is-discover-global-esim/IEF5FXBUXGVU. Data-only default is an inference from 'many Airalo eSIMs are data-only'; 'included' set false for the default product."
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "Allowed 'as long as it is supported by your device and the network'. For Unlimited eSIMs, tethering allowed with no stated cap, but the daily data allowance applies to hotspot usage too."
+        },
+        "source": "https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/can-i-use-tethering-personal-hotspot/5XTAX1X7HR0B",
+        "seen": "2026-10-03",
+        "note": "Unlimited detail from https://www.airalo.com/blog/unlimited-esim"
+      },
+      "unlimited_fair_use": {
+        "value": "Airalo blog: 'If you exceed 3 GB of data usage, your speeds drop to 1 Mbps and resets every 24 hours from the moment of activation'; connection stays active. Help center: unlimited packages 'may ... experience slower connection speeds on days you use more than a specified amount of data'.",
+        "source": "https://www.airalo.com/blog/unlimited-esim",
+        "seen": "2026-10-03",
+        "note": "3 GB/day figure is from an official blog post and may vary by package; the help article (https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-do-data-amounts-and-validity-periods-work-for-esim-packages/8KC1GEAUTAL0) does not give a number. Airalo says a message with the limits shows before purchase. The Japan/Europe unlimited listing pages showed no fair-use text."
+      },
+      "topup": {
+        "value": {
+          "possible": true,
+          "details": "Only rechargeable eSIMs can be topped up; check the 'Additional information' tab before purchase. Top up via My eSIMs > Top up. Whether top-ups extend validity is not stated in the article."
+        },
+        "source": "https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-top-up-an-esim/2DMCF3341SYF",
+        "seen": "2026-10-03"
+      },
+      "refund_policy": {
+        "value": "Eligible unused/partly used eSIMs can be refunded via a 'Request Refund' button in the account (reasons: wrong purchase, plans changed, installation issues, eSIM not working); 'wrong purchase'/'plans changed' refunds are Airmoney only, the other two can go to Airmoney or the original payment method; expired or fully used eSIMs are not eligible; EU-style 14-day consumer withdrawal right expires on the earlier of 14 days or eSIM activation.",
+        "source": "https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/what-can-i-do-if-i-didnt-purchase-the-right-esim-or-have-a-change-of-plans/NYBBU4NC7KN6",
+        "seen": "2026-10-03",
+        "note": "Withdrawal wording from https://www.airalo.com/legal/terms-of-use; terms also say refund requests must be made within 30 days of the issue; payment-method refunds take 7-10 business days (up to 30 days per help article; terms say up to 30 business days). Multiple recent automated refunds may trigger manual review."
+      },
+      "validity_min_days": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "Shortest seen on fetched official pages: 3 days (Europe/Japan unlimited and Europe fixed). A search snippet from airalo.com listed 1-day packages but this was not verified on a fetched page."
+      },
+      "validity_max_days": {
+        "value": 365,
+        "source": "https://www.airalo.com/global-esim/discover+-365days-20gb",
+        "seen": "2026-10-03",
+        "note": "Product page title '20 GB Discover Global eSIM valid for 365 Days' (seen in search result title; page itself not fetched). Europe regional goes to 180 days (https://www.airalo.com/europe-esim/eurolink-180days-100gb)."
+      },
+      "device_support": {
+        "value": "Device must support eSIM, be carrier/network-unlocked, and not be jailbroken (iOS) or rooted (Android). Check by dialing *#06# and looking for an EID. Devices from China, Hong Kong, Taiwan, South Korea may lack eSIM despite model listing.",
+        "source": "https://www.airalo.com/help/about-airalo/NFHQSUXFCZOM/what-devices-support-esim/D2N6OZSVVM9W",
+        "seen": "2026-10-03"
+      },
+      "network_partners_japan": {
+        "value": [
+          "Softbank",
+          "+1 other (not named on the fetched page)"
+        ],
+        "source": "https://www.airalo.com/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Fetched page showed 'Softbank' and '+1 other'; second operator name not captured."
+      },
+      "network_partners_europe": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "Europe page states '41 Countries and Networks' but no operator names were captured."
+      },
+      "coverage_5g_4g_japan": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "No Japan-specific 5G/4G statement found. General: https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/can-i-use-5g-with-my-esim/2JRSS0KBKZZB"
+      },
+      "coverage_5g_4g_europe": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "No Europe-specific 5G/4G statement found. General (not country-specific): 'Airalo sells several eSIMs with access to 5G networks'; a listed network shows '5G' next to it if supported; 'Airalo can't always guarantee 5G coverage'."
+      },
+      "support_channels": {
+        "value": "Stated as available 24/7 via live chat (the 'Contact us' button opens chat) and the Airalo app; Europe product page also cites 24/7 multi-language support including WhatsApp. Help center articles available.",
+        "source": "https://www.airalo.com/more-info/contact",
+        "seen": "2026-10-03",
+        "note": "WhatsApp from https://www.airalo.com/europe-esim/eurolink-180days-100gb. A specific support email address was not verified on a fetched page (search snippet only)."
+      },
+      "app_required": {
+        "value": {
+          "required": false,
+          "details": "QR-code install through the device's Settings works without the app (QR code also available via confirmation/delivery email). CONTRADICTION: another help article says 'You can purchase an eSIM without the app, but you must download the app to install, activate, and use an eSIM.' The app is required for Discover+ management and top-ups per help flows (top-up via My eSIMs)."
+        },
+        "source": "https://www.airalo.com/help/getting-started-with-airalo/E8DFWD88SHUX/how-do-i-install-an-airalo-esim-via-a-qr-code-on-my-ios-device/WNCIBSRV4C2Z",
+        "seen": "2026-10-03",
+        "note": "Conflicting article: https://www.airalo.com/help/about-airalo/NFHQSUXFCZOM/download-airalo-app/SWMFQAUWKQX0. Recommend wording 'QR install possible, app recommended'."
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://partners.airalo.com/solutions/affiliates",
+          "network": null,
+          "commission": "10% on the final sale value (after discounts are applied); payouts on the 28th of the following month, $15 minimum",
+          "cookie_days": null
+        },
+        "source": "https://partners.airalo.com/solutions/affiliates",
+        "seen": "2026-10-03",
+        "note": "Page mentions 'Impact' only inside a signup URL, so the network is not explicitly named (likely Impact, unconfirmed). Cookie duration not published on the page. Help center confirms program: https://www.airalo.com/help/affiliates-partnerships/JWVHG1H2NHJ7/does-airalo-have-an-affiliate-program/CVF0CNOFQN4I"
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.1,
+          "review_count": 45940,
+          "date": "2026-10-03"
+        },
+        "source": "https://www.trustpilot.com/review/airalo.com",
+        "seen": "2026-10-03"
+      }
+    },
+    "holafly": {
+      "name": "Holafly",
+      "founded_year": {
+        "value": 2017,
+        "source": "https://esim.holafly.com/inside/media-hub/holafly-crosses-500-million-startup-to-global-scaleup/",
+        "seen": "2026-10-03",
+        "note": "Official press page names 2017 and founders Yingyan (Lidia) Hu and Pedro Maiquez. Wikipedia (secondary) says founded in Spain in 2017."
+      },
+      "parent_company": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "No parent company stated on any official page fetched. Contracting entity per T&C is Holafly Limited (Ireland, reg. no. 745325), source https://esim.holafly.com/terms-and-conditions/ . Wikipedia (secondary) also lists no parent."
+      },
+      "hq_country": {
+        "value": "Ireland",
+        "source": "https://esim.holafly.com/terms-and-conditions/",
+        "seen": "2026-10-03",
+        "note": "T&C: Holafly Limited, private company registered in Ireland, 6th Floor, 2 Grand Canal Square, Dublin 2. (secondary: Wikipedia) says it operates from Dublin and Madrid; originally founded in Spain."
+      },
+      "destinations_count": {
+        "value": "200+ destinations (daily eSIMs); 160+ destinations (Holafly Plans subscriptions)",
+        "source": "https://esim.holafly.com/",
+        "seen": "2026-10-03",
+        "note": "Homepage: '200+ destinations around the world' and plans for over 160 destinations. FAQ: https://esim.holafly.com/faq/about-esims/holafly-plans-vs-prepaid-esim/ (Plans: over 160; daily eSIMs: 200+). Press page says 'across 200 destinations'."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://esim.holafly.com/faq/about-esims/holafly-plans-vs-prepaid-esim/",
+        "seen": "2026-10-03",
+        "note": "FAQ says daily eSIMs have 'fixed GB amounts or unlimited data depending on duration selected'. Holafly Plans has a 25 GB 'Light' option. Homepage and Europe page present daily plans as unlimited; fixed-GB daily plans not confirmed on destination pages fetched."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://esim.holafly.com/faq/about-esims/are-there-esims-with-unlimited-data/",
+        "seen": "2026-10-03"
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://esim.holafly.com/faq/about-esims/can-i-buy-an-esim-for-multiple-countries/",
+        "seen": "2026-10-03",
+        "note": "Regional (Europe, Asia, Latin America, Africa, North America, Caribbean, Middle East, UK) and Global eSIMs. Europe eSIM page says 33 countries: https://esim.holafly.com/esim-europe/"
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "Daily/trip eSIMs are data-only: no phone number, no calls, no SMS (T&C). Exception: Holafly Plans (monthly/annual Unlimited Plan only) include a +1 or +44 number that can RECEIVE SMS only (via app or email); no outgoing SMS, no calls. Calls/messages possible via WhatsApp over data."
+        },
+        "source": "https://esim.holafly.com/faq/about-esims/sms-abroad-with-holafly-plans/",
+        "seen": "2026-10-03",
+        "note": "Data-only statement paraphrased from https://esim.holafly.com/terms-and-conditions/ (T&C summary: not provided with eSIM service); Europe page: WhatsApp calls/messages over data https://esim.holafly.com/esim-europe/"
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "Daily/trip eSIMs: up to 1 GB of hotspot sharing per day. Holafly Plans Unlimited ($64.90/month shown): unlimited hotspot sharing; 25 GB plan: 25 GB sharing. Always On backup 1 GB: hotspot prohibited."
+        },
+        "source": "https://esim.holafly.com/internet/what-is-a-hotspot/",
+        "seen": "2026-10-03",
+        "note": "Also https://esim.holafly.com/ (1 GB shareable daily), https://esim.holafly.com/faq/about-esims/are-there-esims-with-unlimited-data/ ('hotspot feature is not unlimited to preserve network integrity'), https://esim.holafly.com/faq/about-esims/stay-online-with-always-on/. Prices from search snippet/page at time of fetch; verify before publishing."
+      },
+      "unlimited_fair_use": {
+        "value": "No fixed data cap, but 'data coverage and speed may be subject to a network service provider's fair use policy'. Some operators may reduce speeds after a certain high-speed data limit; per Holafly, 'this is not a restriction applied by Holafly' and the reduction lasts no more than one day. No numeric threshold published. Hotspot is capped (1 GB/day) on daily plans even though data is 'unlimited'.",
+        "source": "https://esim.holafly.com/faq/about-esims/are-there-esims-with-unlimited-data/",
+        "seen": "2026-10-03",
+        "note": "Also https://esim.holafly.com/terms-and-conditions/ and https://esim.holafly.com/faq/how-to-use-an-esim/what-happens-when-you-use-all-your-data/ (says internet 'will never completely stop working'). Holafly Plans: 'may temporarily reduce speed in cases of unusually high usage' https://esim.holafly.com/faq/holafly-plans/international-data-subscriptions/"
+      },
+      "topup": {
+        "value": {
+          "possible": false,
+          "details": "Daily eSIMs cannot be topped up; buy a new plan (ideally 24h before expiry) and switch profiles. Holafly Plans Light (25 GB) also has no top-up. Monthly plans auto-renew every 30 days. Always On gives 1 GB/30 days after plan ends."
+        },
+        "source": "https://esim.holafly.com/faq/how-to-use-an-esim/top-up-data-holafly-esim/",
+        "seen": "2026-10-03",
+        "note": "CONTRADICTION: https://esim.holafly.com/faq/about-esims/holafly-plans-vs-prepaid-esim/ says daily eSIM top-ups are 'Available before your eSIM expires'. The dedicated top-up FAQ says 'No. Holafly has updated its product structure, and traditional top-ups or data reloads are no longer available' and T&C say purchase another plan. Dedicated FAQ treated as authoritative."
+      },
+      "refund_policy": {
+        "value": "Daily/trip eSIMs: refund request allowed up to 6 months after purchase (full refund if bought directly and not activated; total or partial depending on usage; approval not guaranteed; processed in 5-10 business days). Holafly Plans subscriptions: refunds only within 14 days of purchase, afterwards only verified technical failures may get a voucher for unused days.",
+        "source": "https://esim.holafly.com/faq/about-esims/request-holafly-refund/",
+        "seen": "2026-10-03",
+        "note": "Also https://esim.holafly.com/terms-and-conditions/ (not activated + within 6 months) and https://esim.holafly.com/faq/holafly-plans/international-data-subscriptions/ (14 days)."
+      },
+      "validity_min_days": {
+        "value": 1,
+        "source": "https://esim.holafly.com/faq/about-esims/are-there-esims-with-unlimited-data/",
+        "seen": "2026-10-03",
+        "note": "Daily eSIMs 1 to 90 days. Holafly Plans are 30-day monthly renewals (or quarterly/annual per FAQ)."
+      },
+      "validity_max_days": {
+        "value": 90,
+        "source": "https://esim.holafly.com/faq/about-esims/are-there-esims-with-unlimited-data/",
+        "seen": "2026-10-03",
+        "note": "Daily eSIMs max 90 days; Holafly Plans annual = 12-month commitment https://esim.holafly.com/faq/holafly-plans/international-data-subscriptions/. Japan page lists 3 to 30 days for Japan specifically."
+      },
+      "device_support": {
+        "value": "Requires an unlocked, eSIM-compatible device. Homepage lists iPhone XS Max and newer, Samsung Galaxy, Google Pixel and other eSIM-compatible devices; compatibility checker on site.",
+        "source": "https://esim.holafly.com/terms-and-conditions/",
+        "seen": "2026-10-03",
+        "note": "Homepage https://esim.holafly.com/ and Japan page https://esim.holafly.com/esim-japan/"
+      },
+      "network_partners_japan": {
+        "value": "KDDI / Softbank",
+        "source": "https://esim.holafly.com/esim-japan/",
+        "seen": "2026-10-03"
+      },
+      "network_partners_europe": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "Europe page only says 'local network partners in each destination' without naming operators: https://esim.holafly.com/esim-europe/"
+      },
+      "coverage_5g_4g_japan": {
+        "value": "Supports '5G, 4G and LTE' networks",
+        "source": "https://esim.holafly.com/esim-japan/",
+        "seen": "2026-10-03"
+      },
+      "coverage_5g_4g_europe": {
+        "value": "'fast 5G networks where available, as well as 4G and LTE'",
+        "source": "https://esim.holafly.com/esim-europe/",
+        "seen": "2026-10-03",
+        "note": "Europe regional eSIM: 33 countries."
+      },
+      "support_channels": {
+        "value": "24/7 customer support in multiple languages (chat and email per Japan page); WhatsApp +1 661 384 8482; email help@holafly.com; also Instagram, Facebook, website and app.",
+        "source": "https://esim.holafly.com/",
+        "seen": "2026-10-03",
+        "note": "Also https://esim.holafly.com/esim-japan/, https://esim.holafly.com/terms-and-conditions/, https://esim.holafly.com/faq/about-esims/request-holafly-refund/"
+      },
+      "app_required": {
+        "value": {
+          "required": false,
+          "details": "eSIM QR code arrives by purchase email (also WhatsApp, or via website/app); QR scan or manual code installation works without the app. App needed for managing Holafly Plans and receiving SMS on the Plans number."
+        },
+        "source": "https://esim.holafly.com/faq/about-esims/how-do-i-get-an-holafly-esim-with-a-qr-code/",
+        "seen": "2026-10-03"
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://esim.holafly.com/affiliate-program/",
+          "network": null,
+          "commission": null,
+          "cookie_days": null
+        },
+        "source": "https://esim.holafly.com/affiliate-program/",
+        "seen": "2026-10-03",
+        "note": "Official pages (also https://esim.holafly.com/esim-partners/) state only that partners earn commission on every sale and use a tracking platform; no rate, network or cookie published. Third-party aggregators claim 10% / 30-day cookie on Impact/Awin/ShareASale (secondary, unverified, not recorded as value)."
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.7,
+          "review_count": 113706,
+          "date": "2026-10-03"
+        },
+        "source": "https://www.trustpilot.com/review/holafly.com",
+        "seen": "2026-10-03",
+        "note": "Holafly homepage claims '113,575+' reviews; Trustpilot page notes past violations of its guidelines were addressed."
+      }
+    },
+    "saily": {
+      "name": "Saily",
+      "founded_year": {
+        "value": 2023,
+        "source": "https://saily.com/about-us/",
+        "seen": "2026-10-03",
+        "note": "About page timeline: 'November 2023 - The first launch'. This is the launch date; no explicit 'founded' year is stated."
+      },
+      "parent_company": {
+        "value": "Nord Security",
+        "source": "https://saily.com/affiliate/",
+        "seen": "2026-10-03",
+        "note": "'Saily was created by Nord Security, the company behind NordVPN'. Also https://support.saily.com/hc/en-us/articles/21484709818524. ToS contracting entities: Saily UAB (EEA), CyberQuay Pty Ltd (Australia), Saily Inc. (rest of world)."
+      },
+      "hq_country": {
+        "value": "Lithuania",
+        "source": "https://saily.com/legal/terms-of-service/",
+        "seen": "2026-10-03",
+        "note": "No explicit 'headquarters' statement found. ToS lists the EEA contracting entity Saily UAB (code 307208658) with principal business address Svitrigailos str. 36, Vilnius, Lithuania; the rest-of-world entity Saily Inc. is a Delaware corporation with principal address in Chicago, US. Lithuania is inferred from the EEA entity."
+      },
+      "destinations_count": {
+        "value": "200+ destinations",
+        "source": "https://saily.com/about-us/",
+        "seen": "2026-10-03",
+        "note": "Help center says 'over 200 countries and regions' (https://support.saily.com/hc/en-us/articles/21484709818524). The 'Global' plan page states 121 destinations (https://saily.com/esim-global/); Europe regional plan = 35 countries (https://saily.com/esim-europe/); comparison table on site shows '115+' (unclear to what this refers)."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://saily.com/esim-japan/",
+        "seen": "2026-10-03",
+        "note": "e.g. Japan: 1 GB/7 days, 3/5/10/20 GB/30 days. Global 1-20 GB; Europe 1/3/5/10/50 GB."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://saily.com/esim-unlimited-data/",
+        "seen": "2026-10-03",
+        "note": "Unlimited in 62 countries plus Europe and Asia & Oceania regional plans, 5/7/10/15/20/25/30 days depending on plan. Subject to a fair usage policy (see unlimited_fair_use). Plus Ultra monthly subscription (30 GB high-speed + unlimited throttled)."
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://saily.com/esim-global/",
+        "seen": "2026-10-03",
+        "note": "Global plan (121 destinations, 1-20 GB) and regional plans (Europe 35 countries, Asia & Oceania, Africa, Latin America etc.)."
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "Not included in data plans. Optional paid add-on: dedicated US (+1) number, EUR 1.99/month subscription plus call/text plans from EUR 0.99; calls and SMS (no MMS, premium-rate numbers or call forwarding); minute-based; calls supported in 130+ countries; identity verification (KYC) required in app after purchase."
+        },
+        "source": "https://saily.com/esim-phone-number/",
+        "seen": "2026-10-03",
+        "note": "Also https://support.saily.com/hc/en-us/articles/21484709818524. Data-only plans otherwise: calls via VoIP apps."
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "Marketing pages say hotspot sharing is unlimited on all plans. ToS Fair Usage Policy for Unlimited Data Plans prohibits 'excessive tethering or sharing of data via hotspot with multiple devices or users beyond occasional personal use'."
+        },
+        "source": "https://saily.com/esim-unlimited-data/",
+        "seen": "2026-10-03",
+        "note": "CONTRADICTION: marketing 'Unlimited hotspot sharing / share as much as you want' vs ToS https://saily.com/legal/terms-of-service/ (Fair Usage Policy, Prohibited Activities) restricting excessive tethering on Unlimited plans."
+      },
+      "unlimited_fair_use": {
+        "value": "Regular unlimited plans: full-speed allocation per 24-hour period (local midnight to midnight), then reduced to 1 Mbps for the rest of that period; full speed resumes at next reset. Ultra plan: 30 GB full-speed per monthly billing cycle, then 1 Mbps. Saily may also apply traffic shaping/throttling during high demand or in specific locations, and may reduce speeds, remove allowances or disconnect eSIM for misuse. Prohibited: commercial use/resale/groups, bulk M2M, continuous streaming replacing fixed-line, excessive tethering.",
+        "source": "https://saily.com/legal/terms-of-service/",
+        "seen": "2026-10-03",
+        "note": "ToS says the daily full-speed allocation is 3 GB OR 5 GB depending on destination country. Marketing pages (Japan, Europe, unlimited page) state 5 GB/day then 1 Mbps. Verify per-country allocation before claiming 5 GB universally."
+      },
+      "topup": {
+        "value": {
+          "possible": true,
+          "details": "Add data to an existing eSIM via 'Add data' in the Saily app; optional Auto Top-Up that activates a new plan when the current one runs out. New plan activates automatically after the first completes."
+        },
+        "source": "https://support.saily.com/hc/en-us/articles/12823216658204-Can-I-top-up-an-eSIM",
+        "seen": "2026-10-03"
+      },
+      "refund_policy": {
+        "value": "Full refund within 30 days of purchase if the eSIM has not been installed or the data plan not activated; if activated, a partial or full refund may be considered only for quality issues attributable to Saily or if more than 99% of the plan data remains unused.",
+        "source": "https://support.saily.com/hc/en-us/articles/16420576170652-What-is-Saily-s-refund-policy",
+        "seen": "2026-10-03",
+        "note": "ToS (https://saily.com/legal/terms-of-service/) adds: subscription-based plans (e.g. Ultra) full refund only if usage <=5% and request within 14 days; phone-number reservation fees largely non-refundable. ToS non-activated refund text does not repeat the 30-day limit in the section read."
+      },
+      "validity_min_days": {
+        "value": 1,
+        "source": "https://saily.com/esim-europe/",
+        "seen": "2026-10-03",
+        "note": "Europe page technical details list plan durations 1-30 or 90 days. However the fixed plans displayed start at 7 days (1 GB) and the unlimited-data page says unlimited durations are 5/7/10/15/20/25/30 days depending on plan. Treat '1' as the lowest duration stated on any page; shortest fixed plan seen on pricing is 7 days."
+      },
+      "validity_max_days": {
+        "value": 365,
+        "source": "https://saily.com/esim-global/",
+        "seen": "2026-10-03",
+        "note": "Global plan durations 7, 15, 60, 180 or 365 days. Europe up to 90 days; Japan 7 or 30 days (fixed). Ultra is a monthly/quarterly subscription."
+      },
+      "device_support": {
+        "value": "Requires an unlocked, eSIM-compatible device (iPhone XS/XR and newer, many Samsung Galaxy, Pixel and others; device list published). iPhones sold in mainland China do not support eSIM.",
+        "source": "https://saily.com/esim-supported-devices/",
+        "seen": "2026-10-03",
+        "note": "Requirement 'unlocked, eSIM-compatible device' from ToS https://saily.com/legal/terms-of-service/."
+      },
+      "network_partners_japan": {
+        "value": [
+          "KDDI",
+          "SoftBank"
+        ],
+        "source": "https://saily.com/esim-japan/",
+        "seen": "2026-10-03",
+        "note": "'powered by partnerships with local operators including KDDI and SoftBank'."
+      },
+      "network_partners_europe": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "Europe page only says 'the best local network providers in Europe'; no operators named."
+      },
+      "coverage_5g_4g_japan": {
+        "value": "4G/LTE and 5G depending on location and local network quality; 5G across major cities (Tokyo, Kyoto, Osaka); patchier in rural Hokkaido and the Japanese Alps.",
+        "source": "https://saily.com/esim-japan/",
+        "seen": "2026-10-03"
+      },
+      "coverage_5g_4g_europe": {
+        "value": "3G/4G/LTE/5G, depending on local network providers (35 countries).",
+        "source": "https://saily.com/esim-europe/",
+        "seen": "2026-10-03"
+      },
+      "support_channels": {
+        "value": "24/7 (ToS: 365 days a year) via email and in-app chatbot/live chat (login required); help center at support.saily.com.",
+        "source": "https://saily.com/legal/terms-of-service/",
+        "seen": "2026-10-03",
+        "note": "ToS says 'Chatbot: through App (while logged-in)'; Europe page and help center say 24/7 'live chat'; help center says live chat is only accessible via the mobile app. Whether a human agent is available 24/7 vs chatbot first is not clearly stated; Trustpilot reviewers mention chatbot frustration (secondary)."
+      },
+      "app_required": {
+        "value": {
+          "required": null,
+          "details": "Saily's documented flow is app-based: help center says install the eSIM directly from the Saily app; unlimited page says download the app and scan the emailed QR code. Website purchases deliver a QR code by email. Android guide also documents a manual install via SM-DP+/activation code ('View instructions' in the app) as fallback; whether an app-free install is fully supported was not verified."
+        },
+        "source": "https://support.saily.com/hc/en-us/articles/23999871567516-How-to-install-the-Saily-eSIM-on-Android",
+        "seen": "2026-10-03",
+        "note": "Chat support and top-ups also happen inside the app."
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://saily.com/affiliate/",
+          "network": null,
+          "commission": "15% with every new user",
+          "cookie_days": 30
+        },
+        "source": "https://saily.com/affiliate/",
+        "seen": "2026-10-03",
+        "note": "Sign-up at https://affiliates.saily.com/signup (appears to be an in-house/hosted portal; no third-party network named on the page). Cookie: 'If a sale happens within 30 days of a customer visiting Saily, you will still get paid'."
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.7,
+          "review_count": 31841,
+          "date": "2026-10-03"
+        },
+        "source": "https://ie.trustpilot.com/review/saily.com",
+        "seen": "2026-10-03",
+        "note": "Fetched via ie.trustpilot.com (www. blocked with 403). A web-search summary reported 'TrustScore 4.5' and 31,823 reviews; the fetched page showed 4.7 and 31,841. Re-verify manually before publishing. Do not confuse with the '4.7 (97,400+ reviews)' shown on saily.com, which is a different aggregate."
+      }
+    },
+    "nomad": {
+      "name": "Nomad",
+      "founded_year": {
+        "value": 2020,
+        "source": "https://www.nomadesim.com/about/us",
+        "seen": "2026-10-03",
+        "note": "Official wording: \"We were launched in 2020 by LotusFlare, Inc.\" (launch year, not company incorporation)."
+      },
+      "parent_company": {
+        "value": "LotusFlare, Inc.",
+        "source": "https://www.nomadesim.com/about/us",
+        "seen": "2026-10-03",
+        "note": "\"Nomad eSIM is a business line of LotusFlare, Inc.\""
+      },
+      "hq_country": {
+        "value": "United States",
+        "source": "https://www.nomadesim.com/about/us",
+        "seen": "2026-10-03",
+        "note": "\"headquartered in Santa Clara, California\""
+      },
+      "destinations_count": {
+        "value": "200+ destinations",
+        "source": "https://www.nomadesim.com/",
+        "seen": "2026-10-03",
+        "note": "Homepage and About page both say 200+. Home page also says 4G/5G in 'nearly 200 countries'."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://www.nomadesim.com/japan-esim",
+        "seen": "2026-10-03",
+        "note": "e.g. Japan 1/3/5/10/20/50 GB plans."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://www.nomadesim.com/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Unlimited (daily-capped) plans, e.g. Japan 3/7/14/21 days; Europe 5-10 days. Marketed as 'Unlimited' but with a daily high-speed cap, see unlimited_fair_use."
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://www.nomadesim.com/",
+        "seen": "2026-10-03",
+        "note": "Regional eSIMs, Global plans (7-30 days) and Global-EX (180-365 days, up to 82 countries per official global-ex page via search result)."
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "Most Nomad eSIMs are data-only with no phone number; no voice calls or SMS on standard plans. Exceptions per official help center: Thailand (DTAC) plan includes local DTAC calls and IDD; a UK & Maldives calling plan includes phone numbers; separate SMS-only plans exist with a virtual number that can only receive texts (SMS plans seen in US/UK/Canada per search snippet)."
+        },
+        "source": "https://www.nomadesim.com/help-center/en/articles/9886329-do-nomad-esims-come-with-a-phone-number",
+        "seen": "2026-10-03",
+        "note": "Internal inconsistency: article 9886327 (https://www.nomadesim.com/help-center/en/articles/9886327-can-i-make-calls-using-my-nomad-esim) says Thailand/DTAC is the ONLY voice offering, while 9886329 also lists UK & Maldives calling plans (and refund policy mentions 'UK voice Plans'). Keep home SIM for calls via dual SIM."
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "Nomad eSIMs support tethering; no plan-level restriction stated. Stability may vary by device and local network and Nomad 'cannot guarantee hotspot functionality' in rare cases."
+        },
+        "source": "https://www.nomadesim.com/help-center/en/articles/9886336-hotspot-tethering-on-nomad-esim",
+        "seen": "2026-10-03",
+        "note": "The unlimited-plan FUP page does not mention hotspot; not verified whether unlimited plans restrict tethering."
+      },
+      "unlimited_fair_use": {
+        "value": "Unlimited plans have a 2 GB per day high-speed allowance (resets every 24h from activation); after that speed is throttled for the rest of the day/up to 24h.",
+        "source": "https://www.nomadesim.com/documents/data-plan-detail-unlimited",
+        "seen": "2026-10-03",
+        "note": "CONTRADICTION in official sources: FUP document says 'throttled to 512 kbps' (also Day Plans blog: 512kbps, https://www.nomadesim.com/blog/nomad-day-plans-unlimited-data, which lists 500MB to 3GB per day options in 18 destinations), whereas help-center article https://www.nomadesim.com/help-center/en/articles/12980538-nomad-esim-s-unlimited-data-plans says throttled speed is 'approximately 1 Mbps or 2 Mbps' depending on plan. The daily high-speed cap varies by plan (day plans 500MB-3GB). Present as 'daily high-speed cap then throttled', not truly unlimited."
+      },
+      "topup": {
+        "value": {
+          "possible": true,
+          "details": "Add-ons can be bought for an existing eSIM without installing a new one; they activate automatically once the base plan's data is used up or it expires. Add-ons do not extend the base plan's validity. Not supported for some eSIMs; cannot be purchased in UAE or India (per help-center search snippet)."
+        },
+        "source": "https://www.nomadesim.com/help-center/en/articles/11744232-how-nomad-add-ons-work",
+        "seen": "2026-10-03",
+        "note": "UAE/India and 'not supported for some eSIMs' limitation from https://www.nomadesim.com/help-center/en/articles/9886340-how-can-i-add-more-data-to-my-nomad-esim (seen via search snippet only). Add-ons for unlimited plans not addressed."
+      },
+      "refund_policy": {
+        "value": "Refund requests must be made within 30 days of purchase; plans not installed/activated are fully refundable, while activated plans only qualify for a partial refund of unused data if usage is low and a network/technical failure is verified; unlimited plans, DTAC Thailand plans and UK voice plans are excluded from this policy, and discount-code plans are non-refundable once installed or activated.",
+        "source": "https://www.nomadesim.com/documents/nomad-data-plans-refund-policy",
+        "seen": "2026-10-03",
+        "note": "Refunds go to original payment method or Nomad Points (per help-center article https://www.nomadesim.com/help-center/en/articles/9886352-nomad-esim-s-refund-policy, via search snippet)."
+      },
+      "validity_min_days": {
+        "value": 3,
+        "source": "https://www.nomadesim.com/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Lowest validity actually observed: Japan unlimited 3-day plan. 1GB plan is 7 days. A 1-day plan was NOT verified; shortest may be lower in other destinations."
+      },
+      "validity_max_days": {
+        "value": 365,
+        "source": "https://www.nomadesim.com/shop",
+        "seen": "2026-10-03",
+        "note": "Global-EX plans, 365 days. Must be activated within 60 days of purchase (https://www.nomadesim.com/japan-esim)."
+      },
+      "device_support": {
+        "value": "Requires an eSIM-compatible device (iPhone XR/XS and newer, Pixel, Samsung Galaxy S20+ and Fold/Flip, Motorola, Xiaomi, OnePlus, Oppo, Sony and others per official list). Official page states 'Unlocked' means carrier-free but eSIM still needs specific hardware; devices from mainland China, Hong Kong, Taiwan and some carrier-locked US models generally lack eSIM. Blog states phone must be carrier-unlocked.",
+        "source": "https://www.nomadesim.com/shop/support_device",
+        "seen": "2026-10-03",
+        "note": "Carrier-unlock requirement from Nomad blog https://www.nomadesim.com/blog/iphone-esim-compatibility (via search snippet)."
+      },
+      "network_partners_japan": {
+        "value": "KDDI au / SoftBank",
+        "source": "https://www.nomadesim.com/japan-esim",
+        "seen": "2026-10-03"
+      },
+      "network_partners_europe": {
+        "value": "EE / Tango / Orange / Vodafone / Hutchison 3G / GO / O2 / Siminn and others (varies by country)",
+        "source": "https://www.nomadesim.com/europe-esim",
+        "seen": "2026-10-03",
+        "note": "Europe page states 35-36 European countries covered."
+      },
+      "coverage_5g_4g_japan": {
+        "value": "Marketing page: 'blazing-fast 5G, 4G connectivity'. Help center on unlimited plans: 'access to either 5G or 4G networks based on local network availability'.",
+        "source": "https://www.nomadesim.com/japan-esim",
+        "seen": "2026-10-03"
+      },
+      "coverage_5g_4g_europe": {
+        "value": "Marketing page: 'blazing-fast 5G, 4G connectivity'; per help center, 5G or 4G depending on local network availability.",
+        "source": "https://www.nomadesim.com/europe-esim",
+        "seen": "2026-10-03"
+      },
+      "support_channels": {
+        "value": "In-app chat (iOS/Android) and website chat; stated available 24/7 with first response within an hour; email also listed on homepage (live chat and email).",
+        "source": "https://www.nomadesim.com/documents/app-hours-of-operation",
+        "seen": "2026-10-03",
+        "note": "Help-center contact article https://www.nomadesim.com/help-center/en/articles/9886385-how-do-you-contact-us lists only in-app chat and website chat. Email addresses (support@getnomad.app) came from search snippet only, not verified on page."
+      },
+      "app_required": {
+        "value": {
+          "required": false,
+          "details": "Install via QR code or manual SM-DP+ address/activation code sent by email, using the phone's cellular settings. App is offered for purchase/management/top-up (one-tap install), but no page found that states it is mandatory."
+        },
+        "source": "https://www.nomadesim.com/help-center/en/articles/13097597-manually-install-and-troubleshoot-nomad-esim-on-ios-and-android-devices",
+        "seen": "2026-10-03",
+        "note": "No explicit official sentence 'app not required' found; inferred from official QR/manual install instructions. Whether purchase works fully on web not explicitly confirmed."
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://www.nomadesim.com/about/partner",
+          "network": "Impact.com",
+          "commission": "Standard rate begins at 10% per successful purchase, with higher tiers possible",
+          "cookie_days": 30
+        },
+        "source": "https://www.nomadesim.com/about/partner",
+        "seen": "2026-10-03",
+        "note": "Sign-up: https://app.impact.com/campaign-campaign-info-v2/Nomad-eSIM.brand. 'Referrals are tracked for 30 days from initial click.'"
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.3,
+          "review_count": 44835,
+          "date": "2026-10-03"
+        },
+        "source": "https://www.trustpilot.com/review/getnomad.app",
+        "seen": "2026-10-03"
+      }
+    },
+    "ubigi": {
+      "name": "Ubigi",
+      "founded_year": {
+        "value": 2017,
+        "source": "https://www.ubigi.com/en/about-us",
+        "seen": "2026-10-03",
+        "note": "Page says 'a pioneer and market leader in eSIM since 2017'. Japan Today (secondary) says Ubigi launched by Transatel in 2017."
+      },
+      "parent_company": {
+        "value": "Transatel (member of NTT Group)",
+        "source": "https://www.ubigi.com/en/about-us",
+        "seen": "2026-10-03",
+        "note": "Ubigi is Transatel's brand for worldwide cellular connectivity; Transatel is part of NTT Group."
+      },
+      "hq_country": {
+        "value": "France",
+        "source": "https://www.ubigi.com/en/about-us",
+        "seen": "2026-10-03",
+        "note": "Page content indicated Paris-based; extracted via summarizer, not an explicit 'headquartered in' quote."
+      },
+      "destinations_count": {
+        "value": "200+ destinations (limited-data plans); 90+ destinations for unlimited plans",
+        "source": "https://cellulardata.ubigi.com/unlimited-esim-data-plans/",
+        "seen": "2026-10-03",
+        "note": "Homepage https://cellulardata.ubigi.com/ states '200+ destinations'. Unlimited page states 90+ vs 200+."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/japan-data-plans/japan-5gb-15-days/",
+        "seen": "2026-10-03",
+        "note": "e.g. Japan 5GB 15 days."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://cellulardata.ubigi.com/unlimited-esim-data-plans/",
+        "seen": "2026-10-03",
+        "note": "Subject to fair-use policy, see unlimited_fair_use."
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://cellulardata.ubigi.com/",
+        "seen": "2026-10-03",
+        "note": "Regional, local (country) and World plans listed; e.g. https://cellulardata.ubigi.com/rates-and-coverage/world-data-plans/world-1gb-30-days/ and Europe plans."
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "Data-only; no phone number, no standard calls/SMS. Use VoIP apps (WhatsApp, FaceTime etc.). iPhone users can keep home carrier line for calls/SMS (charged by home carrier)."
+        },
+        "source": "https://cellulardata.ubigi.com/help-center/assistance/can-you-make-phone-calls-with-ubigi-esim-data-plans/",
+        "seen": "2026-10-03"
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "No restrictions stated; tethering instructions given for iOS/Android (Wi-Fi, USB, Bluetooth). Device must support the feature. Unlimited plans page: 'Tethering allowed with no restrictions'; plan pages: 'Data sharing allowed'."
+        },
+        "source": "https://cellulardata.ubigi.com/help-center/faq/ubigi-esim-service/tether-your-connection/",
+        "seen": "2026-10-03"
+      },
+      "unlimited_fair_use": {
+        "value": "Unlimited plans include 60GB of full-speed data, then speed is optimized (reduced) to 2 Mbps for the rest of the plan period.",
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/japan-data-plans/japan-unlimited/",
+        "seen": "2026-10-03",
+        "note": "Same wording on Europe Unlimited page (https://cellulardata.ubigi.com/rates-and-coverage/europe-data-plans/europe-unlimited/). Unlimited-plans page says 'thresholds vary by destination and plan type', so 60GB confirmed only for Japan and Europe monthly plans; short-duration unlimited plans (e.g. 8/15 days) not checked for their threshold."
+      },
+      "topup": {
+        "value": {
+          "possible": true,
+          "details": "Recharge via Ubigi app or ubigi.me; works at any time even without Wi-Fi or a valid data plan; no new QR code needed for in-app recharges. Account must be created and eSIM linked."
+        },
+        "source": "https://cellulardata.ubigi.com/help-center/faq/ubigi-esim-service/data-plan-activated-after-recharge-in-app-without-qr-code/",
+        "seen": "2026-10-03",
+        "note": "Profile validity: unlimited as long as a prepaid plan is topped up at least once every 18 months, else terminated (https://cellulardata.ubigi.com/help-center/assistance/does-my-ubigi-esim-profile-expires-or-have-a-validity-period/)."
+      },
+      "refund_policy": {
+        "value": "Refund only possible if none of the purchased data plan has been used, requested within 14 business days of purchase (processed within 10 business days), except proven technical issues that Ubigi is responsible for.",
+        "source": "https://cellulardata.ubigi.com/help-center/assistance/i-did-not-use-my-plan-can-i-get-a-refund/",
+        "seen": "2026-10-03",
+        "note": "Preloaded QR-code plans stay valid 6 months from purchase (page statement)."
+      },
+      "validity_min_days": {
+        "value": 1,
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/japan-data-plans/",
+        "seen": "2026-10-03",
+        "note": "1-day 500MB Japan plan at $2.50 seen in search-result snippet from cellulardata.ubigi.com; the individual plan page was not fetched directly."
+      },
+      "validity_max_days": {
+        "value": 365,
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/japan-data-plans/japan-5gb-month-x12/",
+        "seen": "2026-10-03",
+        "note": "Plan page states 12 months validity with monthly 5GB renewal (stored as 365 days). Monthly auto-renewing unlimited plans also exist (cancellation after 3 months)."
+      },
+      "device_support": {
+        "value": "All Apple and Android smartphones and tablets with eSIM, plus LTE Windows 10/11 laptops. Device must be eSIM-capable and carrier-unlocked.",
+        "source": "https://cellulardata.ubigi.com/help-center/faq/esim-data-plan/which-mobile-devices-support-ubigi-esim-2/",
+        "seen": "2026-10-03"
+      },
+      "network_partners_japan": {
+        "value": [
+          "NTT Docomo",
+          "KDDI"
+        ],
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/japan-data-plans/japan-unlimited/",
+        "seen": "2026-10-03"
+      },
+      "network_partners_europe": {
+        "value": "Per-country, e.g. France: Orange, Bouygues Telecom, Free Mobile, SFR; Germany: O2; Spain: Orange Spain; Italy: WindTre, Iliad; UK: EE, Three (partial list as shown on page)",
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/europe-data-plans/europe-unlimited/",
+        "seen": "2026-10-03",
+        "note": "Operators vary by country; list is not exhaustive."
+      },
+      "coverage_5g_4g_japan": {
+        "value": "5G and 4G supported (no 3G); 5G badge shown on plan page.",
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/japan-data-plans/japan-5gb-month-x12/",
+        "seen": "2026-10-03"
+      },
+      "coverage_5g_4g_europe": {
+        "value": "5G/4G/3G availability varies by country; some countries show 'No 5G' (e.g. Moldova, Ukraine).",
+        "source": "https://cellulardata.ubigi.com/rates-and-coverage/europe-data-plans/europe-unlimited/",
+        "seen": "2026-10-03",
+        "note": "Europe unlimited page lists 28+ destinations ('EU28 Plus'); other Europe plan pages list 40+ countries per a search snippet, so country count differs by plan."
+      },
+      "support_channels": {
+        "value": "Contact form (recommended, goes to support specialists), chat on website/help pages (automated workflows, can escalate to support team), WhatsApp AI assistant 'Ubi' (cannot access account). No hours or 24/7 stated.",
+        "source": "https://cellulardata.ubigi.com/help-center/assistance/how-to-contact-ubigi-customer-support/",
+        "seen": "2026-10-03"
+      },
+      "app_required": {
+        "value": {
+          "required": false,
+          "details": "Purchase on website and install via emailed QR code; app optional (needed for in-app purchases/top-up; account can also be linked via email 'Sign up' and recharged via ubigi.me)."
+        },
+        "source": "https://cellulardata.ubigi.com/help-center/faq/ubigi-esim-service/how-to-get-and-use-ubigi/",
+        "seen": "2026-10-03"
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://cellulardata.ubigi.com/pro/what-is-the-ubigi-affiliate-program/",
+          "network": "Impact",
+          "commission": null,
+          "cookie_days": null
+        },
+        "source": "https://cellulardata.ubigi.com/pro/what-is-the-ubigi-affiliate-program/",
+        "seen": "2026-10-03",
+        "note": "Official page names the Impact affiliate platform and gives affiliates@ubigi.com; no commission rate or cookie length published. CONTRADICTION: third-party search results claim 10%/15% commission, 60-day cookie and Effinity/Kwanko networks; these are unverified and not on the official page."
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.1,
+          "review_count": 47433,
+          "date": "2026-10-03"
+        },
+        "source": "https://www.trustpilot.com/review/ubigi.com",
+        "seen": "2026-10-03"
+      }
+    },
+    "yesim": {
+      "name": "Yesim",
+      "founded_year": {
+        "value": 2019,
+        "source": "https://yesim.app/",
+        "seen": "2026-10-03",
+        "note": "Inferred from site footer copyright '© 2019 - 2026'; no official page states 'founded in 2019' explicitly. Treat as approximate."
+      },
+      "parent_company": {
+        "value": "Genesis Group AG (CHE-135.623.633)",
+        "source": "https://yesim.app/terms-of-service/",
+        "seen": "2026-10-03",
+        "note": "Terms of Service name GENESIS GROUP AG as the service entity. Help center (help.yesim.tech/what-makes-yesim-different-from-other-esim-providers/) describes Yesim as 'Switzerland and Latvia-headquartered'."
+      },
+      "hq_country": {
+        "value": "Switzerland",
+        "source": "https://yesim.app/terms-of-service/",
+        "seen": "2026-10-03",
+        "note": "Registered address Bahnhofstrasse 4, 6340 Baar, Switzerland. Help center also mentions Latvia."
+      },
+      "destinations_count": {
+        "value": "170+ countries (Pay & Fly eSIM); 200+ destinations (help center); Annual Global Unlim Day Pass: 82 countries; Europe & UK regional eSIM: 33 countries",
+        "source": "https://yesim.app/pay-and-fly-esim/",
+        "seen": "2026-10-03",
+        "note": "Provider states different numbers per product. 200+ from https://help.yesim.tech/what-makes-yesim-different-from-other-esim-providers/ ; 82 from https://help.yesim.tech/annual-global-unlim-day-pass-how-does-it-work/ (via search snippet); 33 from https://yesim.app/regions/europe-esim/."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03",
+        "note": "Data sizes 'From 500 MB to unlimited data and pay-as-you-go mobile plans'."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03"
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://yesim.app/regions/",
+        "seen": "2026-10-03",
+        "note": "Regional pages (e.g. Europe & UK, Balkans) and global pages (https://yesim.app/global/, Pay & Fly, Annual Global Unlim Day Pass) exist."
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "eSIM is data-only: ToS says 'Voice calls, SMS and MMS cannot be made or received through the eSIM itself.' Separate optional virtual phone numbers exist but 'can be used for inbound messages only'; calls not currently supported."
+        },
+        "source": "https://yesim.app/terms-of-service/",
+        "seen": "2026-10-03",
+        "note": "Virtual number statement from https://help.yesim.tech/can-i-make-or-receive-calls-with-my-virtual-number/ . Whether a virtual number is bundled with a data plan not stated."
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "Japan page: 'Hotspot: Available'. Pay & Fly page: share eSIM data with other devices. Europe page: hotspot availability 'depends on operator'. Help center claims hotspot works 'even on unlimited packages'."
+        },
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03",
+        "note": "Conditions vary by destination/operator. Other sources: https://yesim.app/regions/europe-esim/ ; https://help.yesim.tech/what-makes-yesim-different-from-other-esim-providers/ ; https://yesim.app/pay-and-fly-esim/. Terms of Service do not address hotspot."
+      },
+      "unlimited_fair_use": {
+        "value": "Yesim states it 'itself does not enforce a Fair Usage Policy', but partner providers may apply their own FUP; if limits are exceeded 'the operator might reduce the network speed'. No numeric thresholds published on the policy page; no overage charges. Destination pages say speed is throttled after daily usage limits are reached.",
+        "source": "https://help.yesim.tech/unlimited-data-plans-policy/",
+        "seen": "2026-10-03",
+        "note": "Destination pages (https://yesim.app/country/japan/, https://yesim.app/regions/europe-esim/) reference operator Fair Usage Policy / daily limits. ToS also say excessive data use, 'determined at YESIM's sole discretion', is abuse of usage privileges (https://yesim.app/terms-of-service/). Secondary sources (esim-urlaub.de, hypermobile.eu, thetraveler.org; not verified against official pages) claim ~5 GB/day or 50 GB caps on some unlimited plans; NOT confirmed by official pages, so not recorded as fact."
+      },
+      "topup": {
+        "value": {
+          "possible": true,
+          "details": "Pay & Fly: 'Top up anytime, auto top-up available'. Help center: 'you can buy additional data at any time from our app or website'. Destination pages (Japan, Europe) say 'Balance top-up' is 'Available automatically if the subscription is active' (Japan page also says 'Not available' for standard plans)."
+        },
+        "source": "https://yesim.app/pay-and-fly-esim/",
+        "seen": "2026-10-03",
+        "note": "Contradictory wording on destination pages; top-up appears to depend on plan type. Additional source: https://help.yesim.tech/how-do-i-purchase-a-yesim-data-plan/ ; https://yesim.app/country/japan/"
+      },
+      "refund_policy": {
+        "value": "A refund can be requested within 30 calendar days of purchase only if the plan has not been activated, used or expired; used data is not refunded, refunds of EUR 10 or less are issued as Ycoins, and requests are processed within 15 business days.",
+        "source": "https://yesim.app/refund-policy/",
+        "seen": "2026-10-03",
+        "note": "Technical-issue refunds require notification 'strictly within 1 hour of the issue occurring'."
+      },
+      "validity_min_days": {
+        "value": 1,
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03",
+        "note": "'From 1 to 365 days, depending on the selected plan'. Pay & Fly wallet balance 'never expires'."
+      },
+      "validity_max_days": {
+        "value": 365,
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03",
+        "note": "Same Europe wording at https://yesim.app/regions/europe-esim/ (activation required within 180 days of purchase there)."
+      },
+      "device_support": {
+        "value": "eSIM-capable, carrier-unlocked device. iPhone XR through iPhone 17 series (not offered for China mainland iPhones); Samsung Galaxy S20+, Pixel 3+, and various Motorola, OnePlus, Sony, Xiaomi models. Laptops/PCs not supported.",
+        "source": "https://help.yesim.tech/which-mobile-phones-support-esim/",
+        "seen": "2026-10-03",
+        "note": "Homepage suggests checking via *#06# (EID)."
+      },
+      "network_partners_japan": {
+        "value": "NTT Docomo, SoftBank, KDDI (named as 'top local mobile internet providers')",
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03",
+        "note": "Page does not state which of these a given plan actually uses; operator depends on plan/provider."
+      },
+      "network_partners_europe": {
+        "value": "Vodafone, Orange, T-Mobile ('including')",
+        "source": "https://yesim.app/regions/europe-esim/",
+        "seen": "2026-10-03",
+        "note": "'specific operator details vary by location'."
+      },
+      "coverage_5g_4g_japan": {
+        "value": "'3G, 4G, LTE, or 5G, depending on the mobile data provider and location.'",
+        "source": "https://yesim.app/country/japan/",
+        "seen": "2026-10-03"
+      },
+      "coverage_5g_4g_europe": {
+        "value": "'3G, 4G, LTE, or 5G, depending on the mobile data provider and location.'",
+        "source": "https://yesim.app/regions/europe-esim/",
+        "seen": "2026-10-03"
+      },
+      "support_channels": {
+        "value": "'24/7 Support' with 'Average response time - just 5 minutes' (in-app contact); email support@yesim.app and info@yesim.app; Help Center at help.yesim.tech",
+        "source": "https://yesim.app/",
+        "seen": "2026-10-03",
+        "note": "Email addresses from https://yesim.app/terms-of-service/ (support@) and https://yesim.app/refund-policy/ (info@). Whether 24/7 is live chat vs. in-app ticket is not specified."
+      },
+      "app_required": {
+        "value": {
+          "required": false,
+          "details": "A QR code is sent after purchase and the eSIM can be installed from it; purchases can be made on the website or app. Homepage lists the Yesim app (iOS/Google Play) and ToS say the YESIM Application and Services require an active internet connection for installation/activation. An explicit 'app not required' statement was not found."
+        },
+        "source": "https://help.yesim.tech/how-do-i-purchase-a-yesim-data-plan/",
+        "seen": "2026-10-03",
+        "note": "Inference: QR install appears possible; purchase flow on help page describes logging into an account. Treat 'required: false' as moderately confident, not an explicit provider claim."
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://yesim.app/affiliate-program/",
+          "network": null,
+          "commission": "Default base commission 10% for first purchase, 10% for second purchase, 10% for recurring purchases; customizable by partner volume/performance. Instant payouts from EUR 100.",
+          "cookie_days": null
+        },
+        "source": "https://yesim.app/affiliate-program/",
+        "seen": "2026-10-03",
+        "note": "In-house program with partner-ID tracking cookies; third-party network not named and cookie duration not stated on the page. Contact: affiliate@yesim.app (from search snippet). Separate user referral program: https://yesim.app/referral-program/"
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.3,
+          "review_count": 2967,
+          "date": "2026-10-03"
+        },
+        "source": "https://www.trustpilot.com/review/yesim.app",
+        "seen": "2026-10-03",
+        "note": "Fetched via summarizing tool; count rounded in page text to ~3,000."
+      }
+    },
+    "jetpac": {
+      "name": "Jetpac",
+      "official_domain": {
+        "value": "jetpacglobal.com",
+        "source": "https://www.jetpacglobal.com/",
+        "seen": "2026-10-03",
+        "note": "jetpac.com is a parked easyDNS domain and jetpacapp.com is a Squarespace 'coming soon' page; the real site is jetpacglobal.com (shop.jetpacglobal.com for checkout)."
+      },
+      "founded_year": {
+        "value": 2022,
+        "source": "https://circles.co/in-the-loop/circles-accelerates-globally-launches-saas-business-in-americas-spins-off-jetpac-esim-business-appoints-new-leaders",
+        "seen": "2026-10-03",
+        "note": "Quote: 'Launched in 2022, Jetpac was created to address critical gaps in travel connectivity.' Launch year of the Jetpac eSIM business, per parent Circles press release; jetpacglobal.com/aboutus gives no year."
+      },
+      "parent_company": {
+        "value": "Circles (Circles Asia Pte. Ltd.); selling entity Jetpac (Circles Global) Pte. Ltd.",
+        "source": "https://content.jetpacglobal.com/policy/JetpacT&Cs.pdf",
+        "seen": "2026-10-03",
+        "note": "T&Cs: services by 'Jetpac (Circles Global) Pte. Ltd.'; footnote calls Circles Asia Pte. Ltd. 'our parent company'; before 1 Mar 2024 the seller was Liberty Wireless Pte. Ltd. (another Circles subsidiary). The about page (https://www.jetpacglobal.com/aboutus/) describes Circles as parent. Circles press release says Jetpac is 'being spun off as a high-growth venture under Circles' with a KDDI partnership (announced Dec 2024 per search snippet; date not verified on the page itself), so current ownership structure is unclear."
+      },
+      "hq_country": {
+        "value": "Singapore",
+        "source": "https://www.jetpacglobal.com/aboutus/",
+        "seen": "2026-10-03",
+        "note": "Page quote: 'Originating from sunny Singapore'. Entities are Singapore Pte. Ltd. companies."
+      },
+      "destinations_count": {
+        "value": "200+",
+        "source": "https://www.jetpacglobal.com/destinations",
+        "seen": "2026-10-03",
+        "note": "Quote: '1 eSIM, 200+ destinations'."
+      },
+      "plan_fixed_data": {
+        "value": true,
+        "source": "https://www.jetpacglobal.com/product-details/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Per-GB options e.g. 5GB to 40GB on the Japan page; 'Choose per GB' on the Global page."
+      },
+      "plan_unlimited": {
+        "value": true,
+        "source": "https://www.jetpacglobal.com/product-details/global-esim",
+        "seen": "2026-10-03",
+        "note": "'Unlimited packs'; Global unlimited USD 174 for 30 days; Japan unlimited USD 65.99 for 30 days (prices as shown at fetch time)."
+      },
+      "plan_regional_global": {
+        "value": true,
+        "source": "https://www.jetpacglobal.com/product-details/global-esim",
+        "seen": "2026-10-03",
+        "note": "Global eSIM plus regional products (Europe, Southeast Asia, North America, Africa) listed on the homepage."
+      },
+      "phone_number_calls_sms": {
+        "value": {
+          "included": false,
+          "details": "Data roaming only, no SMS. Voice calling is a separate add-on pack (from USD 1.99 for 5 minutes; voice packs for 50+ countries per homepage). Japan page: dual-SIM, keeps your original number."
+        },
+        "source": "https://www.jetpacglobal.com/product-details/global-esim",
+        "seen": "2026-10-03"
+      },
+      "hotspot": {
+        "value": {
+          "allowed": true,
+          "conditions": "Page says 'Hotspot Sharing - Share your internet freely, no data limits, no restrictions.' The Japan page also says hotspot sharing with no restrictions."
+        },
+        "source": "https://www.jetpacglobal.com/product-details/global-esim",
+        "seen": "2026-10-03"
+      },
+      "unlimited_fair_use": {
+        "value": "Japan and Europe product pages: 'First 3 GB every 24 hours at standard network speeds. After 3 GB, stay connected at up to 1 Mbps' until the 24-hour cycle refreshes. Separately, the T&Cs contain a general Fair Usage Policy covering abuse (spam, violating operator rules, etc.), with no numeric cap.",
+        "source": "https://www.jetpacglobal.com/product-details/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Extracted via a page summarizer: the 3 GB/24h then 1 Mbps wording appears on the Japan and Europe pages, but it is not certain whether it applies only to the Unlimited pack or to all packs. Verify manually before publishing. The Global page markets 'Unlimited GB' and 'unlimited hotspot' without stating a cap in the fetched text. Secondary source for the same figures: none checked. T&Cs FUP: https://content.jetpacglobal.com/policy/JetpacT&Cs.pdf"
+      },
+      "topup": {
+        "value": {
+          "possible": true,
+          "details": "Page says users can 'top up on the go' and 'extend your eSIM with the Jetpac website or app'."
+        },
+        "source": "https://www.jetpacglobal.com/product-details/global-esim",
+        "seen": "2026-10-03"
+      },
+      "refund_policy": {
+        "value": "Once an eSIM is installed it is considered used and not refundable, except that a refund or replacement can be requested within 30 days of purchase if the eSIM cannot be installed/used due to a technical problem that support cannot fix (not for incompatible phones); a separate 'Moneyback Guarantee' clause promises up to 100% refund for incompatible device or inability to connect to a local network, claimable from purchase until 15 days after validity expiry, after support fails to fix it.",
+        "source": "https://content.jetpacglobal.com/policy/JetpacT&Cs.pdf",
+        "seen": "2026-10-03",
+        "note": "Two clauses in the T&Cs overlap (30 days vs up to 15 days after validity expiry); the Moneyback clause says 'Notwithstanding anything to the contrary'. No refund for unused data after validity expires. Read directly from the T&Cs PDF text."
+      },
+      "validity_min_days": {
+        "value": 1,
+        "source": "https://www.jetpacglobal.com/product-details/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Japan page lists 1, 4, 7 or 30 day validity. Other destinations may differ."
+      },
+      "validity_max_days": {
+        "value": 365,
+        "source": "https://www.jetpacglobal.com/product-details/global-esim",
+        "seen": "2026-10-03",
+        "note": "Global page lists 365, 180, 30 and 4 days (e.g. 50GB for 365 days). Unused purchased plans remain installable/valid for 3 months from purchase per homepage and Japan page."
+      },
+      "device_support": {
+        "value": "Only carrier-unlocked devices with built-in eSIM. Listed brands: Apple, Google Pixel, Samsung, Hammer, Huawei, Honor, Motorola, OnePlus, Nokia, Rakuten, OPPO, Vivo, Xiaomi, Sharp AQUOS, ASUS, Realme (phones, tablets, laptops). Excludes e.g. iPhones from Mainland China and most devices from Hong Kong/Macao.",
+        "source": "https://www.jetpacglobal.com/esim-compatible-phones-devices",
+        "seen": "2026-10-03",
+        "note": "T&Cs state it is the customer's responsibility to ensure eSIM compatibility and network-unlocked status."
+      },
+      "network_partners_japan": {
+        "value": [
+          "SoftBank",
+          "KDDI"
+        ],
+        "source": "https://www.jetpacglobal.com/",
+        "seen": "2026-10-03",
+        "note": "Homepage names partner operators generally (Vodafone, AT&T, SoftBank, Verizon, SK Telecom, KDDI, Telstra) without a per-country mapping; SoftBank and KDDI are the Japanese operators in that list. The Japan product page itself says only 'automatic network selection'. Mapping is therefore an inference; treat as medium confidence."
+      },
+      "network_partners_europe": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "Homepage generic list includes Vodafone but the Europe page names no operators in the fetched text."
+      },
+      "coverage_5g_4g_japan": {
+        "value": "4G/5G connectivity with automatic network selection",
+        "source": "https://www.jetpacglobal.com/product-details/japan-esim",
+        "seen": "2026-10-03",
+        "note": "Homepage generic: 'LTE/4G connections and in certain places, 5G.'"
+      },
+      "coverage_5g_4g_europe": {
+        "value": null,
+        "source": null,
+        "seen": null,
+        "note": "Europe page fetched text has no 4G/5G statement; only the generic homepage line 'LTE/4G connections and in certain places, 5G' exists (https://www.jetpacglobal.com/)."
+      },
+      "support_channels": {
+        "value": "24/7 contact team (Customer Happiness), in-app chat, email/contact form (https://www.jetpacglobal.com/contact-us/), Zendesk help center",
+        "source": "https://www.jetpacglobal.com/",
+        "seen": "2026-10-03",
+        "note": "App chat with Customer Happiness team also stated in T&Cs. A search-result snippet mentioned WhatsApp support but this was not verified on an official page, so it is excluded."
+      },
+      "app_required": {
+        "value": {
+          "required": false,
+          "details": "Japan page: 'Install via QR code before traveling; activate upon arrival'. App and website can both be used to buy and manage/extend; T&Cs say the app is for balance/usage/receipt/chat 'in certain countries'."
+        },
+        "source": "https://www.jetpacglobal.com/product-details/japan-esim",
+        "seen": "2026-10-03"
+      },
+      "affiliate_program": {
+        "value": {
+          "url": "https://www.jetpacglobal.com/affiliates",
+          "network": null,
+          "commission": "Earn up to 15% commission per Jetpac sold",
+          "cookie_days": null
+        },
+        "source": "https://www.jetpacglobal.com/affiliates",
+        "seen": "2026-10-03",
+        "note": "Page does not name an affiliate network or cookie duration in the fetched text; also lists perks (free eSIM, free flights, event invites)."
+      },
+      "trustpilot": {
+        "value": {
+          "rating": 4.7,
+          "review_count": 3535,
+          "date": "2026-10-03"
+        },
+        "source": "https://www.trustpilot.com/review/jetpacglobal.com",
+        "seen": "2026-10-03",
+        "note": "Official site pages still quote older figures (4.8/1000+ on the Japan page)."
+      }
+    }
+  }
+}

@@ -45,6 +45,10 @@ export function GET() {
     lines.push("");
   }
 
+  lines.push("## Data");
+  lines.push(`- [eSIM price spread by destination](${absoluteUrl("/esim-price-spread")}): cheapest vs most expensive provider per GB, same destination (free to cite).`);
+  lines.push("");
+
   lines.push("## About");
   lines.push(`- [How we rank (methodology)](${absoluteUrl("/methodology")})`);
   lines.push(`- [Affiliate disclosure](${absoluteUrl("/affiliate-disclosure")})`);
