@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T11:37:55.822Z",
+  "generated_at": "2026-10-07T20:46:16.857Z",
   "items": [
     {
       "provider": "airalo",
       "slug": "albania",
       "source_url": "https://www.airalo.com/api/v4/countries/albania",
-      "fetched_at": "2026-10-04T11:00:11.701Z",
+      "fetched_at": "2026-10-07T20:34:44.743Z",
       "currency": "USD",
       "plans": [
         {
@@ -150,7 +150,7 @@
       "provider": "holafly",
       "slug": "albania",
       "source_url": "https://esim.holafly.com/esim-albania/",
-      "fetched_at": "2026-10-04T11:01:36.055Z",
+      "fetched_at": "2026-10-07T20:36:51.412Z",
       "currency": "USD",
       "plans": [
         {
@@ -328,7 +328,7 @@
       "provider": "ubigi",
       "slug": "albania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=alb&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:16.608Z",
+      "fetched_at": "2026-10-07T20:41:34.702Z",
       "currency": "USD",
       "plans": [
         {
@@ -393,7 +393,7 @@
       "provider": "yesim",
       "slug": "albania",
       "source_url": "https://yesim.app/country/albania/",
-      "fetched_at": "2026-10-04T11:05:13.723Z",
+      "fetched_at": "2026-10-07T20:45:03.882Z",
       "currency": "USD",
       "plans": [
         {
@@ -514,7 +514,7 @@
       "provider": "airalo",
       "slug": "argentina",
       "source_url": "https://www.airalo.com/api/v4/countries/argentina",
-      "fetched_at": "2026-10-04T11:00:47.611Z",
+      "fetched_at": "2026-10-07T20:35:21.676Z",
       "currency": "USD",
       "plans": [
         {
@@ -643,7 +643,7 @@
       "provider": "holafly",
       "slug": "argentina",
       "source_url": "https://esim.holafly.com/esim-argentina/",
-      "fetched_at": "2026-10-04T11:02:06.770Z",
+      "fetched_at": "2026-10-07T20:37:21.963Z",
       "currency": "USD",
       "plans": [
         {
@@ -666,7 +666,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.5,
           "plan_name": null,
           "network": null
         },
@@ -674,7 +674,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 35.9,
+          "price": 36.9,
           "plan_name": null,
           "network": null
         },
@@ -682,7 +682,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.9,
           "plan_name": null,
           "network": null
         },
@@ -690,7 +690,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.9,
+          "price": 49.5,
           "plan_name": null,
           "network": null
         },
@@ -698,7 +698,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -706,7 +706,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.5,
           "plan_name": null,
           "network": null
         },
@@ -714,7 +714,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 89.5,
+          "price": 91.5,
           "plan_name": null,
           "network": null
         },
@@ -722,7 +722,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 155.5,
+          "price": 157.9,
           "plan_name": null,
           "network": null
         },
@@ -730,7 +730,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 218.9,
+          "price": 220.5,
           "plan_name": null,
           "network": null
         }
@@ -837,7 +837,7 @@
       "provider": "ubigi",
       "slug": "argentina",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=arg&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:04.485Z",
+      "fetched_at": "2026-10-07T20:42:24.812Z",
       "currency": "USD",
       "plans": [
         {
@@ -902,7 +902,7 @@
       "provider": "yesim",
       "slug": "argentina",
       "source_url": "https://yesim.app/country/argentina/",
-      "fetched_at": "2026-10-04T11:06:00.098Z",
+      "fetched_at": "2026-10-07T20:45:55.838Z",
       "currency": "USD",
       "plans": [
         {
@@ -1023,7 +1023,7 @@
       "provider": "airalo",
       "slug": "asia",
       "source_url": "https://www.airalo.com/api/v4/regions/asia",
-      "fetched_at": "2026-10-03T16:35:28.467Z",
+      "fetched_at": "2026-10-07T20:33:43.973Z",
       "currency": "USD",
       "plans": [
         {
@@ -1192,7 +1192,7 @@
       "provider": "holafly",
       "slug": "asia",
       "source_url": "https://esim.holafly.com/esim-asia/",
-      "fetched_at": "2026-10-03T16:47:06.649Z",
+      "fetched_at": "2026-10-07T20:36:01.754Z",
       "currency": "USD",
       "plans": [
         {
@@ -1231,7 +1231,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -1239,7 +1239,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -1247,7 +1247,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -1255,7 +1255,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -1263,7 +1263,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -1271,7 +1271,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -1279,7 +1279,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -1289,7 +1289,7 @@
       "provider": "ubigi",
       "slug": "asia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:13.839Z",
+      "fetched_at": "2026-10-07T20:40:13.518Z",
       "currency": "USD",
       "plans": [
         {
@@ -1330,7 +1330,7 @@
       "provider": "yesim",
       "slug": "asia",
       "source_url": "https://yesim.app/regions/asia-esim/",
-      "fetched_at": "2026-10-03T16:51:10.082Z",
+      "fetched_at": "2026-10-07T20:43:36.222Z",
       "currency": "USD",
       "plans": [
         {
@@ -1411,7 +1411,7 @@
       "provider": "airalo",
       "slug": "australia",
       "source_url": "https://www.airalo.com/api/v4/countries/australia",
-      "fetched_at": "2026-10-03T16:35:21.108Z",
+      "fetched_at": "2026-10-07T20:33:36.315Z",
       "currency": "USD",
       "plans": [
         {
@@ -1564,7 +1564,7 @@
       "provider": "holafly",
       "slug": "australia",
       "source_url": "https://esim.holafly.com/esim-australia/",
-      "fetched_at": "2026-10-03T16:47:00.537Z",
+      "fetched_at": "2026-10-07T20:35:55.713Z",
       "currency": "USD",
       "plans": [
         {
@@ -1603,7 +1603,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -1611,7 +1611,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -1619,7 +1619,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -1627,7 +1627,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -1635,7 +1635,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -1643,7 +1643,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -1651,7 +1651,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -1758,7 +1758,7 @@
       "provider": "ubigi",
       "slug": "australia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=aus&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:07.550Z",
+      "fetched_at": "2026-10-07T20:40:04.216Z",
       "currency": "USD",
       "plans": [
         {
@@ -1839,7 +1839,7 @@
       "provider": "yesim",
       "slug": "australia",
       "source_url": "https://yesim.app/country/australia/",
-      "fetched_at": "2026-10-03T16:51:00.377Z",
+      "fetched_at": "2026-10-07T20:43:25.017Z",
       "currency": "USD",
       "plans": [
         {
@@ -1968,7 +1968,7 @@
       "provider": "airalo",
       "slug": "austria",
       "source_url": "https://www.airalo.com/api/v4/countries/austria",
-      "fetched_at": "2026-10-04T11:00:27.791Z",
+      "fetched_at": "2026-10-07T20:35:01.512Z",
       "currency": "USD",
       "plans": [
         {
@@ -2073,7 +2073,7 @@
       "provider": "holafly",
       "slug": "austria",
       "source_url": "https://esim.holafly.com/esim-austria/",
-      "fetched_at": "2026-10-04T11:01:50.020Z",
+      "fetched_at": "2026-10-07T20:37:05.365Z",
       "currency": "USD",
       "plans": [
         {
@@ -2112,7 +2112,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -2120,7 +2120,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -2128,7 +2128,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -2136,7 +2136,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -2144,7 +2144,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -2152,7 +2152,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -2160,7 +2160,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -2267,7 +2267,7 @@
       "provider": "ubigi",
       "slug": "austria",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=aut&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:38.038Z",
+      "fetched_at": "2026-10-07T20:41:57.713Z",
       "currency": "USD",
       "plans": [
         {
@@ -2332,7 +2332,7 @@
       "provider": "yesim",
       "slug": "austria",
       "source_url": "https://yesim.app/country/austria/",
-      "fetched_at": "2026-10-04T11:05:34.124Z",
+      "fetched_at": "2026-10-07T20:45:26.858Z",
       "currency": "USD",
       "plans": [
         {
@@ -2453,7 +2453,7 @@
       "provider": "airalo",
       "slug": "bahamas",
       "source_url": "https://www.airalo.com/api/v4/countries/bahamas",
-      "fetched_at": "2026-10-04T11:00:31.422Z",
+      "fetched_at": "2026-10-07T20:35:05.218Z",
       "currency": "USD",
       "plans": [
         {
@@ -2510,7 +2510,7 @@
       "provider": "holafly",
       "slug": "bahamas",
       "source_url": "https://esim.holafly.com/esim-bahamas/",
-      "fetched_at": "2026-10-04T11:01:53.073Z",
+      "fetched_at": "2026-10-07T20:37:08.381Z",
       "currency": "USD",
       "plans": [
         {
@@ -2525,7 +2525,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 19.9,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -2533,7 +2533,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.9,
           "plan_name": null,
           "network": null
         },
@@ -2541,7 +2541,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36.5,
+          "price": 36.9,
           "plan_name": null,
           "network": null
         },
@@ -2549,7 +2549,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 41.9,
+          "price": 43.9,
           "plan_name": null,
           "network": null
         },
@@ -2557,7 +2557,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 64.5,
+          "price": 64.9,
           "plan_name": null,
           "network": null
         },
@@ -2565,7 +2565,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 68.9,
+          "price": 69.5,
           "plan_name": null,
           "network": null
         },
@@ -2573,7 +2573,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 84.9,
+          "price": 87.9,
           "plan_name": null,
           "network": null
         },
@@ -2581,7 +2581,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 111.9,
+          "price": 116.5,
           "plan_name": null,
           "network": null
         }
@@ -2624,7 +2624,7 @@
       "provider": "ubigi",
       "slug": "bahamas",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bhs&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:43.296Z",
+      "fetched_at": "2026-10-07T20:42:03.559Z",
       "currency": "USD",
       "plans": [
         {
@@ -2665,7 +2665,7 @@
       "provider": "yesim",
       "slug": "bahamas",
       "source_url": "https://yesim.app/country/bahamas/",
-      "fetched_at": "2026-10-04T11:05:38.775Z",
+      "fetched_at": "2026-10-07T20:45:31.769Z",
       "currency": "USD",
       "plans": [
         {
@@ -2730,7 +2730,7 @@
       "provider": "airalo",
       "slug": "bolivia",
       "source_url": "https://www.airalo.com/api/v4/countries/bolivia",
-      "fetched_at": "2026-10-04T11:00:53.102Z",
+      "fetched_at": "2026-10-07T20:35:27.125Z",
       "currency": "USD",
       "plans": [
         {
@@ -2875,7 +2875,7 @@
       "provider": "holafly",
       "slug": "bolivia",
       "source_url": "https://esim.holafly.com/esim-bolivia/",
-      "fetched_at": "2026-10-04T11:02:11.327Z",
+      "fetched_at": "2026-10-07T20:37:26.772Z",
       "currency": "USD",
       "plans": [
         {
@@ -2890,7 +2890,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 19.9,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -2898,7 +2898,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 30.9,
+          "price": 31.5,
           "plan_name": null,
           "network": null
         },
@@ -2906,7 +2906,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 39.5,
+          "price": 40.9,
           "plan_name": null,
           "network": null
         },
@@ -2914,7 +2914,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 46.9,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -2922,7 +2922,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -2930,7 +2930,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 63.5,
+          "price": 64.9,
           "plan_name": null,
           "network": null
         },
@@ -2938,7 +2938,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 79.9,
+          "price": 81.9,
           "plan_name": null,
           "network": null
         },
@@ -2946,7 +2946,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 111.9,
+          "price": 115.5,
           "plan_name": null,
           "network": null
         },
@@ -2954,7 +2954,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 211.5,
+          "price": 216.5,
           "plan_name": null,
           "network": null
         },
@@ -3013,7 +3013,7 @@
       "provider": "ubigi",
       "slug": "bolivia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bol&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:11.238Z",
+      "fetched_at": "2026-10-07T20:42:32.169Z",
       "currency": "USD",
       "plans": [
         {
@@ -3070,7 +3070,7 @@
       "provider": "yesim",
       "slug": "bolivia",
       "source_url": "https://yesim.app/country/bolivia/",
-      "fetched_at": "2026-10-04T11:06:06.881Z",
+      "fetched_at": "2026-10-07T20:46:03.613Z",
       "currency": "USD",
       "plans": [
         {
@@ -3119,7 +3119,7 @@
       "provider": "airalo",
       "slug": "brazil",
       "source_url": "https://www.airalo.com/api/v4/countries/brazil",
-      "fetched_at": "2026-10-04T10:59:37.172Z",
+      "fetched_at": "2026-10-07T20:34:09.160Z",
       "currency": "USD",
       "plans": [
         {
@@ -3264,7 +3264,7 @@
       "provider": "holafly",
       "slug": "brazil",
       "source_url": "https://esim.holafly.com/esim-brazil/",
-      "fetched_at": "2026-10-04T11:01:06.607Z",
+      "fetched_at": "2026-10-07T20:36:21.369Z",
       "currency": "USD",
       "plans": [
         {
@@ -3279,7 +3279,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -3287,7 +3287,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -3295,7 +3295,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -3303,7 +3303,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -3311,7 +3311,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.5,
           "plan_name": null,
           "network": null
         },
@@ -3319,7 +3319,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -3327,7 +3327,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 63.5,
+          "price": 67.5,
           "plan_name": null,
           "network": null
         },
@@ -3335,7 +3335,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 95.9,
+          "price": 100.5,
           "plan_name": null,
           "network": null
         },
@@ -3343,7 +3343,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 192.9,
+          "price": 199.5,
           "plan_name": null,
           "network": null
         },
@@ -3351,7 +3351,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 287.9,
+          "price": 288.9,
           "plan_name": null,
           "network": null
         }
@@ -3458,7 +3458,7 @@
       "provider": "ubigi",
       "slug": "brazil",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bra&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:28.581Z",
+      "fetched_at": "2026-10-07T20:40:46.600Z",
       "currency": "USD",
       "plans": [
         {
@@ -3512,6 +3512,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 29,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "TIM Brasil / Vivo"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 46,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -3531,7 +3539,7 @@
       "provider": "yesim",
       "slug": "brazil",
       "source_url": "https://yesim.app/country/brazil/",
-      "fetched_at": "2026-10-04T11:04:30.218Z",
+      "fetched_at": "2026-10-07T20:44:12.444Z",
       "currency": "USD",
       "plans": [
         {
@@ -3652,7 +3660,7 @@
       "provider": "airalo",
       "slug": "cambodia",
       "source_url": "https://www.airalo.com/api/v4/countries/cambodia",
-      "fetched_at": "2026-10-04T11:00:20.663Z",
+      "fetched_at": "2026-10-07T20:34:54.004Z",
       "currency": "USD",
       "plans": [
         {
@@ -3805,7 +3813,7 @@
       "provider": "holafly",
       "slug": "cambodia",
       "source_url": "https://esim.holafly.com/esim-cambodia/",
-      "fetched_at": "2026-10-04T11:01:43.658Z",
+      "fetched_at": "2026-10-07T20:36:58.956Z",
       "currency": "USD",
       "plans": [
         {
@@ -3820,7 +3828,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -3828,7 +3836,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -3836,7 +3844,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.5,
+          "price": 27.9,
           "plan_name": null,
           "network": null
         },
@@ -3844,7 +3852,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -3852,7 +3860,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -3868,7 +3876,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -3884,7 +3892,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -3943,7 +3951,7 @@
       "provider": "ubigi",
       "slug": "cambodia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=khm&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:28.855Z",
+      "fetched_at": "2026-10-07T20:41:47.681Z",
       "currency": "USD",
       "plans": [
         {
@@ -4008,7 +4016,7 @@
       "provider": "yesim",
       "slug": "cambodia",
       "source_url": "https://yesim.app/country/cambodia/",
-      "fetched_at": "2026-10-04T11:05:25.704Z",
+      "fetched_at": "2026-10-07T20:45:17.046Z",
       "currency": "USD",
       "plans": [
         {
@@ -4081,7 +4089,7 @@
       "provider": "airalo",
       "slug": "canada",
       "source_url": "https://www.airalo.com/api/v4/countries/canada",
-      "fetched_at": "2026-10-03T16:35:08.374Z",
+      "fetched_at": "2026-10-07T20:33:23.515Z",
       "currency": "USD",
       "plans": [
         {
@@ -4234,7 +4242,7 @@
       "provider": "holafly",
       "slug": "canada",
       "source_url": "https://esim.holafly.com/esim-canada/",
-      "fetched_at": "2026-10-03T16:46:49.881Z",
+      "fetched_at": "2026-10-07T20:35:45.152Z",
       "currency": "USD",
       "plans": [
         {
@@ -4428,7 +4436,7 @@
       "provider": "ubigi",
       "slug": "canada",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=can&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:56.359Z",
+      "fetched_at": "2026-10-07T20:39:48.085Z",
       "currency": "USD",
       "plans": [
         {
@@ -4482,6 +4490,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 29,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Bell / Freedom / Sasktel / Telus / Videotron"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 39,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -4501,7 +4517,7 @@
       "provider": "yesim",
       "slug": "canada",
       "source_url": "https://yesim.app/country/canada/",
-      "fetched_at": "2026-10-03T16:50:41.898Z",
+      "fetched_at": "2026-10-07T20:43:03.385Z",
       "currency": "USD",
       "plans": [
         {
@@ -4622,7 +4638,7 @@
       "provider": "airalo",
       "slug": "chile",
       "source_url": "https://www.airalo.com/api/v4/countries/chile",
-      "fetched_at": "2026-10-04T11:00:06.522Z",
+      "fetched_at": "2026-10-07T20:34:39.068Z",
       "currency": "USD",
       "plans": [
         {
@@ -4767,7 +4783,7 @@
       "provider": "holafly",
       "slug": "chile",
       "source_url": "https://esim.holafly.com/esim-chile/",
-      "fetched_at": "2026-10-04T11:01:31.223Z",
+      "fetched_at": "2026-10-07T20:36:46.350Z",
       "currency": "USD",
       "plans": [
         {
@@ -4782,7 +4798,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -4790,7 +4806,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -4798,7 +4814,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -4806,7 +4822,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -4814,7 +4830,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.5,
           "plan_name": null,
           "network": null
         },
@@ -4822,7 +4838,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -4830,7 +4846,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 63.5,
+          "price": 67.5,
           "plan_name": null,
           "network": null
         },
@@ -4838,7 +4854,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 95.9,
+          "price": 100.5,
           "plan_name": null,
           "network": null
         },
@@ -4846,7 +4862,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 192.9,
+          "price": 199.5,
           "plan_name": null,
           "network": null
         },
@@ -4854,7 +4870,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 287.9,
+          "price": 288.9,
           "plan_name": null,
           "network": null
         }
@@ -4913,7 +4929,7 @@
       "provider": "ubigi",
       "slug": "chile",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=chl&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:10.097Z",
+      "fetched_at": "2026-10-07T20:41:27.501Z",
       "currency": "USD",
       "plans": [
         {
@@ -4970,7 +4986,7 @@
       "provider": "yesim",
       "slug": "chile",
       "source_url": "https://yesim.app/country/chile/",
-      "fetched_at": "2026-10-04T11:05:07.059Z",
+      "fetched_at": "2026-10-07T20:44:56.010Z",
       "currency": "USD",
       "plans": [
         {
@@ -5051,7 +5067,7 @@
       "provider": "airalo",
       "slug": "china",
       "source_url": "https://www.airalo.com/api/v4/countries/china",
-      "fetched_at": "2026-10-03T16:35:06.580Z",
+      "fetched_at": "2026-10-07T20:33:21.610Z",
       "currency": "USD",
       "plans": [
         {
@@ -5204,7 +5220,7 @@
       "provider": "holafly",
       "slug": "china",
       "source_url": "https://esim.holafly.com/esim-china/",
-      "fetched_at": "2026-10-03T16:46:48.352Z",
+      "fetched_at": "2026-10-07T20:35:43.644Z",
       "currency": "USD",
       "plans": [
         {
@@ -5243,7 +5259,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -5251,7 +5267,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -5259,7 +5275,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -5267,7 +5283,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -5275,7 +5291,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -5283,7 +5299,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -5291,7 +5307,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -5398,7 +5414,7 @@
       "provider": "ubigi",
       "slug": "china",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=chn&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:54.729Z",
+      "fetched_at": "2026-10-07T20:39:46.185Z",
       "currency": "USD",
       "plans": [
         {
@@ -5444,6 +5460,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 24,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "China Telecom"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 48,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -5463,7 +5487,7 @@
       "provider": "yesim",
       "slug": "china",
       "source_url": "https://yesim.app/country/china/",
-      "fetched_at": "2026-10-03T16:50:39.144Z",
+      "fetched_at": "2026-10-07T20:43:00.494Z",
       "currency": "USD",
       "plans": [
         {
@@ -5592,7 +5616,7 @@
       "provider": "airalo",
       "slug": "colombia",
       "source_url": "https://www.airalo.com/api/v4/countries/colombia",
-      "fetched_at": "2026-10-04T10:59:35.345Z",
+      "fetched_at": "2026-10-07T20:34:07.300Z",
       "currency": "USD",
       "plans": [
         {
@@ -5745,7 +5769,7 @@
       "provider": "holafly",
       "slug": "colombia",
       "source_url": "https://esim.holafly.com/esim-colombia/",
-      "fetched_at": "2026-10-04T11:01:05.093Z",
+      "fetched_at": "2026-10-07T20:36:19.860Z",
       "currency": "USD",
       "plans": [
         {
@@ -5760,7 +5784,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -5768,7 +5792,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -5776,7 +5800,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -5784,7 +5808,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -5792,7 +5816,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.5,
           "plan_name": null,
           "network": null
         },
@@ -5800,7 +5824,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -5808,7 +5832,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 63.5,
+          "price": 67.5,
           "plan_name": null,
           "network": null
         },
@@ -5816,7 +5840,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 95.9,
+          "price": 100.5,
           "plan_name": null,
           "network": null
         },
@@ -5824,7 +5848,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 192.9,
+          "price": 199.5,
           "plan_name": null,
           "network": null
         },
@@ -5832,7 +5856,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 287.9,
+          "price": 288.9,
           "plan_name": null,
           "network": null
         }
@@ -5939,7 +5963,7 @@
       "provider": "ubigi",
       "slug": "colombia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=col&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:25.871Z",
+      "fetched_at": "2026-10-07T20:40:43.702Z",
       "currency": "USD",
       "plans": [
         {
@@ -5996,7 +6020,7 @@
       "provider": "yesim",
       "slug": "colombia",
       "source_url": "https://yesim.app/country/colombia/",
-      "fetched_at": "2026-10-04T11:04:27.692Z",
+      "fetched_at": "2026-10-07T20:44:09.601Z",
       "currency": "USD",
       "plans": [
         {
@@ -6117,7 +6141,7 @@
       "provider": "airalo",
       "slug": "costa-rica",
       "source_url": "https://www.airalo.com/api/v4/countries/costa-rica",
-      "fetched_at": "2026-10-03T16:35:26.552Z",
+      "fetched_at": "2026-10-07T20:33:41.895Z",
       "currency": "USD",
       "plans": [
         {
@@ -6262,7 +6286,7 @@
       "provider": "holafly",
       "slug": "costa-rica",
       "source_url": "https://esim.holafly.com/esim-costa-rica/",
-      "fetched_at": "2026-10-03T16:47:05.120Z",
+      "fetched_at": "2026-10-07T20:36:00.245Z",
       "currency": "USD",
       "plans": [
         {
@@ -6285,7 +6309,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.9,
           "plan_name": null,
           "network": null
         },
@@ -6293,7 +6317,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36.5,
+          "price": 37.9,
           "plan_name": null,
           "network": null
         },
@@ -6301,7 +6325,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.5,
           "plan_name": null,
           "network": null
         },
@@ -6309,7 +6333,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.9,
+          "price": 49.5,
           "plan_name": null,
           "network": null
         },
@@ -6317,7 +6341,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -6325,7 +6349,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 63.5,
+          "price": 66.5,
           "plan_name": null,
           "network": null
         },
@@ -6333,7 +6357,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 95.9,
+          "price": 99.9,
           "plan_name": null,
           "network": null
         },
@@ -6341,7 +6365,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 192.9,
+          "price": 198.5,
           "plan_name": null,
           "network": null
         },
@@ -6349,7 +6373,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 287.9,
+          "price": 292.9,
           "plan_name": null,
           "network": null
         }
@@ -6456,7 +6480,7 @@
       "provider": "ubigi",
       "slug": "costa-rica",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=cri&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:12.318Z",
+      "fetched_at": "2026-10-07T20:40:12.009Z",
       "currency": "USD",
       "plans": [
         {
@@ -6529,7 +6553,7 @@
       "provider": "yesim",
       "slug": "costa-rica",
       "source_url": "https://yesim.app/country/costa-rica/",
-      "fetched_at": "2026-10-03T16:51:08.019Z",
+      "fetched_at": "2026-10-07T20:43:34.040Z",
       "currency": "USD",
       "plans": [
         {
@@ -6650,7 +6674,7 @@
       "provider": "airalo",
       "slug": "croatia",
       "source_url": "https://www.airalo.com/api/v4/countries/croatia",
-      "fetched_at": "2026-10-04T11:00:04.718Z",
+      "fetched_at": "2026-10-07T20:34:37.050Z",
       "currency": "USD",
       "plans": [
         {
@@ -6803,7 +6827,7 @@
       "provider": "holafly",
       "slug": "croatia",
       "source_url": "https://esim.holafly.com/esim-croatia/",
-      "fetched_at": "2026-10-04T11:01:29.708Z",
+      "fetched_at": "2026-10-07T20:36:44.841Z",
       "currency": "USD",
       "plans": [
         {
@@ -6842,7 +6866,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -6850,7 +6874,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -6858,7 +6882,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -6866,7 +6890,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -6874,7 +6898,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -6882,7 +6906,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -6890,7 +6914,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -6997,7 +7021,7 @@
       "provider": "ubigi",
       "slug": "croatia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hrv&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:07.491Z",
+      "fetched_at": "2026-10-07T20:41:24.624Z",
       "currency": "USD",
       "plans": [
         {
@@ -7054,7 +7078,7 @@
       "provider": "yesim",
       "slug": "croatia",
       "source_url": "https://yesim.app/country/croatia/",
-      "fetched_at": "2026-10-04T11:05:04.957Z",
+      "fetched_at": "2026-10-07T20:44:53.348Z",
       "currency": "USD",
       "plans": [
         {
@@ -7175,7 +7199,7 @@
       "provider": "yesim",
       "slug": "cuba",
       "source_url": "https://yesim.app/country/cuba/",
-      "fetched_at": "2026-10-04T11:05:11.208Z",
+      "fetched_at": "2026-10-07T20:45:00.861Z",
       "currency": "USD",
       "plans": [
         {
@@ -7240,7 +7264,7 @@
       "provider": "airalo",
       "slug": "cyprus",
       "source_url": "https://www.airalo.com/api/v4/countries/cyprus",
-      "fetched_at": "2026-10-04T11:00:54.923Z",
+      "fetched_at": "2026-10-07T20:35:28.962Z",
       "currency": "USD",
       "plans": [
         {
@@ -7393,7 +7417,7 @@
       "provider": "holafly",
       "slug": "cyprus",
       "source_url": "https://esim.holafly.com/esim-cyprus/",
-      "fetched_at": "2026-10-04T11:02:12.846Z",
+      "fetched_at": "2026-10-07T20:37:28.282Z",
       "currency": "USD",
       "plans": [
         {
@@ -7587,7 +7611,7 @@
       "provider": "ubigi",
       "slug": "cyprus",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=cyp&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:13.737Z",
+      "fetched_at": "2026-10-07T20:42:35.013Z",
       "currency": "USD",
       "plans": [
         {
@@ -7618,7 +7642,7 @@
           "data_gb": 25,
           "unlimited": false,
           "validity_days": 30,
-          "price": 19,
+          "price": 18,
           "plan_name": null,
           "network": "Epic / Primetel"
         },
@@ -7626,7 +7650,7 @@
           "data_gb": 50,
           "unlimited": false,
           "validity_days": 30,
-          "price": 35,
+          "price": 32,
           "plan_name": null,
           "network": "Epic / Primetel"
         },
@@ -7642,7 +7666,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 29,
+          "price": 27,
           "plan_name": "Unlimited (fair use 30GB)",
           "network": "Epic / Primetel"
         },
@@ -7650,7 +7674,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 49,
+          "price": 46,
           "plan_name": "Unlimited (fair use 60GB)",
           "network": "Epic / Primetel"
         }
@@ -7660,7 +7684,7 @@
       "provider": "yesim",
       "slug": "cyprus",
       "source_url": "https://yesim.app/country/cyprus/",
-      "fetched_at": "2026-10-04T11:06:09.597Z",
+      "fetched_at": "2026-10-07T20:46:06.626Z",
       "currency": "USD",
       "plans": [
         {
@@ -7781,7 +7805,7 @@
       "provider": "airalo",
       "slug": "denmark",
       "source_url": "https://www.airalo.com/api/v4/countries/denmark",
-      "fetched_at": "2026-10-04T11:00:18.870Z",
+      "fetched_at": "2026-10-07T20:34:52.147Z",
       "currency": "USD",
       "plans": [
         {
@@ -7934,7 +7958,7 @@
       "provider": "holafly",
       "slug": "denmark",
       "source_url": "https://esim.holafly.com/esim-denmark/",
-      "fetched_at": "2026-10-04T11:01:42.137Z",
+      "fetched_at": "2026-10-07T20:36:57.447Z",
       "currency": "USD",
       "plans": [
         {
@@ -8128,7 +8152,7 @@
       "provider": "ubigi",
       "slug": "denmark",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=dnk&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:26.232Z",
+      "fetched_at": "2026-10-07T20:41:44.942Z",
       "currency": "USD",
       "plans": [
         {
@@ -8201,7 +8225,7 @@
       "provider": "yesim",
       "slug": "denmark",
       "source_url": "https://yesim.app/country/denmark/",
-      "fetched_at": "2026-10-04T11:05:23.714Z",
+      "fetched_at": "2026-10-07T20:45:14.855Z",
       "currency": "USD",
       "plans": [
         {
@@ -8322,7 +8346,7 @@
       "provider": "airalo",
       "slug": "dominican-republic",
       "source_url": "https://www.airalo.com/api/v4/countries/dominican-republic",
-      "fetched_at": "2026-10-04T10:59:46.330Z",
+      "fetched_at": "2026-10-07T20:34:18.580Z",
       "currency": "USD",
       "plans": [
         {
@@ -8467,7 +8491,7 @@
       "provider": "holafly",
       "slug": "dominican-republic",
       "source_url": "https://esim.holafly.com/esim-dominican-republic/",
-      "fetched_at": "2026-10-04T11:01:14.203Z",
+      "fetched_at": "2026-10-07T20:36:28.923Z",
       "currency": "USD",
       "plans": [
         {
@@ -8482,7 +8506,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 18.9,
+          "price": 19.9,
           "plan_name": null,
           "network": null
         },
@@ -8490,7 +8514,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 29.9,
+          "price": 30.5,
           "plan_name": null,
           "network": null
         },
@@ -8498,7 +8522,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 38.5,
+          "price": 39.5,
           "plan_name": null,
           "network": null
         },
@@ -8506,7 +8530,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 49.9,
+          "price": 50.9,
           "plan_name": null,
           "network": null
         },
@@ -8514,7 +8538,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 59.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -8522,7 +8546,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 62.5,
+          "price": 63.5,
           "plan_name": null,
           "network": null
         },
@@ -8530,7 +8554,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 75.9,
+          "price": 77.5,
           "plan_name": null,
           "network": null
         },
@@ -8538,7 +8562,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 99.9,
+          "price": 101.9,
           "plan_name": null,
           "network": null
         },
@@ -8546,7 +8570,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 159.5,
+          "price": 171.5,
           "plan_name": null,
           "network": null
         },
@@ -8554,7 +8578,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 233.9,
+          "price": 238.9,
           "plan_name": null,
           "network": null
         }
@@ -8605,7 +8629,7 @@
       "provider": "ubigi",
       "slug": "dominican-republic",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=dom&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:42.060Z",
+      "fetched_at": "2026-10-07T20:40:58.993Z",
       "currency": "USD",
       "plans": [
         {
@@ -8678,7 +8702,7 @@
       "provider": "yesim",
       "slug": "dominican-republic",
       "source_url": "https://yesim.app/country/dominican-republic/",
-      "fetched_at": "2026-10-04T11:04:41.408Z",
+      "fetched_at": "2026-10-07T20:44:26.159Z",
       "currency": "USD",
       "plans": [
         {
@@ -8743,7 +8767,7 @@
       "provider": "airalo",
       "slug": "ecuador",
       "source_url": "https://www.airalo.com/api/v4/countries/ecuador",
-      "fetched_at": "2026-10-04T11:00:08.258Z",
+      "fetched_at": "2026-10-07T20:34:40.934Z",
       "currency": "USD",
       "plans": [
         {
@@ -8888,7 +8912,7 @@
       "provider": "holafly",
       "slug": "ecuador",
       "source_url": "https://esim.holafly.com/esim-ecuador/",
-      "fetched_at": "2026-10-04T11:01:32.729Z",
+      "fetched_at": "2026-10-07T20:36:47.859Z",
       "currency": "USD",
       "plans": [
         {
@@ -8911,7 +8935,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.5,
           "plan_name": null,
           "network": null
         },
@@ -8919,7 +8943,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36.5,
+          "price": 36.9,
           "plan_name": null,
           "network": null
         },
@@ -8927,7 +8951,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.9,
           "plan_name": null,
           "network": null
         },
@@ -8935,7 +8959,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 48.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -8943,7 +8967,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 53.5,
+          "price": 54.9,
           "plan_name": null,
           "network": null
         },
@@ -8951,7 +8975,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 70.5,
+          "price": 72.9,
           "plan_name": null,
           "network": null
         },
@@ -8959,7 +8983,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 106.5,
+          "price": 108.5,
           "plan_name": null,
           "network": null
         },
@@ -8967,7 +8991,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 203.9,
+          "price": 204.5,
           "plan_name": null,
           "network": null
         },
@@ -8975,7 +8999,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 300.9,
+          "price": 302.9,
           "plan_name": null,
           "network": null
         }
@@ -9074,7 +9098,7 @@
       "provider": "ubigi",
       "slug": "ecuador",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ecu&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:12.604Z",
+      "fetched_at": "2026-10-07T20:41:30.358Z",
       "currency": "USD",
       "plans": [
         {
@@ -9104,6 +9128,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 32,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Movistar"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 45,
           "plan_name": "Unlimited (fair use 30GB)",
@@ -9115,7 +9147,7 @@
       "provider": "yesim",
       "slug": "ecuador",
       "source_url": "https://yesim.app/country/ecuador/",
-      "fetched_at": "2026-10-04T11:05:09.259Z",
+      "fetched_at": "2026-10-07T20:44:58.613Z",
       "currency": "USD",
       "plans": [
         {
@@ -9236,7 +9268,7 @@
       "provider": "airalo",
       "slug": "egypt",
       "source_url": "https://www.airalo.com/api/v4/countries/egypt",
-      "fetched_at": "2026-10-04T10:59:48.132Z",
+      "fetched_at": "2026-10-07T20:34:20.426Z",
       "currency": "USD",
       "plans": [
         {
@@ -9381,7 +9413,7 @@
       "provider": "holafly",
       "slug": "egypt",
       "source_url": "https://esim.holafly.com/esim-egypt/",
-      "fetched_at": "2026-10-04T11:01:15.725Z",
+      "fetched_at": "2026-10-07T20:36:30.431Z",
       "currency": "USD",
       "plans": [
         {
@@ -9559,7 +9591,7 @@
       "provider": "ubigi",
       "slug": "egypt",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=egy&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:44.649Z",
+      "fetched_at": "2026-10-07T20:41:01.984Z",
       "currency": "USD",
       "plans": [
         {
@@ -9605,6 +9637,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 27,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Orange Egypt / e& (Etisalat)"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 44,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -9624,7 +9664,7 @@
       "provider": "yesim",
       "slug": "egypt",
       "source_url": "https://yesim.app/country/egypt/",
-      "fetched_at": "2026-10-04T11:04:43.943Z",
+      "fetched_at": "2026-10-07T20:44:29.150Z",
       "currency": "USD",
       "plans": [
         {
@@ -9761,7 +9801,7 @@
       "provider": "airalo",
       "slug": "europe",
       "source_url": "https://www.airalo.com/api/v4/regions/europe",
-      "fetched_at": "2026-10-03T16:35:01.032Z",
+      "fetched_at": "2026-10-07T20:33:16.188Z",
       "currency": "USD",
       "plans": [
         {
@@ -9930,7 +9970,7 @@
       "provider": "holafly",
       "slug": "europe",
       "source_url": "https://esim.holafly.com/esim-europe/",
-      "fetched_at": "2026-10-03T16:46:43.784Z",
+      "fetched_at": "2026-10-07T20:35:39.115Z",
       "currency": "USD",
       "plans": [
         {
@@ -9969,7 +10009,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -9977,7 +10017,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -9985,7 +10025,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -9993,7 +10033,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -10001,7 +10041,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -10009,7 +10049,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -10017,7 +10057,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -10027,7 +10067,7 @@
       "provider": "ubigi",
       "slug": "europe",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:49.963Z",
+      "fetched_at": "2026-10-07T20:39:39.502Z",
       "currency": "USD",
       "plans": [
         {
@@ -10079,6 +10119,30 @@
           "network": null
         },
         {
+          "data_gb": 50,
+          "unlimited": false,
+          "validity_days": 180,
+          "price": 69,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 100,
+          "unlimited": false,
+          "validity_days": 360,
+          "price": 100,
+          "plan_name": null,
+          "network": null
+        },
+        {
+          "data_gb": 200,
+          "unlimited": false,
+          "validity_days": 360,
+          "price": 180,
+          "plan_name": null,
+          "network": null
+        },
+        {
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
@@ -10108,7 +10172,7 @@
       "provider": "yesim",
       "slug": "europe",
       "source_url": "https://yesim.app/regions/europe-esim/",
-      "fetched_at": "2026-10-03T16:50:32.305Z",
+      "fetched_at": "2026-10-07T20:42:51.958Z",
       "currency": "USD",
       "plans": [
         {
@@ -10189,7 +10253,7 @@
       "provider": "airalo",
       "slug": "fiji",
       "source_url": "https://www.airalo.com/api/v4/countries/fiji",
-      "fetched_at": "2026-10-04T11:00:38.726Z",
+      "fetched_at": "2026-10-07T20:35:12.645Z",
       "currency": "USD",
       "plans": [
         {
@@ -10310,7 +10374,7 @@
       "provider": "holafly",
       "slug": "fiji",
       "source_url": "https://esim.holafly.com/esim-fiji/",
-      "fetched_at": "2026-10-04T11:01:59.169Z",
+      "fetched_at": "2026-10-07T20:37:14.419Z",
       "currency": "USD",
       "plans": [
         {
@@ -10416,7 +10480,7 @@
       "provider": "ubigi",
       "slug": "fiji",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=fji&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:52.523Z",
+      "fetched_at": "2026-10-07T20:42:13.683Z",
       "currency": "USD",
       "plans": [
         {
@@ -10441,7 +10505,7 @@
       "provider": "yesim",
       "slug": "fiji",
       "source_url": "https://yesim.app/country/fiji/",
-      "fetched_at": "2026-10-04T11:05:47.954Z",
+      "fetched_at": "2026-10-07T20:45:42.452Z",
       "currency": "USD",
       "plans": [
         {
@@ -10522,7 +10586,7 @@
       "provider": "airalo",
       "slug": "france",
       "source_url": "https://www.airalo.com/api/v4/countries/france",
-      "fetched_at": "2026-10-03T16:35:12.055Z",
+      "fetched_at": "2026-10-07T20:33:27.198Z",
       "currency": "USD",
       "plans": [
         {
@@ -10675,7 +10739,7 @@
       "provider": "holafly",
       "slug": "france",
       "source_url": "https://esim.holafly.com/esim-france/",
-      "fetched_at": "2026-10-03T16:46:52.930Z",
+      "fetched_at": "2026-10-07T20:35:48.170Z",
       "currency": "USD",
       "plans": [
         {
@@ -10869,7 +10933,7 @@
       "provider": "ubigi",
       "slug": "france",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=fra&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:59.572Z",
+      "fetched_at": "2026-10-07T20:39:51.885Z",
       "currency": "USD",
       "plans": [
         {
@@ -10950,7 +11014,7 @@
       "provider": "yesim",
       "slug": "france",
       "source_url": "https://yesim.app/country/france/",
-      "fetched_at": "2026-10-03T16:50:47.164Z",
+      "fetched_at": "2026-10-07T20:43:09.649Z",
       "currency": "USD",
       "plans": [
         {
@@ -11071,7 +11135,7 @@
       "provider": "airalo",
       "slug": "georgia",
       "source_url": "https://www.airalo.com/api/v4/countries/georgia",
-      "fetched_at": "2026-10-04T11:00:49.442Z",
+      "fetched_at": "2026-10-07T20:35:23.498Z",
       "currency": "USD",
       "plans": [
         {
@@ -11176,7 +11240,7 @@
       "provider": "holafly",
       "slug": "georgia",
       "source_url": "https://esim.holafly.com/esim-georgia/",
-      "fetched_at": "2026-10-04T11:02:08.296Z",
+      "fetched_at": "2026-10-07T20:37:23.472Z",
       "currency": "USD",
       "plans": [
         {
@@ -11215,7 +11279,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -11223,7 +11287,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -11231,7 +11295,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -11239,7 +11303,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -11247,7 +11311,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -11255,7 +11319,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -11263,7 +11327,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -11370,7 +11434,7 @@
       "provider": "ubigi",
       "slug": "georgia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=geo&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:07.123Z",
+      "fetched_at": "2026-10-07T20:42:27.664Z",
       "currency": "USD",
       "plans": [
         {
@@ -11435,7 +11499,7 @@
       "provider": "yesim",
       "slug": "georgia",
       "source_url": "https://yesim.app/country/georgia/",
-      "fetched_at": "2026-10-04T11:06:02.749Z",
+      "fetched_at": "2026-10-07T20:45:58.978Z",
       "currency": "USD",
       "plans": [
         {
@@ -11564,7 +11628,7 @@
       "provider": "airalo",
       "slug": "germany",
       "source_url": "https://www.airalo.com/api/v4/countries/germany",
-      "fetched_at": "2026-10-03T16:35:35.648Z",
+      "fetched_at": "2026-10-07T20:33:51.427Z",
       "currency": "USD",
       "plans": [
         {
@@ -11717,7 +11781,7 @@
       "provider": "holafly",
       "slug": "germany",
       "source_url": "https://esim.holafly.com/esim-germany/",
-      "fetched_at": "2026-10-03T16:47:12.719Z",
+      "fetched_at": "2026-10-07T20:36:07.785Z",
       "currency": "USD",
       "plans": [
         {
@@ -11756,7 +11820,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -11764,7 +11828,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -11772,7 +11836,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -11780,7 +11844,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -11788,7 +11852,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -11796,7 +11860,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -11804,7 +11868,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -11911,7 +11975,7 @@
       "provider": "ubigi",
       "slug": "germany",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=deu&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:20.269Z",
+      "fetched_at": "2026-10-07T20:40:24.029Z",
       "currency": "USD",
       "plans": [
         {
@@ -11992,7 +12056,7 @@
       "provider": "yesim",
       "slug": "germany",
       "source_url": "https://yesim.app/country/germany/",
-      "fetched_at": "2026-10-03T16:51:20.649Z",
+      "fetched_at": "2026-10-07T20:43:47.946Z",
       "currency": "USD",
       "plans": [
         {
@@ -12113,7 +12177,7 @@
       "provider": "airalo",
       "slug": "global",
       "source_url": "https://www.airalo.com/api/v4/regions/world",
-      "fetched_at": "2026-10-03T16:35:43.711Z",
+      "fetched_at": "2026-10-07T20:33:59.804Z",
       "currency": "USD",
       "plans": [
         {
@@ -12218,7 +12282,7 @@
       "provider": "holafly",
       "slug": "global",
       "source_url": "https://esim.holafly.com/esim-global/",
-      "fetched_at": "2026-10-03T16:47:18.815Z",
+      "fetched_at": "2026-10-07T20:36:13.823Z",
       "currency": "USD",
       "plans": [
         {
@@ -12315,7 +12379,7 @@
       "provider": "ubigi",
       "slug": "global",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:26.584Z",
+      "fetched_at": "2026-10-07T20:40:33.129Z",
       "currency": "USD",
       "plans": [
         {
@@ -12388,7 +12452,7 @@
       "provider": "yesim",
       "slug": "global",
       "source_url": "https://yesim.app/global/global-package-esim/",
-      "fetched_at": "2026-10-03T16:51:30.600Z",
+      "fetched_at": "2026-10-07T20:43:58.960Z",
       "currency": "USD",
       "plans": [
         {
@@ -12453,7 +12517,7 @@
       "provider": "airalo",
       "slug": "greece",
       "source_url": "https://www.airalo.com/api/v4/countries/greece",
-      "fetched_at": "2026-10-03T16:35:37.409Z",
+      "fetched_at": "2026-10-07T20:33:53.277Z",
       "currency": "USD",
       "plans": [
         {
@@ -12606,7 +12670,7 @@
       "provider": "holafly",
       "slug": "greece",
       "source_url": "https://esim.holafly.com/esim-greece/",
-      "fetched_at": "2026-10-03T16:47:14.245Z",
+      "fetched_at": "2026-10-07T20:36:09.295Z",
       "currency": "USD",
       "plans": [
         {
@@ -12645,7 +12709,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -12653,7 +12717,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -12661,7 +12725,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -12669,7 +12733,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -12677,7 +12741,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -12685,7 +12749,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -12693,7 +12757,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -12800,7 +12864,7 @@
       "provider": "ubigi",
       "slug": "greece",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=grc&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:21.867Z",
+      "fetched_at": "2026-10-07T20:40:25.924Z",
       "currency": "USD",
       "plans": [
         {
@@ -12873,7 +12937,7 @@
       "provider": "yesim",
       "slug": "greece",
       "source_url": "https://yesim.app/country/greece/",
-      "fetched_at": "2026-10-03T16:51:23.360Z",
+      "fetched_at": "2026-10-07T20:43:51.211Z",
       "currency": "USD",
       "plans": [
         {
@@ -12994,7 +13058,7 @@
       "provider": "airalo",
       "slug": "hong-kong",
       "source_url": "https://www.airalo.com/api/v4/countries/hong-kong",
-      "fetched_at": "2026-10-04T10:59:40.858Z",
+      "fetched_at": "2026-10-07T20:34:12.874Z",
       "currency": "USD",
       "plans": [
         {
@@ -13147,7 +13211,7 @@
       "provider": "holafly",
       "slug": "hong-kong",
       "source_url": "https://esim.holafly.com/esim-hong-kong/",
-      "fetched_at": "2026-10-04T11:01:09.648Z",
+      "fetched_at": "2026-10-07T20:36:24.392Z",
       "currency": "USD",
       "plans": [
         {
@@ -13162,7 +13226,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -13170,7 +13234,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -13178,7 +13242,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.5,
+          "price": 27.9,
           "plan_name": null,
           "network": null
         },
@@ -13186,7 +13250,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -13194,7 +13258,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -13210,7 +13274,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -13226,7 +13290,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -13341,7 +13405,7 @@
       "provider": "ubigi",
       "slug": "hong-kong",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hkg&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:33.961Z",
+      "fetched_at": "2026-10-07T20:40:51.367Z",
       "currency": "USD",
       "plans": [
         {
@@ -13406,7 +13470,7 @@
       "provider": "yesim",
       "slug": "hong-kong",
       "source_url": "https://yesim.app/country/hong-kong/",
-      "fetched_at": "2026-10-04T11:04:34.744Z",
+      "fetched_at": "2026-10-07T20:44:17.761Z",
       "currency": "USD",
       "plans": [
         {
@@ -13527,7 +13591,7 @@
       "provider": "airalo",
       "slug": "hungary",
       "source_url": "https://www.airalo.com/api/v4/countries/hungary",
-      "fetched_at": "2026-10-04T11:00:40.547Z",
+      "fetched_at": "2026-10-07T20:35:14.478Z",
       "currency": "USD",
       "plans": [
         {
@@ -13680,7 +13744,7 @@
       "provider": "holafly",
       "slug": "hungary",
       "source_url": "https://esim.holafly.com/esim-hungary/",
-      "fetched_at": "2026-10-04T11:02:00.684Z",
+      "fetched_at": "2026-10-07T20:37:15.927Z",
       "currency": "USD",
       "plans": [
         {
@@ -13719,7 +13783,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -13727,7 +13791,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -13735,7 +13799,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -13743,7 +13807,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -13751,7 +13815,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -13759,7 +13823,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -13767,7 +13831,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -13874,7 +13938,7 @@
       "provider": "ubigi",
       "slug": "hungary",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hun&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:55.083Z",
+      "fetched_at": "2026-10-07T20:42:15.590Z",
       "currency": "USD",
       "plans": [
         {
@@ -13931,7 +13995,7 @@
       "provider": "yesim",
       "slug": "hungary",
       "source_url": "https://yesim.app/country/hungary/",
-      "fetched_at": "2026-10-04T11:05:50.530Z",
+      "fetched_at": "2026-10-07T20:45:45.189Z",
       "currency": "USD",
       "plans": [
         {
@@ -14052,7 +14116,7 @@
       "provider": "airalo",
       "slug": "iceland",
       "source_url": "https://www.airalo.com/api/v4/countries/iceland",
-      "fetched_at": "2026-10-04T10:59:33.518Z",
+      "fetched_at": "2026-10-07T20:34:05.377Z",
       "currency": "USD",
       "plans": [
         {
@@ -14205,7 +14269,7 @@
       "provider": "holafly",
       "slug": "iceland",
       "source_url": "https://esim.holafly.com/esim-iceland/",
-      "fetched_at": "2026-10-04T11:01:03.576Z",
+      "fetched_at": "2026-10-07T20:36:18.351Z",
       "currency": "USD",
       "plans": [
         {
@@ -14244,7 +14308,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -14252,7 +14316,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -14260,7 +14324,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -14268,7 +14332,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -14276,7 +14340,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -14284,7 +14348,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -14292,7 +14356,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -14399,7 +14463,7 @@
       "provider": "ubigi",
       "slug": "iceland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=isl&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:23.198Z",
+      "fetched_at": "2026-10-07T20:40:41.806Z",
       "currency": "USD",
       "plans": [
         {
@@ -14448,7 +14512,7 @@
       "provider": "yesim",
       "slug": "iceland",
       "source_url": "https://yesim.app/country/iceland/",
-      "fetched_at": "2026-10-04T11:04:25.513Z",
+      "fetched_at": "2026-10-07T20:44:07.458Z",
       "currency": "USD",
       "plans": [
         {
@@ -14529,7 +14593,7 @@
       "provider": "airalo",
       "slug": "india",
       "source_url": "https://www.airalo.com/api/v4/countries/india",
-      "fetched_at": "2026-10-03T16:35:19.295Z",
+      "fetched_at": "2026-10-07T20:33:34.485Z",
       "currency": "USD",
       "plans": [
         {
@@ -14674,7 +14738,7 @@
       "provider": "holafly",
       "slug": "india",
       "source_url": "https://esim.holafly.com/esim-india/",
-      "fetched_at": "2026-10-03T16:46:59.018Z",
+      "fetched_at": "2026-10-07T20:35:54.203Z",
       "currency": "USD",
       "plans": [
         {
@@ -14868,7 +14932,7 @@
       "provider": "ubigi",
       "slug": "india",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ind&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:05.955Z",
+      "fetched_at": "2026-10-07T20:40:01.360Z",
       "currency": "USD",
       "plans": [
         {
@@ -14949,7 +15013,7 @@
       "provider": "yesim",
       "slug": "india",
       "source_url": "https://yesim.app/country/india/",
-      "fetched_at": "2026-10-03T16:50:57.736Z",
+      "fetched_at": "2026-10-07T20:43:21.730Z",
       "currency": "USD",
       "plans": [
         {
@@ -15078,7 +15142,7 @@
       "provider": "airalo",
       "slug": "indonesia",
       "source_url": "https://www.airalo.com/api/v4/countries/indonesia",
-      "fetched_at": "2026-10-03T16:35:39.188Z",
+      "fetched_at": "2026-10-07T20:33:55.118Z",
       "currency": "USD",
       "plans": [
         {
@@ -15231,7 +15295,7 @@
       "provider": "holafly",
       "slug": "indonesia",
       "source_url": "https://esim.holafly.com/esim-indonesia/",
-      "fetched_at": "2026-10-03T16:47:15.765Z",
+      "fetched_at": "2026-10-07T20:36:10.803Z",
       "currency": "USD",
       "plans": [
         {
@@ -15270,7 +15334,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -15278,7 +15342,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -15286,7 +15350,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -15294,7 +15358,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -15302,7 +15366,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -15310,7 +15374,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -15318,7 +15382,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -15425,7 +15489,7 @@
       "provider": "ubigi",
       "slug": "indonesia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=idn&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:23.468Z",
+      "fetched_at": "2026-10-07T20:40:28.686Z",
       "currency": "USD",
       "plans": [
         {
@@ -15498,7 +15562,7 @@
       "provider": "yesim",
       "slug": "indonesia",
       "source_url": "https://yesim.app/country/indonesia/",
-      "fetched_at": "2026-10-03T16:51:25.982Z",
+      "fetched_at": "2026-10-07T20:43:53.878Z",
       "currency": "USD",
       "plans": [
         {
@@ -15627,7 +15691,7 @@
       "provider": "airalo",
       "slug": "ireland",
       "source_url": "https://www.airalo.com/api/v4/countries/ireland",
-      "fetched_at": "2026-10-03T16:35:32.116Z",
+      "fetched_at": "2026-10-07T20:33:47.755Z",
       "currency": "USD",
       "plans": [
         {
@@ -15780,7 +15844,7 @@
       "provider": "holafly",
       "slug": "ireland",
       "source_url": "https://esim.holafly.com/esim-ireland/",
-      "fetched_at": "2026-10-03T16:47:09.678Z",
+      "fetched_at": "2026-10-07T20:36:04.770Z",
       "currency": "USD",
       "plans": [
         {
@@ -15974,7 +16038,7 @@
       "provider": "ubigi",
       "slug": "ireland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=irl&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:17.043Z",
+      "fetched_at": "2026-10-07T20:40:19.200Z",
       "currency": "USD",
       "plans": [
         {
@@ -16039,7 +16103,7 @@
       "provider": "yesim",
       "slug": "ireland",
       "source_url": "https://yesim.app/country/ireland/",
-      "fetched_at": "2026-10-03T16:51:15.407Z",
+      "fetched_at": "2026-10-07T20:43:42.661Z",
       "currency": "USD",
       "plans": [
         {
@@ -16160,7 +16224,7 @@
       "provider": "airalo",
       "slug": "israel",
       "source_url": "https://www.airalo.com/api/v4/countries/israel",
-      "fetched_at": "2026-10-04T10:59:51.849Z",
+      "fetched_at": "2026-10-07T20:34:24.088Z",
       "currency": "USD",
       "plans": [
         {
@@ -16313,7 +16377,7 @@
       "provider": "holafly",
       "slug": "israel",
       "source_url": "https://esim.holafly.com/esim-israel/",
-      "fetched_at": "2026-10-04T11:01:18.767Z",
+      "fetched_at": "2026-10-07T20:36:33.447Z",
       "currency": "USD",
       "plans": [
         {
@@ -16507,7 +16571,7 @@
       "provider": "ubigi",
       "slug": "israel",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=isr&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:49.873Z",
+      "fetched_at": "2026-10-07T20:41:07.727Z",
       "currency": "USD",
       "plans": [
         {
@@ -16572,7 +16636,7 @@
       "provider": "yesim",
       "slug": "israel",
       "source_url": "https://yesim.app/country/israel/",
-      "fetched_at": "2026-10-04T11:04:49.034Z",
+      "fetched_at": "2026-10-07T20:44:34.848Z",
       "currency": "USD",
       "plans": [
         {
@@ -16693,7 +16757,7 @@
       "provider": "airalo",
       "slug": "italy",
       "source_url": "https://www.airalo.com/api/v4/countries/italy",
-      "fetched_at": "2026-10-03T16:35:04.663Z",
+      "fetched_at": "2026-10-07T20:33:19.800Z",
       "currency": "USD",
       "plans": [
         {
@@ -16846,7 +16910,7 @@
       "provider": "holafly",
       "slug": "italy",
       "source_url": "https://esim.holafly.com/esim-italy/",
-      "fetched_at": "2026-10-03T16:46:46.827Z",
+      "fetched_at": "2026-10-07T20:35:42.134Z",
       "currency": "USD",
       "plans": [
         {
@@ -17040,7 +17104,7 @@
       "provider": "ubigi",
       "slug": "italy",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ita&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:53.144Z",
+      "fetched_at": "2026-10-07T20:39:44.288Z",
       "currency": "USD",
       "plans": [
         {
@@ -17086,6 +17150,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 19,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Iliad / WindTre"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 25,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -17105,7 +17177,7 @@
       "provider": "yesim",
       "slug": "italy",
       "source_url": "https://yesim.app/country/italy/",
-      "fetched_at": "2026-10-03T16:50:36.530Z",
+      "fetched_at": "2026-10-07T20:42:57.776Z",
       "currency": "USD",
       "plans": [
         {
@@ -17226,7 +17298,7 @@
       "provider": "airalo",
       "slug": "jamaica",
       "source_url": "https://www.airalo.com/api/v4/countries/jamaica",
-      "fetched_at": "2026-10-04T10:59:55.498Z",
+      "fetched_at": "2026-10-07T20:34:27.796Z",
       "currency": "USD",
       "plans": [
         {
@@ -17371,7 +17443,7 @@
       "provider": "holafly",
       "slug": "jamaica",
       "source_url": "https://esim.holafly.com/esim-jamaica/",
-      "fetched_at": "2026-10-04T11:01:22.103Z",
+      "fetched_at": "2026-10-07T20:36:37.014Z",
       "currency": "USD",
       "plans": [
         {
@@ -17386,7 +17458,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 19.9,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -17394,7 +17466,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.9,
           "plan_name": null,
           "network": null
         },
@@ -17402,7 +17474,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36.5,
+          "price": 36.9,
           "plan_name": null,
           "network": null
         },
@@ -17410,7 +17482,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 41.9,
+          "price": 43.9,
           "plan_name": null,
           "network": null
         },
@@ -17418,7 +17490,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 64.5,
+          "price": 64.9,
           "plan_name": null,
           "network": null
         },
@@ -17426,7 +17498,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 68.9,
+          "price": 69.5,
           "plan_name": null,
           "network": null
         },
@@ -17434,7 +17506,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 84.9,
+          "price": 87.9,
           "plan_name": null,
           "network": null
         },
@@ -17442,7 +17514,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 111.9,
+          "price": 116.5,
           "plan_name": null,
           "network": null
         }
@@ -17493,7 +17565,7 @@
       "provider": "yesim",
       "slug": "jamaica",
       "source_url": "https://yesim.app/country/jamaica/",
-      "fetched_at": "2026-10-04T11:04:52.605Z",
+      "fetched_at": "2026-10-07T20:44:39.205Z",
       "currency": "USD",
       "plans": [
         {
@@ -17566,7 +17638,7 @@
       "provider": "airalo",
       "slug": "japan",
       "source_url": "https://www.airalo.com/api/v4/countries/japan",
-      "fetched_at": "2026-10-03T16:34:58.891Z",
+      "fetched_at": "2026-10-07T20:33:14.083Z",
       "currency": "USD",
       "plans": [
         {
@@ -17711,7 +17783,7 @@
       "provider": "holafly",
       "slug": "japan",
       "source_url": "https://esim.holafly.com/esim-japan/",
-      "fetched_at": "2026-10-03T16:46:42.257Z",
+      "fetched_at": "2026-10-07T20:35:37.600Z",
       "currency": "USD",
       "plans": [
         {
@@ -17929,7 +18001,7 @@
       "provider": "ubigi",
       "slug": "japan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=jpn&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:48.456Z",
+      "fetched_at": "2026-10-07T20:39:37.993Z",
       "currency": "USD",
       "plans": [
         {
@@ -17937,22 +18009,6 @@
           "unlimited": false,
           "validity_days": 3,
           "price": 3.5,
-          "plan_name": null,
-          "network": "KDDI / NTT Docomo"
-        },
-        {
-          "data_gb": 1,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 4,
-          "plan_name": null,
-          "network": "KDDI / NTT Docomo"
-        },
-        {
-          "data_gb": 3,
-          "unlimited": false,
-          "validity_days": 15,
-          "price": 7.5,
           "plan_name": null,
           "network": "KDDI / NTT Docomo"
         },
@@ -18018,7 +18074,7 @@
       "provider": "yesim",
       "slug": "japan",
       "source_url": "https://yesim.app/country/japan/",
-      "fetched_at": "2026-10-03T16:50:30.781Z",
+      "fetched_at": "2026-10-07T20:42:49.632Z",
       "currency": "USD",
       "plans": [
         {
@@ -18139,7 +18195,7 @@
       "provider": "airalo",
       "slug": "jordan",
       "source_url": "https://www.airalo.com/api/v4/countries/jordan",
-      "fetched_at": "2026-10-04T11:00:25.940Z",
+      "fetched_at": "2026-10-07T20:34:59.586Z",
       "currency": "USD",
       "plans": [
         {
@@ -18236,7 +18292,7 @@
       "provider": "holafly",
       "slug": "jordan",
       "source_url": "https://esim.holafly.com/esim-jordan/",
-      "fetched_at": "2026-10-04T11:01:48.503Z",
+      "fetched_at": "2026-10-07T20:37:03.856Z",
       "currency": "USD",
       "plans": [
         {
@@ -18251,7 +18307,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -18259,7 +18315,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -18267,7 +18323,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -18275,7 +18331,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.9,
           "plan_name": null,
           "network": null
         },
@@ -18283,7 +18339,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -18291,7 +18347,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 57.9,
+          "price": 58.9,
           "plan_name": null,
           "network": null
         },
@@ -18299,7 +18355,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 72.9,
+          "price": 75.9,
           "plan_name": null,
           "network": null
         },
@@ -18307,7 +18363,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 107.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -18315,7 +18371,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 206.5,
+          "price": 208.5,
           "plan_name": null,
           "network": null
         },
@@ -18323,7 +18379,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 300.9,
+          "price": 301.9,
           "plan_name": null,
           "network": null
         }
@@ -18382,7 +18438,7 @@
       "provider": "ubigi",
       "slug": "jordan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=jor&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:35.458Z",
+      "fetched_at": "2026-10-07T20:41:54.762Z",
       "currency": "USD",
       "plans": [
         {
@@ -18415,7 +18471,7 @@
       "provider": "yesim",
       "slug": "jordan",
       "source_url": "https://yesim.app/country/jordan/",
-      "fetched_at": "2026-10-04T11:05:31.423Z",
+      "fetched_at": "2026-10-07T20:45:23.964Z",
       "currency": "USD",
       "plans": [
         {
@@ -18480,7 +18536,7 @@
       "provider": "airalo",
       "slug": "kenya",
       "source_url": "https://www.airalo.com/api/v4/countries/kenya",
-      "fetched_at": "2026-10-04T11:00:13.435Z",
+      "fetched_at": "2026-10-07T20:34:46.546Z",
       "currency": "USD",
       "plans": [
         {
@@ -18561,7 +18617,7 @@
       "provider": "holafly",
       "slug": "kenya",
       "source_url": "https://esim.holafly.com/esim-kenya/",
-      "fetched_at": "2026-10-04T11:01:37.573Z",
+      "fetched_at": "2026-10-07T20:36:52.920Z",
       "currency": "USD",
       "plans": [
         {
@@ -18584,7 +18640,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.9,
           "plan_name": null,
           "network": null
         },
@@ -18592,7 +18648,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -18600,7 +18656,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.9,
           "plan_name": null,
           "network": null
         },
@@ -18608,7 +18664,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 59.5,
+          "price": 62.5,
           "plan_name": null,
           "network": null
         },
@@ -18616,7 +18672,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 64.9,
+          "price": 66.5,
           "plan_name": null,
           "network": null
         },
@@ -18624,7 +18680,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 85.9,
+          "price": 88.5,
           "plan_name": null,
           "network": null
         },
@@ -18632,7 +18688,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 125.9,
+          "price": 128.9,
           "plan_name": null,
           "network": null
         }
@@ -18683,7 +18739,7 @@
       "provider": "ubigi",
       "slug": "kenya",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ken&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:18.197Z",
+      "fetched_at": "2026-10-07T20:41:37.545Z",
       "currency": "USD",
       "plans": [
         {
@@ -18748,7 +18804,7 @@
       "provider": "yesim",
       "slug": "kenya",
       "source_url": "https://yesim.app/country/kenya/",
-      "fetched_at": "2026-10-04T11:05:15.856Z",
+      "fetched_at": "2026-10-07T20:45:06.078Z",
       "currency": "USD",
       "plans": [
         {
@@ -18869,7 +18925,7 @@
       "provider": "airalo",
       "slug": "laos",
       "source_url": "https://www.airalo.com/api/v4/countries/laos",
-      "fetched_at": "2026-10-04T11:00:33.192Z",
+      "fetched_at": "2026-10-07T20:35:07.117Z",
       "currency": "USD",
       "plans": [
         {
@@ -19014,7 +19070,7 @@
       "provider": "holafly",
       "slug": "laos",
       "source_url": "https://esim.holafly.com/esim-laos/",
-      "fetched_at": "2026-10-04T11:01:54.601Z",
+      "fetched_at": "2026-10-07T20:37:09.898Z",
       "currency": "USD",
       "plans": [
         {
@@ -19029,7 +19085,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 19.9,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -19037,7 +19093,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 30.9,
+          "price": 31.5,
           "plan_name": null,
           "network": null
         },
@@ -19045,7 +19101,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 39.5,
+          "price": 40.9,
           "plan_name": null,
           "network": null
         },
@@ -19053,7 +19109,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 46.9,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -19061,7 +19117,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -19069,7 +19125,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 63.5,
+          "price": 64.9,
           "plan_name": null,
           "network": null
         },
@@ -19077,7 +19133,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 79.9,
+          "price": 81.9,
           "plan_name": null,
           "network": null
         },
@@ -19085,7 +19141,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 111.9,
+          "price": 115.5,
           "plan_name": null,
           "network": null
         },
@@ -19093,7 +19149,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 211.5,
+          "price": 216.5,
           "plan_name": null,
           "network": null
         },
@@ -19160,7 +19216,7 @@
       "provider": "yesim",
       "slug": "laos",
       "source_url": "https://yesim.app/country/laos/",
-      "fetched_at": "2026-10-04T11:05:40.802Z",
+      "fetched_at": "2026-10-07T20:45:34.266Z",
       "currency": "USD",
       "plans": [
         {
@@ -19241,7 +19297,7 @@
       "provider": "airalo",
       "slug": "lebanon",
       "source_url": "https://www.airalo.com/api/v4/countries/lebanon",
-      "fetched_at": "2026-10-04T11:00:22.383Z",
+      "fetched_at": "2026-10-07T20:34:55.863Z",
       "currency": "USD",
       "plans": [
         {
@@ -19322,7 +19378,7 @@
       "provider": "airalo",
       "slug": "malaysia",
       "source_url": "https://www.airalo.com/api/v4/countries/malaysia",
-      "fetched_at": "2026-10-04T11:00:17.059Z",
+      "fetched_at": "2026-10-07T20:34:50.283Z",
       "currency": "USD",
       "plans": [
         {
@@ -19475,7 +19531,7 @@
       "provider": "holafly",
       "slug": "malaysia",
       "source_url": "https://esim.holafly.com/esim-malaysia/",
-      "fetched_at": "2026-10-04T11:01:40.614Z",
+      "fetched_at": "2026-10-07T20:36:55.939Z",
       "currency": "USD",
       "plans": [
         {
@@ -19669,7 +19725,7 @@
       "provider": "ubigi",
       "slug": "malaysia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mys&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:23.424Z",
+      "fetched_at": "2026-10-07T20:41:43.043Z",
       "currency": "USD",
       "plans": [
         {
@@ -19734,7 +19790,7 @@
       "provider": "yesim",
       "slug": "malaysia",
       "source_url": "https://yesim.app/country/malaysia/",
-      "fetched_at": "2026-10-04T11:05:21.174Z",
+      "fetched_at": "2026-10-07T20:45:12.105Z",
       "currency": "USD",
       "plans": [
         {
@@ -19855,7 +19911,7 @@
       "provider": "airalo",
       "slug": "maldives",
       "source_url": "https://www.airalo.com/api/v4/countries/maldives",
-      "fetched_at": "2026-10-04T11:00:51.293Z",
+      "fetched_at": "2026-10-07T20:35:25.298Z",
       "currency": "USD",
       "plans": [
         {
@@ -19872,7 +19928,7 @@
       "provider": "holafly",
       "slug": "maldives",
       "source_url": "https://esim.holafly.com/esim-maldives/",
-      "fetched_at": "2026-10-04T11:02:09.810Z",
+      "fetched_at": "2026-10-07T20:37:24.980Z",
       "currency": "USD",
       "plans": [
         {
@@ -19970,7 +20026,7 @@
       "provider": "yesim",
       "slug": "maldives",
       "source_url": "https://yesim.app/country/maldives/",
-      "fetched_at": "2026-10-04T11:06:04.874Z",
+      "fetched_at": "2026-10-07T20:46:01.191Z",
       "currency": "USD",
       "plans": [
         {
@@ -20067,7 +20123,7 @@
       "provider": "airalo",
       "slug": "mexico",
       "source_url": "https://www.airalo.com/api/v4/countries/mexico",
-      "fetched_at": "2026-10-03T16:35:10.221Z",
+      "fetched_at": "2026-10-07T20:33:25.387Z",
       "currency": "USD",
       "plans": [
         {
@@ -20220,7 +20276,7 @@
       "provider": "holafly",
       "slug": "mexico",
       "source_url": "https://esim.holafly.com/esim-mexico/",
-      "fetched_at": "2026-10-03T16:46:51.409Z",
+      "fetched_at": "2026-10-07T20:35:46.662Z",
       "currency": "USD",
       "plans": [
         {
@@ -20235,7 +20291,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 10.9,
+          "price": 11.5,
           "plan_name": null,
           "network": null
         },
@@ -20243,7 +20299,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 17.5,
+          "price": 18.5,
           "plan_name": null,
           "network": null
         },
@@ -20251,7 +20307,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 23.9,
+          "price": 24.5,
           "plan_name": null,
           "network": null
         },
@@ -20259,7 +20315,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 31.9,
+          "price": 32.9,
           "plan_name": null,
           "network": null
         },
@@ -20267,7 +20323,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 41.5,
+          "price": 42.9,
           "plan_name": null,
           "network": null
         },
@@ -20275,7 +20331,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 43.9,
+          "price": 44.9,
           "plan_name": null,
           "network": null
         },
@@ -20283,7 +20339,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 53.5,
+          "price": 55.5,
           "plan_name": null,
           "network": null
         },
@@ -20291,7 +20347,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 64.9,
+          "price": 66.5,
           "plan_name": null,
           "network": null
         },
@@ -20299,7 +20355,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 93.5,
+          "price": 96.5,
           "plan_name": null,
           "network": null
         },
@@ -20307,7 +20363,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 121.9,
+          "price": 125.5,
           "plan_name": null,
           "network": null
         }
@@ -20414,7 +20470,7 @@
       "provider": "ubigi",
       "slug": "mexico",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mex&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:57.980Z",
+      "fetched_at": "2026-10-07T20:39:49.980Z",
       "currency": "USD",
       "plans": [
         {
@@ -20445,7 +20501,7 @@
           "data_gb": 10,
           "unlimited": false,
           "validity_days": 7,
-          "price": 24,
+          "price": 22,
           "plan_name": null,
           "network": "Altan Redes / Movistar / Telcel Mexico"
         },
@@ -20453,7 +20509,7 @@
           "data_gb": 10,
           "unlimited": false,
           "validity_days": 30,
-          "price": 26,
+          "price": 24,
           "plan_name": null,
           "network": "Altan Redes / Movistar / Telcel Mexico"
         },
@@ -20461,8 +20517,16 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 39,
+          "price": 36,
           "plan_name": "Unlimited (fair use 20GB)",
+          "network": "Altan Redes / Movistar / Telcel Mexico"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 58,
+          "plan_name": "Unlimited (fair use 5GB)",
           "network": "Altan Redes / Movistar / Telcel Mexico"
         }
       ]
@@ -20471,7 +20535,7 @@
       "provider": "yesim",
       "slug": "mexico",
       "source_url": "https://yesim.app/country/mexico/",
-      "fetched_at": "2026-10-03T16:50:44.538Z",
+      "fetched_at": "2026-10-07T20:43:06.386Z",
       "currency": "USD",
       "plans": [
         {
@@ -20592,7 +20656,7 @@
       "provider": "airalo",
       "slug": "morocco",
       "source_url": "https://www.airalo.com/api/v4/countries/morocco",
-      "fetched_at": "2026-10-04T10:59:44.454Z",
+      "fetched_at": "2026-10-07T20:34:16.764Z",
       "currency": "USD",
       "plans": [
         {
@@ -20721,7 +20785,7 @@
       "provider": "holafly",
       "slug": "morocco",
       "source_url": "https://esim.holafly.com/esim-morocco/",
-      "fetched_at": "2026-10-04T11:01:12.689Z",
+      "fetched_at": "2026-10-07T20:36:27.414Z",
       "currency": "USD",
       "plans": [
         {
@@ -20736,7 +20800,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 14.5,
+          "price": 14.9,
           "plan_name": null,
           "network": null
         },
@@ -20752,7 +20816,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 31.5,
+          "price": 32.5,
           "plan_name": null,
           "network": null
         },
@@ -20760,7 +20824,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 41.9,
+          "price": 42.9,
           "plan_name": null,
           "network": null
         },
@@ -20768,7 +20832,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 54.5,
+          "price": 56.5,
           "plan_name": null,
           "network": null
         },
@@ -20776,7 +20840,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 57.9,
+          "price": 59.9,
           "plan_name": null,
           "network": null
         },
@@ -20784,7 +20848,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 69.9,
+          "price": 71.9,
           "plan_name": null,
           "network": null
         },
@@ -20792,7 +20856,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 84.9,
+          "price": 86.9,
           "plan_name": null,
           "network": null
         },
@@ -20800,7 +20864,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 122.5,
+          "price": 125.9,
           "plan_name": null,
           "network": null
         },
@@ -20808,7 +20872,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 159.5,
+          "price": 163.9,
           "plan_name": null,
           "network": null
         }
@@ -20899,7 +20963,7 @@
       "provider": "ubigi",
       "slug": "morocco",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mar&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:38.980Z",
+      "fetched_at": "2026-10-07T20:40:56.163Z",
       "currency": "USD",
       "plans": [
         {
@@ -20972,7 +21036,7 @@
       "provider": "yesim",
       "slug": "morocco",
       "source_url": "https://yesim.app/country/morocco/",
-      "fetched_at": "2026-10-04T11:04:39.472Z",
+      "fetched_at": "2026-10-07T20:44:23.718Z",
       "currency": "USD",
       "plans": [
         {
@@ -21101,7 +21165,7 @@
       "provider": "airalo",
       "slug": "netherlands",
       "source_url": "https://www.airalo.com/api/v4/countries/netherlands",
-      "fetched_at": "2026-10-04T11:01:00.493Z",
+      "fetched_at": "2026-10-07T20:35:34.511Z",
       "currency": "USD",
       "plans": [
         {
@@ -21254,7 +21318,7 @@
       "provider": "holafly",
       "slug": "netherlands",
       "source_url": "https://esim.holafly.com/esim-netherlands/",
-      "fetched_at": "2026-10-04T11:02:17.400Z",
+      "fetched_at": "2026-10-07T20:37:32.806Z",
       "currency": "USD",
       "plans": [
         {
@@ -21448,7 +21512,7 @@
       "provider": "ubigi",
       "slug": "netherlands",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nld&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:20.379Z",
+      "fetched_at": "2026-10-07T20:42:43.505Z",
       "currency": "USD",
       "plans": [
         {
@@ -21521,7 +21585,7 @@
       "provider": "yesim",
       "slug": "netherlands",
       "source_url": "https://yesim.app/country/netherlands/",
-      "fetched_at": "2026-10-04T11:06:17.494Z",
+      "fetched_at": "2026-10-07T20:46:15.349Z",
       "currency": "USD",
       "plans": [
         {
@@ -21642,7 +21706,7 @@
       "provider": "airalo",
       "slug": "new-zealand",
       "source_url": "https://www.airalo.com/api/v4/countries/new-zealand",
-      "fetched_at": "2026-10-04T10:59:31.717Z",
+      "fetched_at": "2026-10-07T20:34:03.519Z",
       "currency": "USD",
       "plans": [
         {
@@ -21795,7 +21859,7 @@
       "provider": "holafly",
       "slug": "new-zealand",
       "source_url": "https://esim.holafly.com/esim-new-zealand/",
-      "fetched_at": "2026-10-04T11:01:02.055Z",
+      "fetched_at": "2026-10-07T20:36:16.841Z",
       "currency": "USD",
       "plans": [
         {
@@ -21834,7 +21898,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -21842,7 +21906,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -21850,7 +21914,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -21858,7 +21922,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -21866,7 +21930,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -21874,7 +21938,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -21882,7 +21946,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -21989,7 +22053,7 @@
       "provider": "ubigi",
       "slug": "new-zealand",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nzl&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:20.495Z",
+      "fetched_at": "2026-10-07T20:40:38.849Z",
       "currency": "USD",
       "plans": [
         {
@@ -22054,7 +22118,7 @@
       "provider": "yesim",
       "slug": "new-zealand",
       "source_url": "https://yesim.app/country/new-zealand/",
-      "fetched_at": "2026-10-04T11:04:23.031Z",
+      "fetched_at": "2026-10-07T20:44:04.352Z",
       "currency": "USD",
       "plans": [
         {
@@ -22175,7 +22239,7 @@
       "provider": "airalo",
       "slug": "norway",
       "source_url": "https://www.airalo.com/api/v4/countries/norway",
-      "fetched_at": "2026-10-04T10:59:59.159Z",
+      "fetched_at": "2026-10-07T20:34:31.578Z",
       "currency": "USD",
       "plans": [
         {
@@ -22328,7 +22392,7 @@
       "provider": "holafly",
       "slug": "norway",
       "source_url": "https://esim.holafly.com/esim-norway/",
-      "fetched_at": "2026-10-04T11:01:25.149Z",
+      "fetched_at": "2026-10-07T20:36:40.032Z",
       "currency": "USD",
       "plans": [
         {
@@ -22522,7 +22586,7 @@
       "provider": "ubigi",
       "slug": "norway",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nor&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:59.599Z",
+      "fetched_at": "2026-10-07T20:41:15.955Z",
       "currency": "USD",
       "plans": [
         {
@@ -22595,7 +22659,7 @@
       "provider": "yesim",
       "slug": "norway",
       "source_url": "https://yesim.app/country/norway/",
-      "fetched_at": "2026-10-04T11:04:57.176Z",
+      "fetched_at": "2026-10-07T20:44:44.436Z",
       "currency": "USD",
       "plans": [
         {
@@ -22716,7 +22780,7 @@
       "provider": "airalo",
       "slug": "pakistan",
       "source_url": "https://www.airalo.com/api/v4/countries/pakistan",
-      "fetched_at": "2026-10-04T11:00:15.249Z",
+      "fetched_at": "2026-10-07T20:34:48.448Z",
       "currency": "USD",
       "plans": [
         {
@@ -22861,7 +22925,7 @@
       "provider": "holafly",
       "slug": "pakistan",
       "source_url": "https://esim.holafly.com/esim-pakistan/",
-      "fetched_at": "2026-10-04T11:01:39.095Z",
+      "fetched_at": "2026-10-07T20:36:54.429Z",
       "currency": "USD",
       "plans": [
         {
@@ -22876,7 +22940,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -22884,7 +22948,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -22892,7 +22956,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.5,
+          "price": 27.9,
           "plan_name": null,
           "network": null
         },
@@ -22900,7 +22964,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -22908,7 +22972,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -22924,7 +22988,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -22940,7 +23004,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -23055,7 +23119,7 @@
       "provider": "ubigi",
       "slug": "pakistan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pak&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:20.807Z",
+      "fetched_at": "2026-10-07T20:41:40.303Z",
       "currency": "USD",
       "plans": [
         {
@@ -23128,7 +23192,7 @@
       "provider": "yesim",
       "slug": "pakistan",
       "source_url": "https://yesim.app/country/pakistan/",
-      "fetched_at": "2026-10-04T11:05:18.511Z",
+      "fetched_at": "2026-10-07T20:45:08.944Z",
       "currency": "USD",
       "plans": [
         {
@@ -23257,7 +23321,7 @@
       "provider": "airalo",
       "slug": "panama",
       "source_url": "https://www.airalo.com/api/v4/countries/panama",
-      "fetched_at": "2026-10-04T10:59:57.370Z",
+      "fetched_at": "2026-10-07T20:34:29.743Z",
       "currency": "USD",
       "plans": [
         {
@@ -23402,7 +23466,7 @@
       "provider": "holafly",
       "slug": "panama",
       "source_url": "https://esim.holafly.com/esim-panama/",
-      "fetched_at": "2026-10-04T11:01:23.625Z",
+      "fetched_at": "2026-10-07T20:36:38.523Z",
       "currency": "USD",
       "plans": [
         {
@@ -23425,7 +23489,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -23433,7 +23497,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 33.9,
+          "price": 35.5,
           "plan_name": null,
           "network": null
         },
@@ -23441,7 +23505,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.5,
           "plan_name": null,
           "network": null
         },
@@ -23449,7 +23513,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 51.5,
+          "price": 52.5,
           "plan_name": null,
           "network": null
         },
@@ -23457,7 +23521,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 54.9,
+          "price": 55.5,
           "plan_name": null,
           "network": null
         },
@@ -23465,7 +23529,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 71.5,
+          "price": 72.9,
           "plan_name": null,
           "network": null
         },
@@ -23473,7 +23537,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -23481,7 +23545,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 203.9,
+          "price": 206.5,
           "plan_name": null,
           "network": null
         },
@@ -23540,7 +23604,7 @@
       "provider": "ubigi",
       "slug": "panama",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pan&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:56.959Z",
+      "fetched_at": "2026-10-07T20:41:14.037Z",
       "currency": "USD",
       "plans": [
         {
@@ -23605,7 +23669,7 @@
       "provider": "yesim",
       "slug": "panama",
       "source_url": "https://yesim.app/country/panama/",
-      "fetched_at": "2026-10-04T11:04:54.683Z",
+      "fetched_at": "2026-10-07T20:44:41.445Z",
       "currency": "USD",
       "plans": [
         {
@@ -23686,7 +23750,7 @@
       "provider": "airalo",
       "slug": "peru",
       "source_url": "https://www.airalo.com/api/v4/countries/peru",
-      "fetched_at": "2026-10-04T10:59:39.040Z",
+      "fetched_at": "2026-10-07T20:34:11.001Z",
       "currency": "USD",
       "plans": [
         {
@@ -23831,7 +23895,7 @@
       "provider": "holafly",
       "slug": "peru",
       "source_url": "https://esim.holafly.com/esim-peru/",
-      "fetched_at": "2026-10-04T11:01:08.124Z",
+      "fetched_at": "2026-10-07T20:36:22.882Z",
       "currency": "USD",
       "plans": [
         {
@@ -23854,7 +23918,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 25.5,
+          "price": 26.5,
           "plan_name": null,
           "network": null
         },
@@ -23862,7 +23926,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 32.9,
+          "price": 33.9,
           "plan_name": null,
           "network": null
         },
@@ -23870,7 +23934,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 35.5,
+          "price": 36.5,
           "plan_name": null,
           "network": null
         },
@@ -23878,7 +23942,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 42.9,
+          "price": 43.5,
           "plan_name": null,
           "network": null
         },
@@ -23886,7 +23950,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 44.9,
+          "price": 45.9,
           "plan_name": null,
           "network": null
         },
@@ -23894,7 +23958,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 54.9,
+          "price": 55.9,
           "plan_name": null,
           "network": null
         },
@@ -23902,7 +23966,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 79.9,
+          "price": 81.9,
           "plan_name": null,
           "network": null
         },
@@ -23910,7 +23974,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 138.5,
+          "price": 141.5,
           "plan_name": null,
           "network": null
         },
@@ -23918,7 +23982,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 196.9,
+          "price": 200.5,
           "plan_name": null,
           "network": null
         }
@@ -24025,7 +24089,7 @@
       "provider": "ubigi",
       "slug": "peru",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=per&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:31.416Z",
+      "fetched_at": "2026-10-07T20:40:49.455Z",
       "currency": "USD",
       "plans": [
         {
@@ -24090,7 +24154,7 @@
       "provider": "yesim",
       "slug": "peru",
       "source_url": "https://yesim.app/country/peru/",
-      "fetched_at": "2026-10-04T11:04:32.229Z",
+      "fetched_at": "2026-10-07T20:44:14.762Z",
       "currency": "USD",
       "plans": [
         {
@@ -24171,7 +24235,7 @@
       "provider": "airalo",
       "slug": "philippines",
       "source_url": "https://www.airalo.com/api/v4/countries/philippines",
-      "fetched_at": "2026-10-03T16:35:17.523Z",
+      "fetched_at": "2026-10-07T20:33:32.683Z",
       "currency": "USD",
       "plans": [
         {
@@ -24324,7 +24388,7 @@
       "provider": "holafly",
       "slug": "philippines",
       "source_url": "https://esim.holafly.com/esim-philippines/",
-      "fetched_at": "2026-10-03T16:46:57.497Z",
+      "fetched_at": "2026-10-07T20:35:52.695Z",
       "currency": "USD",
       "plans": [
         {
@@ -24518,7 +24582,7 @@
       "provider": "ubigi",
       "slug": "philippines",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=phl&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:04.365Z",
+      "fetched_at": "2026-10-07T20:39:59.520Z",
       "currency": "USD",
       "plans": [
         {
@@ -24599,7 +24663,7 @@
       "provider": "yesim",
       "slug": "philippines",
       "source_url": "https://yesim.app/country/philippines/",
-      "fetched_at": "2026-10-03T16:50:55.056Z",
+      "fetched_at": "2026-10-07T20:43:18.393Z",
       "currency": "USD",
       "plans": [
         {
@@ -24728,7 +24792,7 @@
       "provider": "airalo",
       "slug": "poland",
       "source_url": "https://www.airalo.com/api/v4/countries/poland",
-      "fetched_at": "2026-10-04T11:00:56.746Z",
+      "fetched_at": "2026-10-07T20:35:30.815Z",
       "currency": "USD",
       "plans": [
         {
@@ -24881,7 +24945,7 @@
       "provider": "holafly",
       "slug": "poland",
       "source_url": "https://esim.holafly.com/esim-poland/",
-      "fetched_at": "2026-10-04T11:02:14.363Z",
+      "fetched_at": "2026-10-07T20:37:29.790Z",
       "currency": "USD",
       "plans": [
         {
@@ -25075,7 +25139,7 @@
       "provider": "ubigi",
       "slug": "poland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pol&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:16.252Z",
+      "fetched_at": "2026-10-07T20:42:37.881Z",
       "currency": "USD",
       "plans": [
         {
@@ -25140,7 +25204,7 @@
       "provider": "yesim",
       "slug": "poland",
       "source_url": "https://yesim.app/country/poland/",
-      "fetched_at": "2026-10-04T11:06:12.301Z",
+      "fetched_at": "2026-10-07T20:46:09.408Z",
       "currency": "USD",
       "plans": [
         {
@@ -25261,7 +25325,7 @@
       "provider": "airalo",
       "slug": "portugal",
       "source_url": "https://www.airalo.com/api/v4/countries/portugal",
-      "fetched_at": "2026-10-03T16:35:30.274Z",
+      "fetched_at": "2026-10-07T20:33:45.866Z",
       "currency": "USD",
       "plans": [
         {
@@ -25414,7 +25478,7 @@
       "provider": "holafly",
       "slug": "portugal",
       "source_url": "https://esim.holafly.com/esim-portugal/",
-      "fetched_at": "2026-10-03T16:47:08.163Z",
+      "fetched_at": "2026-10-07T20:36:03.261Z",
       "currency": "USD",
       "plans": [
         {
@@ -25608,7 +25672,7 @@
       "provider": "ubigi",
       "slug": "portugal",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=prt&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:15.453Z",
+      "fetched_at": "2026-10-07T20:40:16.361Z",
       "currency": "USD",
       "plans": [
         {
@@ -25681,7 +25745,7 @@
       "provider": "yesim",
       "slug": "portugal",
       "source_url": "https://yesim.app/country/portugal/",
-      "fetched_at": "2026-10-03T16:51:12.763Z",
+      "fetched_at": "2026-10-07T20:43:40.010Z",
       "currency": "USD",
       "plans": [
         {
@@ -25802,7 +25866,7 @@
       "provider": "holafly",
       "slug": "puerto-rico",
       "source_url": "https://esim.holafly.com/esim-puerto-rico/",
-      "fetched_at": "2026-10-04T11:02:03.730Z",
+      "fetched_at": "2026-10-07T20:37:18.944Z",
       "currency": "USD",
       "plans": [
         {
@@ -25825,7 +25889,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -25833,7 +25897,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 33.9,
+          "price": 35.5,
           "plan_name": null,
           "network": null
         },
@@ -25841,7 +25905,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.5,
           "plan_name": null,
           "network": null
         },
@@ -25849,7 +25913,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 51.5,
+          "price": 52.5,
           "plan_name": null,
           "network": null
         },
@@ -25857,7 +25921,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 54.9,
+          "price": 55.5,
           "plan_name": null,
           "network": null
         },
@@ -25865,7 +25929,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 71.5,
+          "price": 72.9,
           "plan_name": null,
           "network": null
         },
@@ -25873,7 +25937,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -25881,7 +25945,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 203.9,
+          "price": 206.5,
           "plan_name": null,
           "network": null
         },
@@ -25948,7 +26012,7 @@
       "provider": "yesim",
       "slug": "puerto-rico",
       "source_url": "https://yesim.app/country/puerto-rico/",
-      "fetched_at": "2026-10-04T11:05:55.090Z",
+      "fetched_at": "2026-10-07T20:45:50.273Z",
       "currency": "USD",
       "plans": [
         {
@@ -26037,7 +26101,7 @@
       "provider": "airalo",
       "slug": "qatar",
       "source_url": "https://www.airalo.com/api/v4/countries/qatar",
-      "fetched_at": "2026-10-04T11:00:58.603Z",
+      "fetched_at": "2026-10-07T20:35:32.642Z",
       "currency": "USD",
       "plans": [
         {
@@ -26182,7 +26246,7 @@
       "provider": "holafly",
       "slug": "qatar",
       "source_url": "https://esim.holafly.com/esim-qatar/",
-      "fetched_at": "2026-10-04T11:02:15.878Z",
+      "fetched_at": "2026-10-07T20:37:31.297Z",
       "currency": "USD",
       "plans": [
         {
@@ -26312,7 +26376,7 @@
       "provider": "ubigi",
       "slug": "qatar",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=qat&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:18.783Z",
+      "fetched_at": "2026-10-07T20:42:40.686Z",
       "currency": "USD",
       "plans": [
         {
@@ -26353,7 +26417,7 @@
       "provider": "yesim",
       "slug": "qatar",
       "source_url": "https://yesim.app/country/qatar/",
-      "fetched_at": "2026-10-04T11:06:14.947Z",
+      "fetched_at": "2026-10-07T20:46:12.399Z",
       "currency": "USD",
       "plans": [
         {
@@ -26482,7 +26546,7 @@
       "provider": "airalo",
       "slug": "romania",
       "source_url": "https://www.airalo.com/api/v4/countries/romania",
-      "fetched_at": "2026-10-04T11:00:36.903Z",
+      "fetched_at": "2026-10-07T20:35:10.832Z",
       "currency": "USD",
       "plans": [
         {
@@ -26627,7 +26691,7 @@
       "provider": "holafly",
       "slug": "romania",
       "source_url": "https://esim.holafly.com/esim-romania/",
-      "fetched_at": "2026-10-04T11:01:57.642Z",
+      "fetched_at": "2026-10-07T20:37:12.913Z",
       "currency": "USD",
       "plans": [
         {
@@ -26666,7 +26730,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -26674,7 +26738,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -26682,7 +26746,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -26690,7 +26754,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -26698,7 +26762,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -26706,7 +26770,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -26714,7 +26778,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -26821,7 +26885,7 @@
       "provider": "ubigi",
       "slug": "romania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=rou&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:49.972Z",
+      "fetched_at": "2026-10-07T20:42:10.877Z",
       "currency": "USD",
       "plans": [
         {
@@ -26847,6 +26911,30 @@
           "price": 34,
           "plan_name": null,
           "network": "Digi / Orange Romania"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 19,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Digi / Orange Romania"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 35,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Digi / Orange Romania"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 48,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Digi / Orange Romania"
         }
       ]
     },
@@ -26854,7 +26942,7 @@
       "provider": "yesim",
       "slug": "romania",
       "source_url": "https://yesim.app/country/romania/",
-      "fetched_at": "2026-10-04T11:05:45.923Z",
+      "fetched_at": "2026-10-07T20:45:40.123Z",
       "currency": "USD",
       "plans": [
         {
@@ -26975,7 +27063,7 @@
       "provider": "holafly",
       "slug": "russia",
       "source_url": "https://esim.holafly.com/esim-russia/",
-      "fetched_at": "2026-10-04T11:02:02.207Z",
+      "fetched_at": "2026-10-07T20:37:17.435Z",
       "currency": "USD",
       "plans": [
         {
@@ -27072,7 +27160,7 @@
       "provider": "ubigi",
       "slug": "russia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=rus&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:57.677Z",
+      "fetched_at": "2026-10-07T20:42:18.517Z",
       "currency": "USD",
       "plans": [
         {
@@ -27153,7 +27241,7 @@
       "provider": "yesim",
       "slug": "russia",
       "source_url": "https://yesim.app/country/russia/",
-      "fetched_at": "2026-10-04T11:05:53.048Z",
+      "fetched_at": "2026-10-07T20:45:47.867Z",
       "currency": "USD",
       "plans": [
         {
@@ -27274,7 +27362,7 @@
       "provider": "airalo",
       "slug": "saudi-arabia",
       "source_url": "https://www.airalo.com/api/v4/countries/saudi-arabia",
-      "fetched_at": "2026-10-04T11:00:02.919Z",
+      "fetched_at": "2026-10-07T20:34:35.237Z",
       "currency": "USD",
       "plans": [
         {
@@ -27427,7 +27515,7 @@
       "provider": "holafly",
       "slug": "saudi-arabia",
       "source_url": "https://esim.holafly.com/esim-saudi-arabia/",
-      "fetched_at": "2026-10-04T11:01:28.189Z",
+      "fetched_at": "2026-10-07T20:36:43.049Z",
       "currency": "USD",
       "plans": [
         {
@@ -27442,7 +27530,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -27450,7 +27538,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -27458,7 +27546,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.9,
+          "price": 28.5,
           "plan_name": null,
           "network": null
         },
@@ -27466,7 +27554,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.9,
           "plan_name": null,
           "network": null
         },
@@ -27474,7 +27562,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -27482,7 +27570,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 57.9,
+          "price": 58.9,
           "plan_name": null,
           "network": null
         },
@@ -27490,7 +27578,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 72.9,
+          "price": 75.9,
           "plan_name": null,
           "network": null
         },
@@ -27498,7 +27586,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 107.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -27506,7 +27594,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 206.5,
+          "price": 208.5,
           "plan_name": null,
           "network": null
         },
@@ -27514,7 +27602,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 300.9,
+          "price": 301.9,
           "plan_name": null,
           "network": null
         }
@@ -27613,7 +27701,7 @@
       "provider": "ubigi",
       "slug": "saudi-arabia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=sau&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:04.965Z",
+      "fetched_at": "2026-10-07T20:41:21.843Z",
       "currency": "USD",
       "plans": [
         {
@@ -27654,7 +27742,7 @@
       "provider": "yesim",
       "slug": "saudi-arabia",
       "source_url": "https://yesim.app/country/saudi-arabia/",
-      "fetched_at": "2026-10-04T11:05:02.355Z",
+      "fetched_at": "2026-10-07T20:44:50.453Z",
       "currency": "USD",
       "plans": [
         {
@@ -27783,7 +27871,7 @@
       "provider": "airalo",
       "slug": "singapore",
       "source_url": "https://www.airalo.com/api/v4/countries/singapore",
-      "fetched_at": "2026-10-03T16:35:40.931Z",
+      "fetched_at": "2026-10-07T20:33:56.941Z",
       "currency": "USD",
       "plans": [
         {
@@ -27936,7 +28024,7 @@
       "provider": "holafly",
       "slug": "singapore",
       "source_url": "https://esim.holafly.com/esim-singapore/",
-      "fetched_at": "2026-10-03T16:47:17.286Z",
+      "fetched_at": "2026-10-07T20:36:12.312Z",
       "currency": "USD",
       "plans": [
         {
@@ -27975,7 +28063,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -27983,7 +28071,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -27991,7 +28079,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -27999,7 +28087,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -28007,7 +28095,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -28015,7 +28103,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -28023,7 +28111,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -28130,7 +28218,7 @@
       "provider": "ubigi",
       "slug": "singapore",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=sgp&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:25.069Z",
+      "fetched_at": "2026-10-07T20:40:31.622Z",
       "currency": "USD",
       "plans": [
         {
@@ -28203,7 +28291,7 @@
       "provider": "yesim",
       "slug": "singapore",
       "source_url": "https://yesim.app/country/singapore/",
-      "fetched_at": "2026-10-03T16:51:28.619Z",
+      "fetched_at": "2026-10-07T20:43:56.745Z",
       "currency": "USD",
       "plans": [
         {
@@ -28324,7 +28412,7 @@
       "provider": "airalo",
       "slug": "south-africa",
       "source_url": "https://www.airalo.com/api/v4/countries/south-africa",
-      "fetched_at": "2026-10-04T10:59:50.039Z",
+      "fetched_at": "2026-10-07T20:34:22.230Z",
       "currency": "USD",
       "plans": [
         {
@@ -28477,7 +28565,7 @@
       "provider": "holafly",
       "slug": "south-africa",
       "source_url": "https://esim.holafly.com/esim-south-africa/",
-      "fetched_at": "2026-10-04T11:01:17.241Z",
+      "fetched_at": "2026-10-07T20:36:31.940Z",
       "currency": "USD",
       "plans": [
         {
@@ -28663,7 +28751,7 @@
       "provider": "ubigi",
       "slug": "south-africa",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=zaf&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:47.310Z",
+      "fetched_at": "2026-10-07T20:41:04.896Z",
       "currency": "USD",
       "plans": [
         {
@@ -28744,7 +28832,7 @@
       "provider": "yesim",
       "slug": "south-africa",
       "source_url": "https://yesim.app/country/south-africa/",
-      "fetched_at": "2026-10-04T11:04:46.347Z",
+      "fetched_at": "2026-10-07T20:44:31.829Z",
       "currency": "USD",
       "plans": [
         {
@@ -28817,7 +28905,7 @@
       "provider": "airalo",
       "slug": "south-korea",
       "source_url": "https://www.airalo.com/api/v4/countries/south-korea",
-      "fetched_at": "2026-10-03T16:35:33.898Z",
+      "fetched_at": "2026-10-07T20:33:49.572Z",
       "currency": "USD",
       "plans": [
         {
@@ -28970,7 +29058,7 @@
       "provider": "holafly",
       "slug": "south-korea",
       "source_url": "https://esim.holafly.com/esim-south-korea/",
-      "fetched_at": "2026-10-03T16:47:11.194Z",
+      "fetched_at": "2026-10-07T20:36:06.278Z",
       "currency": "USD",
       "plans": [
         {
@@ -29164,7 +29252,7 @@
       "provider": "ubigi",
       "slug": "south-korea",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=kor&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:18.650Z",
+      "fetched_at": "2026-10-07T20:40:22.137Z",
       "currency": "USD",
       "plans": [
         {
@@ -29237,7 +29325,7 @@
       "provider": "yesim",
       "slug": "south-korea",
       "source_url": "https://yesim.app/country/south-korea/",
-      "fetched_at": "2026-10-03T16:51:18.084Z",
+      "fetched_at": "2026-10-07T20:43:45.312Z",
       "currency": "USD",
       "plans": [
         {
@@ -29350,7 +29438,7 @@
       "provider": "airalo",
       "slug": "spain",
       "source_url": "https://www.airalo.com/api/v4/countries/spain",
-      "fetched_at": "2026-10-03T16:35:15.766Z",
+      "fetched_at": "2026-10-07T20:33:30.877Z",
       "currency": "USD",
       "plans": [
         {
@@ -29503,7 +29591,7 @@
       "provider": "holafly",
       "slug": "spain",
       "source_url": "https://esim.holafly.com/esim-spain/",
-      "fetched_at": "2026-10-03T16:46:55.970Z",
+      "fetched_at": "2026-10-07T20:35:51.187Z",
       "currency": "USD",
       "plans": [
         {
@@ -29526,7 +29614,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 17.5,
+          "price": 18.5,
           "plan_name": null,
           "network": null
         },
@@ -29534,7 +29622,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 23.9,
+          "price": 24.5,
           "plan_name": null,
           "network": null
         },
@@ -29542,7 +29630,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 32.9,
+          "price": 33.5,
           "plan_name": null,
           "network": null
         },
@@ -29550,7 +29638,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 41.9,
+          "price": 43.5,
           "plan_name": null,
           "network": null
         },
@@ -29558,7 +29646,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 44.5,
+          "price": 45.9,
           "plan_name": null,
           "network": null
         },
@@ -29566,7 +29654,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 54.5,
+          "price": 55.9,
           "plan_name": null,
           "network": null
         },
@@ -29574,7 +29662,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 64.5,
+          "price": 66.5,
           "plan_name": null,
           "network": null
         },
@@ -29582,7 +29670,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 91.5,
+          "price": 94.5,
           "plan_name": null,
           "network": null
         },
@@ -29590,7 +29678,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 118.5,
+          "price": 122.5,
           "plan_name": null,
           "network": null
         }
@@ -29697,7 +29785,7 @@
       "provider": "ubigi",
       "slug": "spain",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=esp&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:02.780Z",
+      "fetched_at": "2026-10-07T20:39:56.618Z",
       "currency": "USD",
       "plans": [
         {
@@ -29743,6 +29831,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 18,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Orange Spain"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 34,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -29762,7 +29858,7 @@
       "provider": "yesim",
       "slug": "spain",
       "source_url": "https://yesim.app/country/spain/",
-      "fetched_at": "2026-10-03T16:50:52.403Z",
+      "fetched_at": "2026-10-07T20:43:15.655Z",
       "currency": "USD",
       "plans": [
         {
@@ -29883,7 +29979,7 @@
       "provider": "airalo",
       "slug": "sri-lanka",
       "source_url": "https://www.airalo.com/api/v4/countries/sri-lanka",
-      "fetched_at": "2026-10-04T11:00:35.074Z",
+      "fetched_at": "2026-10-07T20:35:09.016Z",
       "currency": "USD",
       "plans": [
         {
@@ -30036,7 +30132,7 @@
       "provider": "holafly",
       "slug": "sri-lanka",
       "source_url": "https://esim.holafly.com/esim-sri-lanka/",
-      "fetched_at": "2026-10-04T11:01:56.122Z",
+      "fetched_at": "2026-10-07T20:37:11.405Z",
       "currency": "USD",
       "plans": [
         {
@@ -30051,7 +30147,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -30059,7 +30155,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -30067,7 +30163,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.5,
+          "price": 27.9,
           "plan_name": null,
           "network": null
         },
@@ -30075,7 +30171,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -30083,7 +30179,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -30099,7 +30195,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -30115,7 +30211,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -30222,7 +30318,7 @@
       "provider": "ubigi",
       "slug": "sri-lanka",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=lka&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:47.389Z",
+      "fetched_at": "2026-10-07T20:42:07.934Z",
       "currency": "USD",
       "plans": [
         {
@@ -30287,7 +30383,7 @@
       "provider": "yesim",
       "slug": "sri-lanka",
       "source_url": "https://yesim.app/country/sri-lanka/",
-      "fetched_at": "2026-10-04T11:05:43.439Z",
+      "fetched_at": "2026-10-07T20:45:37.111Z",
       "currency": "USD",
       "plans": [
         {
@@ -30416,7 +30512,7 @@
       "provider": "airalo",
       "slug": "sweden",
       "source_url": "https://www.airalo.com/api/v4/countries/sweden",
-      "fetched_at": "2026-10-04T11:00:01.118Z",
+      "fetched_at": "2026-10-07T20:34:33.450Z",
       "currency": "USD",
       "plans": [
         {
@@ -30569,7 +30665,7 @@
       "provider": "holafly",
       "slug": "sweden",
       "source_url": "https://esim.holafly.com/esim-sweden/",
-      "fetched_at": "2026-10-04T11:01:26.676Z",
+      "fetched_at": "2026-10-07T20:36:41.541Z",
       "currency": "USD",
       "plans": [
         {
@@ -30763,7 +30859,7 @@
       "provider": "ubigi",
       "slug": "sweden",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=swe&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:02.434Z",
+      "fetched_at": "2026-10-07T20:41:18.899Z",
       "currency": "USD",
       "plans": [
         {
@@ -30828,7 +30924,7 @@
       "provider": "yesim",
       "slug": "sweden",
       "source_url": "https://yesim.app/country/sweden/",
-      "fetched_at": "2026-10-04T11:04:59.751Z",
+      "fetched_at": "2026-10-07T20:44:47.413Z",
       "currency": "USD",
       "plans": [
         {
@@ -30949,7 +31045,7 @@
       "provider": "airalo",
       "slug": "switzerland",
       "source_url": "https://www.airalo.com/api/v4/countries/switzerland",
-      "fetched_at": "2026-10-04T10:59:42.605Z",
+      "fetched_at": "2026-10-07T20:34:14.939Z",
       "currency": "USD",
       "plans": [
         {
@@ -31102,7 +31198,7 @@
       "provider": "holafly",
       "slug": "switzerland",
       "source_url": "https://esim.holafly.com/esim-switzerland/",
-      "fetched_at": "2026-10-04T11:01:11.176Z",
+      "fetched_at": "2026-10-07T20:36:25.904Z",
       "currency": "USD",
       "plans": [
         {
@@ -31141,7 +31237,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -31149,7 +31245,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -31157,7 +31253,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -31165,7 +31261,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -31173,7 +31269,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -31181,7 +31277,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -31189,7 +31285,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -31304,7 +31400,7 @@
       "provider": "ubigi",
       "slug": "switzerland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=che&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:36.498Z",
+      "fetched_at": "2026-10-07T20:40:53.264Z",
       "currency": "USD",
       "plans": [
         {
@@ -31319,7 +31415,7 @@
           "data_gb": 10,
           "unlimited": false,
           "validity_days": 7,
-          "price": 9,
+          "price": 10,
           "plan_name": null,
           "network": "Salt / Sunrise"
         },
@@ -31327,7 +31423,7 @@
           "data_gb": 10,
           "unlimited": false,
           "validity_days": 30,
-          "price": 11,
+          "price": 12,
           "plan_name": null,
           "network": "Salt / Sunrise"
         },
@@ -31343,7 +31439,7 @@
           "data_gb": 50,
           "unlimited": false,
           "validity_days": 30,
-          "price": 34,
+          "price": 38,
           "plan_name": null,
           "network": "Salt / Sunrise"
         },
@@ -31351,7 +31447,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 24,
+          "price": 19,
           "plan_name": "Unlimited (fair use 20GB)",
           "network": "Salt / Sunrise"
         },
@@ -31359,7 +31455,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 39,
+          "price": 35,
           "plan_name": "Unlimited (fair use 30GB)",
           "network": "Salt / Sunrise"
         },
@@ -31367,7 +31463,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 59,
+          "price": 58,
           "plan_name": "Unlimited (fair use 60GB)",
           "network": "Salt / Sunrise"
         }
@@ -31377,7 +31473,7 @@
       "provider": "yesim",
       "slug": "switzerland",
       "source_url": "https://yesim.app/country/switzerland/",
-      "fetched_at": "2026-10-04T11:04:37.296Z",
+      "fetched_at": "2026-10-07T20:44:20.528Z",
       "currency": "USD",
       "plans": [
         {
@@ -31498,7 +31594,7 @@
       "provider": "airalo",
       "slug": "taiwan",
       "source_url": "https://www.airalo.com/api/v4/countries/taiwan",
-      "fetched_at": "2026-10-04T10:59:05.811Z",
+      "fetched_at": "2026-10-07T20:34:01.670Z",
       "currency": "USD",
       "plans": [
         {
@@ -31651,7 +31747,7 @@
       "provider": "holafly",
       "slug": "taiwan",
       "source_url": "https://esim.holafly.com/esim-taiwan/",
-      "fetched_at": "2026-10-04T10:59:07.359Z",
+      "fetched_at": "2026-10-07T20:36:15.332Z",
       "currency": "USD",
       "plans": [
         {
@@ -31666,7 +31762,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -31674,7 +31770,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -31682,7 +31778,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.5,
+          "price": 27.9,
           "plan_name": null,
           "network": null
         },
@@ -31690,7 +31786,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -31698,7 +31794,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -31714,7 +31810,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -31730,7 +31826,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -31845,7 +31941,7 @@
       "provider": "ubigi",
       "slug": "taiwan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=twn&wmc-currency=USD",
-      "fetched_at": "2026-10-04T10:59:11.676Z",
+      "fetched_at": "2026-10-07T20:40:35.970Z",
       "currency": "USD",
       "plans": [
         {
@@ -31918,7 +32014,7 @@
       "provider": "yesim",
       "slug": "taiwan",
       "source_url": "https://yesim.app/country/taiwan/",
-      "fetched_at": "2026-10-04T10:59:14.455Z",
+      "fetched_at": "2026-10-07T20:44:01.647Z",
       "currency": "USD",
       "plans": [
         {
@@ -32007,7 +32103,7 @@
       "provider": "airalo",
       "slug": "tanzania",
       "source_url": "https://www.airalo.com/api/v4/countries/tanzania",
-      "fetched_at": "2026-10-04T11:00:24.175Z",
+      "fetched_at": "2026-10-07T20:34:57.723Z",
       "currency": "USD",
       "plans": [
         {
@@ -32152,7 +32248,7 @@
       "provider": "holafly",
       "slug": "tanzania",
       "source_url": "https://esim.holafly.com/esim-tanzania/",
-      "fetched_at": "2026-10-04T11:01:46.982Z",
+      "fetched_at": "2026-10-07T20:37:02.344Z",
       "currency": "USD",
       "plans": [
         {
@@ -32175,7 +32271,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 28.9,
+          "price": 29.9,
           "plan_name": null,
           "network": null
         },
@@ -32183,7 +32279,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36.5,
+          "price": 36.9,
           "plan_name": null,
           "network": null
         },
@@ -32191,7 +32287,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 39.5,
+          "price": 40.9,
           "plan_name": null,
           "network": null
         },
@@ -32199,7 +32295,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 50.9,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -32207,7 +32303,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 54.5,
+          "price": 54.9,
           "plan_name": null,
           "network": null
         },
@@ -32215,7 +32311,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 70.5,
+          "price": 73.5,
           "plan_name": null,
           "network": null
         },
@@ -32223,7 +32319,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 108.5,
+          "price": 112.5,
           "plan_name": null,
           "network": null
         },
@@ -32231,7 +32327,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 211.5,
+          "price": 213.5,
           "plan_name": null,
           "network": null
         },
@@ -32239,7 +32335,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 309.5,
+          "price": 311.9,
           "plan_name": null,
           "network": null
         }
@@ -32298,7 +32394,7 @@
       "provider": "ubigi",
       "slug": "tanzania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tza&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:32.862Z",
+      "fetched_at": "2026-10-07T20:41:52.000Z",
       "currency": "USD",
       "plans": [
         {
@@ -32332,6 +32428,14 @@
           "price": 45,
           "plan_name": null,
           "network": "Halotel / Yas"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 33,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Halotel / Yas"
         }
       ]
     },
@@ -32339,7 +32443,7 @@
       "provider": "yesim",
       "slug": "tanzania",
       "source_url": "https://yesim.app/country/tanzania/",
-      "fetched_at": "2026-10-04T11:05:29.412Z",
+      "fetched_at": "2026-10-07T20:45:21.074Z",
       "currency": "USD",
       "plans": [
         {
@@ -32412,7 +32516,7 @@
       "provider": "airalo",
       "slug": "thailand",
       "source_url": "https://www.airalo.com/api/v4/countries/thailand",
-      "fetched_at": "2026-10-03T16:35:13.904Z",
+      "fetched_at": "2026-10-07T20:33:29.023Z",
       "currency": "USD",
       "plans": [
         {
@@ -32565,7 +32669,7 @@
       "provider": "holafly",
       "slug": "thailand",
       "source_url": "https://esim.holafly.com/esim-thailand/",
-      "fetched_at": "2026-10-03T16:46:54.457Z",
+      "fetched_at": "2026-10-07T20:35:49.679Z",
       "currency": "USD",
       "plans": [
         {
@@ -32759,7 +32863,7 @@
       "provider": "ubigi",
       "slug": "thailand",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tha&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:01.181Z",
+      "fetched_at": "2026-10-07T20:39:53.801Z",
       "currency": "USD",
       "plans": [
         {
@@ -32832,7 +32936,7 @@
       "provider": "yesim",
       "slug": "thailand",
       "source_url": "https://yesim.app/country/thailand/",
-      "fetched_at": "2026-10-03T16:50:49.868Z",
+      "fetched_at": "2026-10-07T20:43:12.429Z",
       "currency": "USD",
       "plans": [
         {
@@ -32961,7 +33065,7 @@
       "provider": "airalo",
       "slug": "tunisia",
       "source_url": "https://www.airalo.com/api/v4/countries/tunisia",
-      "fetched_at": "2026-10-04T11:00:29.645Z",
+      "fetched_at": "2026-10-07T20:35:03.389Z",
       "currency": "USD",
       "plans": [
         {
@@ -33106,7 +33210,7 @@
       "provider": "holafly",
       "slug": "tunisia",
       "source_url": "https://esim.holafly.com/esim-tunisia/",
-      "fetched_at": "2026-10-04T11:01:51.542Z",
+      "fetched_at": "2026-10-07T20:37:06.873Z",
       "currency": "USD",
       "plans": [
         {
@@ -33292,7 +33396,7 @@
       "provider": "ubigi",
       "slug": "tunisia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tun&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:03:40.668Z",
+      "fetched_at": "2026-10-07T20:42:00.614Z",
       "currency": "USD",
       "plans": [
         {
@@ -33357,7 +33461,7 @@
       "provider": "yesim",
       "slug": "tunisia",
       "source_url": "https://yesim.app/country/tunisia/",
-      "fetched_at": "2026-10-04T11:05:36.762Z",
+      "fetched_at": "2026-10-07T20:45:29.588Z",
       "currency": "USD",
       "plans": [
         {
@@ -33478,7 +33582,7 @@
       "provider": "airalo",
       "slug": "turkey",
       "source_url": "https://www.airalo.com/api/v4/countries/turkey",
-      "fetched_at": "2026-10-03T16:35:24.714Z",
+      "fetched_at": "2026-10-07T20:33:39.996Z",
       "currency": "USD",
       "plans": [
         {
@@ -33631,7 +33735,7 @@
       "provider": "holafly",
       "slug": "turkey",
       "source_url": "https://esim.holafly.com/esim-turkey/",
-      "fetched_at": "2026-10-03T16:47:03.593Z",
+      "fetched_at": "2026-10-07T20:35:58.736Z",
       "currency": "USD",
       "plans": [
         {
@@ -33825,7 +33929,7 @@
       "provider": "ubigi",
       "slug": "turkey",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tur&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:10.726Z",
+      "fetched_at": "2026-10-07T20:40:09.014Z",
       "currency": "USD",
       "plans": [
         {
@@ -33887,6 +33991,14 @@
         {
           "data_gb": null,
           "unlimited": true,
+          "validity_days": 7,
+          "price": 22,
+          "plan_name": "Unlimited (fair use 5GB)",
+          "network": "Turk Telecom / Turkcell"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
           "validity_days": 15,
           "price": 37,
           "plan_name": "Unlimited (fair use 5GB)",
@@ -33906,7 +34018,7 @@
       "provider": "yesim",
       "slug": "turkey",
       "source_url": "https://yesim.app/country/turkey/",
-      "fetched_at": "2026-10-03T16:51:05.798Z",
+      "fetched_at": "2026-10-07T20:43:31.162Z",
       "currency": "USD",
       "plans": [
         {
@@ -34035,144 +34147,144 @@
       "provider": "airalo",
       "slug": "uae",
       "source_url": "https://www.airalo.com/api/v4/countries/united-arab-emirates",
-      "fetched_at": "2026-10-04T10:59:53.635Z",
+      "fetched_at": "2026-10-07T20:34:25.902Z",
       "currency": "USD",
       "plans": [
-        {
-          "data_gb": 5,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 12,
-          "plan_name": "Burj Mobile: 5 GB - 30 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": 10,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 20,
-          "plan_name": "Burj Mobile: 10 GB - 30 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": 20,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 34,
-          "plan_name": "Burj Mobile: 20 GB - 30 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 10,
-          "price": 35,
-          "plan_name": "Burj Mobile: Unlimited - 10 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 3,
-          "price": 12.5,
-          "plan_name": "Burj Mobile: Unlimited - 3 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 5,
-          "price": 19,
-          "plan_name": "Burj Mobile: Unlimited - 5 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 7,
-          "price": 27.5,
-          "plan_name": "Burj Mobile: Unlimited - 7 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 15,
-          "price": 49,
-          "plan_name": "Burj Mobile: Unlimited - 15 days",
-          "network": "Etisalat"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 30,
-          "price": 72,
-          "plan_name": "Burj Mobile: Unlimited - 30 days",
-          "network": "Etisalat"
-        },
         {
           "data_gb": 1,
           "unlimited": false,
           "validity_days": 3,
           "price": 4,
-          "plan_name": "Burj Mobile: 1 GB - 3 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 1 GB - 3 days",
+          "network": "Du"
         },
         {
           "data_gb": 3,
           "unlimited": false,
           "validity_days": 3,
           "price": 8.5,
-          "plan_name": "Burj Mobile: 3 GB - 3 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 3 GB - 3 days",
+          "network": "Du"
         },
         {
           "data_gb": 3,
           "unlimited": false,
           "validity_days": 7,
           "price": 9,
-          "plan_name": "Burj Mobile: 3 GB - 7 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 3 GB - 7 days",
+          "network": "Du"
         },
         {
           "data_gb": 5,
           "unlimited": false,
           "validity_days": 7,
           "price": 11,
-          "plan_name": "Burj Mobile: 5 GB - 7 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 5 GB - 7 days",
+          "network": "Du"
         },
         {
           "data_gb": 10,
           "unlimited": false,
           "validity_days": 7,
           "price": 18.5,
-          "plan_name": "Burj Mobile: 10 GB - 7 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 10 GB - 7 days",
+          "network": "Du"
         },
         {
           "data_gb": 5,
           "unlimited": false,
           "validity_days": 15,
           "price": 11.5,
-          "plan_name": "Burj Mobile: 5 GB - 15 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 5 GB - 15 days",
+          "network": "Du"
         },
         {
           "data_gb": 10,
           "unlimited": false,
           "validity_days": 15,
           "price": 19,
-          "plan_name": "Burj Mobile: 10 GB - 15 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 10 GB - 15 days",
+          "network": "Du"
         },
         {
           "data_gb": 20,
           "unlimited": false,
           "validity_days": 15,
           "price": 33,
-          "plan_name": "Burj Mobile: 20 GB - 15 days",
-          "network": "Etisalat"
+          "plan_name": "Burj: 20 GB - 15 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 12,
+          "plan_name": "Burj: 5 GB - 30 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 20,
+          "plan_name": "Burj: 10 GB - 30 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 34,
+          "plan_name": "Burj: 20 GB - 30 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 3,
+          "price": 12.5,
+          "plan_name": "Burj Unlimited: Unlimited - 3 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 5,
+          "price": 19,
+          "plan_name": "Burj Unlimited: Unlimited - 5 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 7,
+          "price": 27.5,
+          "plan_name": "Burj Unlimited: Unlimited - 7 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 35,
+          "plan_name": "Burj Unlimited: Unlimited - 10 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 49,
+          "plan_name": "Burj Unlimited: Unlimited - 15 days",
+          "network": "Du"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 30,
+          "price": 72,
+          "plan_name": "Burj Unlimited: Unlimited - 30 days",
+          "network": "Du"
         }
       ]
     },
@@ -34277,7 +34389,7 @@
       "provider": "ubigi",
       "slug": "uae",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=are&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:02:52.657Z",
+      "fetched_at": "2026-10-07T20:41:10.621Z",
       "currency": "USD",
       "plans": [
         {
@@ -34316,7 +34428,7 @@
           "data_gb": 25,
           "unlimited": false,
           "validity_days": 30,
-          "price": 49,
+          "price": 46,
           "plan_name": null,
           "network": "DU"
         },
@@ -34332,8 +34444,16 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 36,
+          "price": 34,
           "plan_name": "Unlimited (fair use 20GB)",
+          "network": "DU"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 15,
+          "price": 58,
+          "plan_name": "Unlimited (fair use 5GB)",
           "network": "DU"
         }
       ]
@@ -34342,7 +34462,7 @@
       "provider": "airalo",
       "slug": "united-kingdom",
       "source_url": "https://www.airalo.com/api/v4/countries/united-kingdom",
-      "fetched_at": "2026-10-03T16:35:02.888Z",
+      "fetched_at": "2026-10-07T20:33:18.023Z",
       "currency": "USD",
       "plans": [
         {
@@ -34495,7 +34615,7 @@
       "provider": "holafly",
       "slug": "united-kingdom",
       "source_url": "https://esim.holafly.com/esim-united-kingdom/",
-      "fetched_at": "2026-10-03T16:46:45.299Z",
+      "fetched_at": "2026-10-07T20:35:40.626Z",
       "currency": "USD",
       "plans": [
         {
@@ -34534,7 +34654,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -34542,7 +34662,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -34550,7 +34670,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -34558,7 +34678,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -34566,7 +34686,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -34574,7 +34694,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -34582,7 +34702,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -34689,7 +34809,7 @@
       "provider": "ubigi",
       "slug": "united-kingdom",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=gbr&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:51.555Z",
+      "fetched_at": "2026-10-07T20:39:42.378Z",
       "currency": "USD",
       "plans": [
         {
@@ -34770,7 +34890,7 @@
       "provider": "yesim",
       "slug": "united-kingdom",
       "source_url": "https://yesim.app/country/united-kingdom/",
-      "fetched_at": "2026-10-03T16:50:35.005Z",
+      "fetched_at": "2026-10-07T20:42:55.183Z",
       "currency": "USD",
       "plans": [
         {
@@ -34891,7 +35011,7 @@
       "provider": "airalo",
       "slug": "united-states",
       "source_url": "https://www.airalo.com/api/v4/countries/united-states",
-      "fetched_at": "2026-10-03T16:34:57.118Z",
+      "fetched_at": "2026-10-07T20:33:12.197Z",
       "currency": "USD",
       "plans": [
         {
@@ -35044,7 +35164,7 @@
       "provider": "holafly",
       "slug": "united-states",
       "source_url": "https://esim.holafly.com/esim-usa/",
-      "fetched_at": "2026-10-03T16:46:40.735Z",
+      "fetched_at": "2026-10-07T20:35:36.091Z",
       "currency": "USD",
       "plans": [
         {
@@ -35262,17 +35382,9 @@
       "provider": "ubigi",
       "slug": "united-states",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=usa&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:49:46.862Z",
+      "fetched_at": "2026-10-07T20:39:36.083Z",
       "currency": "USD",
       "plans": [
-        {
-          "data_gb": 0.5,
-          "unlimited": false,
-          "validity_days": 1,
-          "price": 2.9,
-          "plan_name": null,
-          "network": "T-Mobile"
-        },
         {
           "data_gb": 1,
           "unlimited": false,
@@ -35317,7 +35429,15 @@
           "data_gb": 50,
           "unlimited": false,
           "validity_days": 30,
-          "price": 40,
+          "price": 42,
+          "plan_name": null,
+          "network": "T-Mobile"
+        },
+        {
+          "data_gb": 200,
+          "unlimited": false,
+          "validity_days": 360,
+          "price": 180,
           "plan_name": null,
           "network": "T-Mobile"
         },
@@ -35325,7 +35445,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 1,
-          "price": 9,
+          "price": 8,
           "plan_name": "Unlimited (fair use 7GB)",
           "network": "T-Mobile"
         },
@@ -35333,7 +35453,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 25,
+          "price": 23,
           "plan_name": "Unlimited (fair use 25GB)",
           "network": "T-Mobile"
         },
@@ -35349,7 +35469,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 65,
+          "price": 62,
           "plan_name": "Unlimited (fair use 60GB)",
           "network": "T-Mobile"
         }
@@ -35359,7 +35479,7 @@
       "provider": "yesim",
       "slug": "united-states",
       "source_url": "https://yesim.app/country/united-states/",
-      "fetched_at": "2026-10-03T16:50:29.251Z",
+      "fetched_at": "2026-10-07T20:42:46.975Z",
       "currency": "USD",
       "plans": [
         {
@@ -35480,7 +35600,7 @@
       "provider": "airalo",
       "slug": "uzbekistan",
       "source_url": "https://www.airalo.com/api/v4/countries/uzbekistan",
-      "fetched_at": "2026-10-04T11:00:45.799Z",
+      "fetched_at": "2026-10-07T20:35:19.785Z",
       "currency": "USD",
       "plans": [
         {
@@ -35617,7 +35737,7 @@
       "provider": "holafly",
       "slug": "uzbekistan",
       "source_url": "https://esim.holafly.com/esim-uzbekistan/",
-      "fetched_at": "2026-10-04T11:02:05.250Z",
+      "fetched_at": "2026-10-07T20:37:20.453Z",
       "currency": "USD",
       "plans": [
         {
@@ -35632,7 +35752,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
-          "price": 12.5,
+          "price": 13.5,
           "plan_name": null,
           "network": null
         },
@@ -35640,7 +35760,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 5,
-          "price": 20.5,
+          "price": 20.9,
           "plan_name": null,
           "network": null
         },
@@ -35648,7 +35768,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 7,
-          "price": 27.5,
+          "price": 27.9,
           "plan_name": null,
           "network": null
         },
@@ -35656,7 +35776,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -35664,7 +35784,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 47.9,
           "plan_name": null,
           "network": null
         },
@@ -35680,7 +35800,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 61.9,
           "plan_name": null,
           "network": null
         },
@@ -35696,7 +35816,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -35763,7 +35883,7 @@
       "provider": "ubigi",
       "slug": "uzbekistan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=uzb&wmc-currency=USD",
-      "fetched_at": "2026-10-04T11:04:01.888Z",
+      "fetched_at": "2026-10-07T20:42:21.948Z",
       "currency": "USD",
       "plans": [
         {
@@ -35828,7 +35948,7 @@
       "provider": "yesim",
       "slug": "uzbekistan",
       "source_url": "https://yesim.app/country/uzbekistan/",
-      "fetched_at": "2026-10-04T11:05:57.572Z",
+      "fetched_at": "2026-10-07T20:45:53.045Z",
       "currency": "USD",
       "plans": [
         {
@@ -35949,7 +36069,7 @@
       "provider": "airalo",
       "slug": "vietnam",
       "source_url": "https://www.airalo.com/api/v4/countries/vietnam",
-      "fetched_at": "2026-10-03T16:35:22.884Z",
+      "fetched_at": "2026-10-07T20:33:38.152Z",
       "currency": "USD",
       "plans": [
         {
@@ -36102,7 +36222,7 @@
       "provider": "holafly",
       "slug": "vietnam",
       "source_url": "https://esim.holafly.com/esim-vietnam/",
-      "fetched_at": "2026-10-03T16:47:02.072Z",
+      "fetched_at": "2026-10-07T20:35:57.224Z",
       "currency": "USD",
       "plans": [
         {
@@ -36141,7 +36261,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 10,
-          "price": 36.5,
+          "price": 37.5,
           "plan_name": null,
           "network": null
         },
@@ -36149,7 +36269,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 14,
-          "price": 47.5,
+          "price": 48.9,
           "plan_name": null,
           "network": null
         },
@@ -36157,7 +36277,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 15,
-          "price": 50.5,
+          "price": 51.5,
           "plan_name": null,
           "network": null
         },
@@ -36165,7 +36285,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 20,
-          "price": 60.9,
+          "price": 62.9,
           "plan_name": null,
           "network": null
         },
@@ -36173,7 +36293,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 30,
-          "price": 73.9,
+          "price": 76.5,
           "plan_name": null,
           "network": null
         },
@@ -36181,7 +36301,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 60,
-          "price": 106.5,
+          "price": 108.9,
           "plan_name": null,
           "network": null
         },
@@ -36189,7 +36309,7 @@
           "data_gb": null,
           "unlimited": true,
           "validity_days": 90,
-          "price": 138.9,
+          "price": 140.9,
           "plan_name": null,
           "network": null
         }
@@ -36296,7 +36416,7 @@
       "provider": "ubigi",
       "slug": "vietnam",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=vnm&wmc-currency=USD",
-      "fetched_at": "2026-10-03T16:50:09.143Z",
+      "fetched_at": "2026-10-07T20:40:07.099Z",
       "currency": "USD",
       "plans": [
         {
@@ -36361,7 +36481,7 @@
       "provider": "yesim",
       "slug": "vietnam",
       "source_url": "https://yesim.app/country/vietnam/",
-      "fetched_at": "2026-10-03T16:51:03.222Z",
+      "fetched_at": "2026-10-07T20:43:28.200Z",
       "currency": "USD",
       "plans": [
         {
