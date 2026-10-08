@@ -55,9 +55,8 @@ export default function PrivacyPage() {
 
       <Section id="collect" title="What we collect">
         <p>
-          We do not ask you for any personal data, and we run no analytics of our own, so we do not see which pages you read. We
-          load an affiliate network script (Travelpayouts) that lets providers credit us for a sale at no extra cost to you. That
-          script shows its own cookie consent prompt and only sets cookies after you agree to it.
+          We do not ask you for any personal data, and the site runs no analytics or advertising trackers of its own, so we do not
+          see which pages you read. Affiliate links set cookies only after you click them, which is covered below.
         </p>
         <p>
           Like every website, the site is delivered by a hosting provider. Its servers record standard technical data when a page is

@@ -3,20 +3,6 @@
 import { useEffect } from "react";
 import * as CC from "vanilla-cookieconsent";
 
-// Travelpayouts "Drive" affiliate script. Loaded on every page (TP verifies the
-// script is present without a user gesture, so it cannot be consent-gated by us).
-// Drive carries its own CMP (data-cmp-ab) that holds cookies until its consent,
-// and it loads async after hydration so it stays off the critical path.
-function loadDrive() {
-  if (typeof document === "undefined" || document.getElementById("tp-drive")) return;
-  const s = document.createElement("script");
-  s.id = "tp-drive";
-  s.async = true;
-  s.setAttribute("data-cmp-ab", "2");
-  s.src = "https://emrldco.com/NTgyODUy.js?t=582852";
-  document.head.appendChild(s);
-}
-
 // Wire consent to Google Consent Mode v2. gtag is called only if present, so
 // this is a no-op until GA is added, and starts gating analytics the moment it is.
 function applyConsent() {
@@ -33,7 +19,7 @@ const TR = {
     consentModal: {
       title: "We use cookies",
       description:
-        "GBScout uses strictly necessary cookies to function. With your consent we also set analytics cookies to improve the site. Our affiliate partner asks for its own cookie consent separately.",
+        "GBScout uses strictly necessary cookies to function. With your consent we also set analytics cookies to improve the site.",
       acceptAllBtn: "Accept all",
       acceptNecessaryBtn: "Necessary only",
       showPreferencesBtn: "Manage preferences",
@@ -89,7 +75,6 @@ export default function CookieConsent() {
       onConsent: applyConsent,
       onChange: applyConsent,
     });
-    loadDrive();
   }, []);
 
   return (
