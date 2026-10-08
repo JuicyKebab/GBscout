@@ -3,6 +3,18 @@
 import { useEffect } from "react";
 import * as CC from "vanilla-cookieconsent";
 
+// Travelpayouts "Drive" affiliate script. Loaded only after marketing consent,
+// injected once. Async third-party → consent-gating keeps it off the critical path.
+function loadDrive() {
+  if (typeof document === "undefined" || document.getElementById("tp-drive")) return;
+  const s = document.createElement("script");
+  s.id = "tp-drive";
+  s.async = true;
+  s.setAttribute("data-cmp-ab", "2");
+  s.src = "https://emrldco.com/NTgyODUy.js?t=582852";
+  document.head.appendChild(s);
+}
+
 // Wire consent to Google Consent Mode v2. gtag is called only if present, so
 // this is a no-op until GA is added, and starts gating analytics the moment it is.
 function applyConsent() {
@@ -12,6 +24,7 @@ function applyConsent() {
       analytics_storage: analytics ? "granted" : "denied",
     });
   }
+  if (CC.acceptedCategory("marketing")) loadDrive();
 }
 
 const TR = {
@@ -19,7 +32,7 @@ const TR = {
     consentModal: {
       title: "We use cookies",
       description:
-        "GBScout uses strictly necessary cookies to function. With your consent we also set analytics cookies to improve the site.",
+        "GBScout uses strictly necessary cookies to function. With your consent we also set analytics cookies to improve the site and affiliate cookies to credit the providers we link to.",
       acceptAllBtn: "Accept all",
       acceptNecessaryBtn: "Necessary only",
       showPreferencesBtn: "Manage preferences",
@@ -50,6 +63,12 @@ const TR = {
           linkedCategory: "analytics",
         },
         {
+          title: "Affiliate",
+          description:
+            "Lets eSIM providers credit GBScout when you buy through our links, at no extra cost to you. See our affiliate disclosure.",
+          linkedCategory: "marketing",
+        },
+        {
           title: "More information",
           description:
             'Questions about our cookies? Read the <a href="/privacy">privacy policy</a>.',
@@ -69,6 +88,7 @@ export default function CookieConsent() {
       categories: {
         necessary: { enabled: true, readOnly: true },
         analytics: {},
+        marketing: {},
       },
       language: { default: "en", translations: TR },
       onFirstConsent: applyConsent,

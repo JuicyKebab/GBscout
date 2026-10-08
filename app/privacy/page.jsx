@@ -10,7 +10,7 @@ export const metadata = {
 
 // Zet hier de datum van de laatste inhoudelijke wijziging. Voeg je analytics of cookies toe,
 // pas dan ook de tekst hieronder aan: de zinnen "geen cookies" en "geen analytics" gelden nu.
-const UPDATED = "3 October 2026";
+const UPDATED = "8 October 2026";
 
 function Section({ id, title, children }) {
   return (
@@ -55,8 +55,10 @@ export default function PrivacyPage() {
 
       <Section id="collect" title="What we collect">
         <p>
-          We do not ask you for any personal data, and the site sets no cookies and runs no analytics or advertising trackers. Because
-          there is no analytics, we do not see which pages you read.
+          We do not ask you for any personal data. By default the site sets no cookies and runs no analytics. Only if you accept
+          affiliate cookies in the cookie banner do we load an affiliate network script that sets its own cookies, so providers can
+          credit us for a sale (at no extra cost to you). You can refuse or withdraw this at any time via the "Cookies" button, and
+          we still do not see which pages you read.
         </p>
         <p>
           Like every website, the site is delivered by a hosting provider. Its servers record standard technical data when a page is

@@ -22,6 +22,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="flex min-h-dvh flex-col bg-stone-50 font-sans text-stone-900 antialiased">
+        {/* Impact affiliate network site verification (hoisted to <head> by React 19) */}
+        <meta name="impact-site-verification" value="588019a1-cfdf-40c1-963a-227b2e7017a2" />
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
