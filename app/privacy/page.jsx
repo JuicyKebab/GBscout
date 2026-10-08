@@ -55,10 +55,9 @@ export default function PrivacyPage() {
 
       <Section id="collect" title="What we collect">
         <p>
-          We do not ask you for any personal data. By default the site sets no cookies and runs no analytics. Only if you accept
-          affiliate cookies in the cookie banner do we load an affiliate network script that sets its own cookies, so providers can
-          credit us for a sale (at no extra cost to you). You can refuse or withdraw this at any time via the "Cookies" button, and
-          we still do not see which pages you read.
+          We do not ask you for any personal data, and we run no analytics of our own, so we do not see which pages you read. We
+          load an affiliate network script (Travelpayouts) that lets providers credit us for a sale at no extra cost to you. That
+          script shows its own cookie consent prompt and only sets cookies after you agree to it.
         </p>
         <p>
           Like every website, the site is delivered by a hosting provider. Its servers record standard technical data when a page is
