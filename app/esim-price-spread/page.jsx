@@ -38,6 +38,7 @@ export default function PriceSpread() {
     temporalCoverage: meta.generatedAt ? meta.generatedAt.slice(0, 10) : undefined,
     keywords: ["esim price comparison", "price per gb", "cheapest esim", "esim providers"],
     isAccessibleForFree: true,
+    license: "https://creativecommons.org/licenses/by/4.0/",
   };
 
   return (
