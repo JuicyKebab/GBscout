@@ -41,7 +41,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add data/plans.json data/price-history.json
-          git diff --staged --quiet || git commit -m "data: refresh prices + history"
+          git diff --staged --quiet && echo "no data changes" && exit 0
+          git commit -m "data: refresh prices + history"
+          git pull --rebase --autostash -X ours origin main
           git push
 
       - name: Build static site
