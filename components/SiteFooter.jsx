@@ -65,6 +65,8 @@ export default function SiteFooter() {
             <li><Link href="/methodology" className="hover:text-stone-900">Methodology</Link></li>
             <li><Link href="/affiliate-disclosure" className="hover:text-stone-900">Affiliate disclosure</Link></li>
             <li><Link href="/privacy" className="hover:text-stone-900">Privacy policy</Link></li>
+            <li><a href="https://www.instagram.com/gbscoutr/" target="_blank" rel="me noopener" className="hover:text-stone-900">Instagram</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61595002755607" target="_blank" rel="me noopener" className="hover:text-stone-900">Facebook</a></li>
           </ul>
         </div>
       </div>
