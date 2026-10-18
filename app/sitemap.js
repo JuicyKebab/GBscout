@@ -46,5 +46,6 @@ export default function sitemap() {
     { url: absoluteUrl("/affiliate-disclosure"), changeFrequency: "yearly", priority: 0.2 },
     { url: absoluteUrl("/privacy"), changeFrequency: "yearly", priority: 0.2 },
     { url: absoluteUrl("/terms"), changeFrequency: "yearly", priority: 0.2 },
+    { url: absoluteUrl("/travel-esim-guide"), changeFrequency: "monthly", priority: 0.6 },
   ];
 }

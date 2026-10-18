@@ -62,6 +62,7 @@ export default function SiteFooter() {
         <div>
           <p className="font-semibold text-stone-900">About</p>
           <ul className="mt-2 space-y-1">
+            <li><Link href="/travel-esim-guide" className="hover:text-stone-900">Travel eSIM guide</Link></li>
             <li><Link href="/methodology" className="hover:text-stone-900">Methodology</Link></li>
             <li><Link href="/affiliate-disclosure" className="hover:text-stone-900">Affiliate disclosure</Link></li>
             <li><Link href="/privacy" className="hover:text-stone-900">Privacy policy</Link></li>
