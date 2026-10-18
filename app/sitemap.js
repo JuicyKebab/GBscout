@@ -45,5 +45,6 @@ export default function sitemap() {
     { url: absoluteUrl("/methodology"), changeFrequency: "yearly", priority: 0.3 },
     { url: absoluteUrl("/affiliate-disclosure"), changeFrequency: "yearly", priority: 0.2 },
     { url: absoluteUrl("/privacy"), changeFrequency: "yearly", priority: 0.2 },
+    { url: absoluteUrl("/terms"), changeFrequency: "yearly", priority: 0.2 },
   ];
 }
