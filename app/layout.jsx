@@ -14,7 +14,10 @@ export const metadata = {
   metadataBase: new URL(SITE.url),
   title: { default: `${SITE.name}: ${SITE.tagline}`, template: `%s | ${SITE.name}` },
   description: DESCRIPTION,
-  openGraph: { type: "website", url: SITE.url, siteName: SITE.name, title: `${SITE.name}: ${SITE.tagline}`, description: DESCRIPTION },
+  // Only non-page-specific OG fields here. Leaving out title/description/url lets Next
+  // derive og:title, og:description and og:url per page from each page's title/description/
+  // canonical, instead of every subpage inheriting the homepage card (SEO/share fix).
+  openGraph: { type: "website", siteName: SITE.name },
   twitter: { card: "summary_large_image" },
 };
 

@@ -226,6 +226,17 @@ export default async function DestinationPage({ params }) {
 
       <JsonLd data={breadcrumbJsonLd(trail)} />
       <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqs.map((f) => ({
+            "@type": "Question",
+            name: f.q,
+            acceptedAnswer: { "@type": "Answer", text: f.a },
+          })),
+        }}
+      />
+      <JsonLd
         data={itemListJsonLd({
           name: `eSIM plans for ${forName(d)} by price per GB`,
           rows: o.fixed.slice(0, 10),
