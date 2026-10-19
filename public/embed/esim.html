@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Cheapest eSIM by country — GBScout</title>
+<style>
+  :root{
+    --ink:#1c1917; --muted:#57534e; --line:#e7e5e4; --soft:#f5f5f4;
+    --teal:#0f766e; --teal-dark:#115e59; --card:#ffffff;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink); background:transparent; line-height:1.45;
+    -webkit-font-smoothing:antialiased;
+  }
+  .gbw{max-width:520px;margin:0 auto;padding:4px}
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:16px;
+    padding:18px; box-shadow:0 1px 2px rgba(0,0,0,.04);
+  }
+  .eyebrow{font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--teal)}
+  h1{font-size:19px;line-height:1.25;margin:6px 0 2px;font-weight:650}
+  .sub{font-size:13px;color:var(--muted);margin:0}
+  label{display:block;font-size:13px;font-weight:600;margin:16px 0 6px}
+  select{
+    width:100%;font-size:16px;padding:11px 12px;border:1px solid var(--line);
+    border-radius:10px;background:#fff;color:var(--ink);appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%2357534e' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 10px center;cursor:pointer;
+  }
+  select:focus{outline:2px solid var(--teal);outline-offset:1px;border-color:var(--teal)}
+  .results{margin-top:16px;display:grid;gap:12px}
+  .tile{border:1px solid var(--line);border-radius:12px;padding:14px;background:var(--soft)}
+  .tile.best{border-color:var(--teal);background:#f0fdfa}
+  .tile .kind{font-size:12px;font-weight:700;color:var(--teal);text-transform:uppercase;letter-spacing:.03em}
+  .big{font-size:26px;font-weight:700;margin:4px 0 0}
+  .big .unit{font-size:14px;font-weight:600;color:var(--muted)}
+  .tile .meta{font-size:13px;color:var(--muted);margin:4px 0 0}
+  .tile .meta b{color:var(--ink);font-weight:600}
+  .checked{font-size:12px;color:var(--muted);margin:12px 0 0}
+  .cta{
+    display:inline-flex;align-items:center;gap:6px;margin-top:12px;font-size:14px;font-weight:650;
+    color:#fff;background:var(--teal);text-decoration:none;padding:10px 16px;border-radius:10px;
+  }
+  .cta:hover{background:var(--teal-dark)}
+  .empty{font-size:14px;color:var(--muted);margin-top:14px}
+  .attrib{font-size:11px;color:var(--muted);text-align:center;margin:10px 0 0}
+  .attrib a{color:var(--muted);font-weight:600;text-decoration:none}
+  .attrib a:hover{color:var(--teal)}
+</style>
+</head>
+<body>
+<div class="gbw">
+  <div class="card">
+    <div class="eyebrow">GBScout</div>
+    <h1>Cheapest eSIM by country</h1>
+    <p class="sub">Live prices ranked by cost per GB (and per day for unlimited).</p>
+
+    <label for="country">Destination</label>
+    <select id="country" aria-label="Choose a destination"></select>
+
+    <div class="results" id="results" aria-live="polite"></div>
+    <p class="checked" id="checked"></p>
+    <a class="cta" id="cta" href="https://gbscout.com/esim" target="_blank" rel="noopener">Compare all plans on GBScout →</a>
+  </div>
+  <p class="attrib">Data from <a href="https://gbscout.com" target="_blank" rel="noopener">GBScout</a> · prices change often — check the provider before buying</p>
+</div>
+
+<script>
+(function(){
+  var SITE="https://gbscout.com";
+  var elCountry=document.getElementById("country");
+  var elResults=document.getElementById("results");
+  var elChecked=document.getElementById("checked");
+  var elCta=document.getElementById("cta");
+  var DATA=null, NAMES={};
+
+  function money(n){ if(typeof n!=="number"||!isFinite(n)) return "n/a";
+    return "$"+n.toFixed(2); }
+  function money3(n){ return "$"+n.toFixed(2); }
+  function prov(p){ return NAMES[p]||p; }
+  function fmtDate(iso){ if(!iso) return null;
+    var d=new Date(iso+"T00:00:00Z"); if(isNaN(d)) return null;
+    return d.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric",timeZone:"UTC"}); }
+
+  function post(){
+    var h=document.body.scrollHeight;
+    window.parent.postMessage({gbscoutWidget:"esim",height:h},"*");
+  }
+
+  function render(){
+    var slug=elCountry.value;
+    var c=DATA.countries[slug];
+    elResults.innerHTML="";
+    if(!c){ elChecked.textContent=""; post(); return; }
+    var g=c.cheapestPerGb, u=c.cheapestPerDay, html="";
+    if(g){
+      html+='<div class="tile best"><div class="kind">Best value · data plan</div>'+
+        '<p class="big">'+money3(g.perGb)+' <span class="unit">/ GB</span></p>'+
+        '<p class="meta"><b>'+prov(g.provider)+'</b> — '+g.dataGb+' GB for '+g.days+' days at '+money(g.price)+
+        (g.network?(' · '+g.network):'')+'</p></div>';
+    }
+    if(u){
+      html+='<div class="tile"><div class="kind">Cheapest unlimited</div>'+
+        '<p class="big">'+money3(u.perDay)+' <span class="unit">/ day</span></p>'+
+        '<p class="meta"><b>'+prov(u.provider)+'</b> — unlimited for '+u.days+' days at '+money(u.price)+'</p></div>';
+    }
+    if(!g&&!u){ html='<p class="empty">No ranked plans for this destination yet.</p>'; }
+    elResults.innerHTML=html;
+    elChecked.textContent=c.checked?("Prices checked "+(fmtDate(c.checked)||c.checked)+" · "+c.providers+" providers compared"):"";
+    elCta.href=SITE+"/esim/"+slug;
+    post();
+  }
+
+  function fill(){
+    var slugs=Object.keys(DATA.countries);
+    var frag=document.createDocumentFragment();
+    slugs.forEach(function(s){
+      var o=document.createElement("option");
+      o.value=s; o.textContent=DATA.countries[s].name; frag.appendChild(o);
+    });
+    elCountry.appendChild(frag);
+    // Default to a popular destination if present.
+    var pref=["japan","united-states","italy","spain","thailand"].find(function(s){return DATA.countries[s];});
+    if(pref) elCountry.value=pref;
+    render();
+  }
+
+  elCountry.addEventListener("change",render);
+  if(window.ResizeObserver){ new ResizeObserver(post).observe(document.body); }
+  window.addEventListener("load",post);
+
+  fetch("./esim-data.json").then(function(r){return r.json();}).then(function(d){
+    DATA=d; NAMES=d.providerNames||{}; SITE=d.site||SITE; fill();
+  }).catch(function(){
+    elResults.innerHTML='<p class="empty">Could not load prices. Visit GBScout for the full comparison.</p>'; post();
+  });
+})();
+</script>
+</body>
+</html>

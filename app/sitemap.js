@@ -38,6 +38,7 @@ export default function sitemap() {
     { url: absoluteUrl("/"), lastModified, changeFrequency: "weekly", priority: 1 },
     { url: absoluteUrl("/esim"), lastModified, changeFrequency: "weekly", priority: 0.7 },
     { url: absoluteUrl("/esim-price-spread"), lastModified, changeFrequency: "weekly", priority: 0.6 },
+    { url: absoluteUrl("/embed"), lastModified, changeFrequency: "monthly", priority: 0.4 },
     ...destinations,
     ...providers,
     ...pairs,

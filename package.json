@@ -7,6 +7,7 @@
     "build": "next build",
     "ingest": "node scripts/ingest.mjs",
     "log-prices": "node scripts/log-prices.mjs",
+    "build-embed-data": "node scripts/build-embed-data.mjs",
     "deploy": "next build && wrangler deploy",
     "preview": "next build && wrangler dev"
   },
