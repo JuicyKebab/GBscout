@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T10:13:45.102Z",
+  "generated_at": "2026-10-21T10:20:07.311Z",
   "items": [
     {
       "provider": "airalo",
       "slug": "albania",
       "source_url": "https://www.airalo.com/api/v4/countries/albania",
-      "fetched_at": "2026-10-20T10:02:15.053Z",
+      "fetched_at": "2026-10-21T10:07:46.614Z",
       "currency": "USD",
       "plans": [
         {
@@ -150,7 +150,7 @@
       "provider": "holafly",
       "slug": "albania",
       "source_url": "https://esim.holafly.com/esim-albania/",
-      "fetched_at": "2026-10-20T10:04:22.227Z",
+      "fetched_at": "2026-10-21T10:10:02.179Z",
       "currency": "USD",
       "plans": [
         {
@@ -328,7 +328,7 @@
       "provider": "ubigi",
       "slug": "albania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=alb&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:03.873Z",
+      "fetched_at": "2026-10-21T10:15:05.531Z",
       "currency": "USD",
       "plans": [
         {
@@ -393,7 +393,7 @@
       "provider": "yesim",
       "slug": "albania",
       "source_url": "https://yesim.app/country/albania/",
-      "fetched_at": "2026-10-20T10:12:31.111Z",
+      "fetched_at": "2026-10-21T10:18:49.207Z",
       "currency": "USD",
       "plans": [
         {
@@ -514,7 +514,7 @@
       "provider": "airalo",
       "slug": "argentina",
       "source_url": "https://www.airalo.com/api/v4/countries/argentina",
-      "fetched_at": "2026-10-20T10:02:52.160Z",
+      "fetched_at": "2026-10-21T10:08:24.968Z",
       "currency": "USD",
       "plans": [
         {
@@ -643,7 +643,7 @@
       "provider": "holafly",
       "slug": "argentina",
       "source_url": "https://esim.holafly.com/esim-argentina/",
-      "fetched_at": "2026-10-20T10:04:53.795Z",
+      "fetched_at": "2026-10-21T10:10:40.476Z",
       "currency": "USD",
       "plans": [
         {
@@ -837,7 +837,7 @@
       "provider": "ubigi",
       "slug": "argentina",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=arg&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:56.013Z",
+      "fetched_at": "2026-10-21T10:15:58.935Z",
       "currency": "USD",
       "plans": [
         {
@@ -902,7 +902,7 @@
       "provider": "yesim",
       "slug": "argentina",
       "source_url": "https://yesim.app/country/argentina/",
-      "fetched_at": "2026-10-20T10:13:24.608Z",
+      "fetched_at": "2026-10-21T10:19:44.405Z",
       "currency": "USD",
       "plans": [
         {
@@ -1023,7 +1023,7 @@
       "provider": "airalo",
       "slug": "asia",
       "source_url": "https://www.airalo.com/api/v4/regions/asia",
-      "fetched_at": "2026-10-20T10:01:14.221Z",
+      "fetched_at": "2026-10-21T10:06:43.076Z",
       "currency": "USD",
       "plans": [
         {
@@ -1192,7 +1192,7 @@
       "provider": "holafly",
       "slug": "asia",
       "source_url": "https://esim.holafly.com/esim-asia/",
-      "fetched_at": "2026-10-20T10:03:32.722Z",
+      "fetched_at": "2026-10-21T10:09:06.746Z",
       "currency": "USD",
       "plans": [
         {
@@ -1289,7 +1289,7 @@
       "provider": "ubigi",
       "slug": "asia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:45.884Z",
+      "fetched_at": "2026-10-21T10:13:36.690Z",
       "currency": "USD",
       "plans": [
         {
@@ -1330,7 +1330,7 @@
       "provider": "yesim",
       "slug": "asia",
       "source_url": "https://yesim.app/regions/asia-esim/",
-      "fetched_at": "2026-10-20T10:11:06.803Z",
+      "fetched_at": "2026-10-21T10:17:13.729Z",
       "currency": "USD",
       "plans": [
         {
@@ -1451,7 +1451,7 @@
       "provider": "airalo",
       "slug": "australia",
       "source_url": "https://www.airalo.com/api/v4/countries/australia",
-      "fetched_at": "2026-10-20T10:01:06.782Z",
+      "fetched_at": "2026-10-21T10:06:35.010Z",
       "currency": "USD",
       "plans": [
         {
@@ -1604,7 +1604,7 @@
       "provider": "holafly",
       "slug": "australia",
       "source_url": "https://esim.holafly.com/esim-australia/",
-      "fetched_at": "2026-10-20T10:03:26.685Z",
+      "fetched_at": "2026-10-21T10:09:00.278Z",
       "currency": "USD",
       "plans": [
         {
@@ -1798,7 +1798,7 @@
       "provider": "ubigi",
       "slug": "australia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=aus&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:36.860Z",
+      "fetched_at": "2026-10-21T10:13:28.884Z",
       "currency": "USD",
       "plans": [
         {
@@ -1879,7 +1879,7 @@
       "provider": "yesim",
       "slug": "australia",
       "source_url": "https://yesim.app/country/australia/",
-      "fetched_at": "2026-10-20T10:10:55.646Z",
+      "fetched_at": "2026-10-21T10:17:01.382Z",
       "currency": "USD",
       "plans": [
         {
@@ -2008,7 +2008,7 @@
       "provider": "airalo",
       "slug": "austria",
       "source_url": "https://www.airalo.com/api/v4/countries/austria",
-      "fetched_at": "2026-10-20T10:02:31.607Z",
+      "fetched_at": "2026-10-21T10:08:04.062Z",
       "currency": "USD",
       "plans": [
         {
@@ -2113,7 +2113,7 @@
       "provider": "holafly",
       "slug": "austria",
       "source_url": "https://esim.holafly.com/esim-austria/",
-      "fetched_at": "2026-10-20T10:04:36.632Z",
+      "fetched_at": "2026-10-21T10:10:19.358Z",
       "currency": "USD",
       "plans": [
         {
@@ -2307,7 +2307,7 @@
       "provider": "ubigi",
       "slug": "austria",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=aut&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:28.245Z",
+      "fetched_at": "2026-10-21T10:15:30.306Z",
       "currency": "USD",
       "plans": [
         {
@@ -2372,7 +2372,7 @@
       "provider": "yesim",
       "slug": "austria",
       "source_url": "https://yesim.app/country/austria/",
-      "fetched_at": "2026-10-20T10:12:55.040Z",
+      "fetched_at": "2026-10-21T10:19:12.587Z",
       "currency": "USD",
       "plans": [
         {
@@ -2493,7 +2493,7 @@
       "provider": "airalo",
       "slug": "bahamas",
       "source_url": "https://www.airalo.com/api/v4/countries/bahamas",
-      "fetched_at": "2026-10-20T10:02:35.256Z",
+      "fetched_at": "2026-10-21T10:08:08.114Z",
       "currency": "USD",
       "plans": [
         {
@@ -2550,7 +2550,7 @@
       "provider": "holafly",
       "slug": "bahamas",
       "source_url": "https://esim.holafly.com/esim-bahamas/",
-      "fetched_at": "2026-10-20T10:04:39.934Z",
+      "fetched_at": "2026-10-21T10:10:23.331Z",
       "currency": "USD",
       "plans": [
         {
@@ -2664,7 +2664,7 @@
       "provider": "ubigi",
       "slug": "bahamas",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bhs&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:34.107Z",
+      "fetched_at": "2026-10-21T10:15:35.603Z",
       "currency": "USD",
       "plans": [
         {
@@ -2705,7 +2705,7 @@
       "provider": "yesim",
       "slug": "bahamas",
       "source_url": "https://yesim.app/country/bahamas/",
-      "fetched_at": "2026-10-20T10:13:00.522Z",
+      "fetched_at": "2026-10-21T10:19:19.095Z",
       "currency": "USD",
       "plans": [
         {
@@ -2770,7 +2770,7 @@
       "provider": "airalo",
       "slug": "bolivia",
       "source_url": "https://www.airalo.com/api/v4/countries/bolivia",
-      "fetched_at": "2026-10-20T10:02:57.872Z",
+      "fetched_at": "2026-10-21T10:08:30.538Z",
       "currency": "USD",
       "plans": [
         {
@@ -2915,7 +2915,7 @@
       "provider": "holafly",
       "slug": "bolivia",
       "source_url": "https://esim.holafly.com/esim-bolivia/",
-      "fetched_at": "2026-10-20T10:04:58.512Z",
+      "fetched_at": "2026-10-21T10:10:45.968Z",
       "currency": "USD",
       "plans": [
         {
@@ -3053,7 +3053,7 @@
       "provider": "ubigi",
       "slug": "bolivia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bol&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:10:03.379Z",
+      "fetched_at": "2026-10-21T10:16:07.800Z",
       "currency": "USD",
       "plans": [
         {
@@ -3110,7 +3110,7 @@
       "provider": "yesim",
       "slug": "bolivia",
       "source_url": "https://yesim.app/country/bolivia/",
-      "fetched_at": "2026-10-20T10:13:32.033Z",
+      "fetched_at": "2026-10-21T10:19:52.998Z",
       "currency": "USD",
       "plans": [
         {
@@ -3159,7 +3159,7 @@
       "provider": "airalo",
       "slug": "brazil",
       "source_url": "https://www.airalo.com/api/v4/countries/brazil",
-      "fetched_at": "2026-10-20T10:01:39.500Z",
+      "fetched_at": "2026-10-21T10:07:09.786Z",
       "currency": "USD",
       "plans": [
         {
@@ -3304,7 +3304,7 @@
       "provider": "holafly",
       "slug": "brazil",
       "source_url": "https://esim.holafly.com/esim-brazil/",
-      "fetched_at": "2026-10-20T10:03:52.326Z",
+      "fetched_at": "2026-10-21T10:09:28.057Z",
       "currency": "USD",
       "plans": [
         {
@@ -3498,7 +3498,7 @@
       "provider": "ubigi",
       "slug": "brazil",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=bra&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:15.088Z",
+      "fetched_at": "2026-10-21T10:14:13.297Z",
       "currency": "USD",
       "plans": [
         {
@@ -3579,7 +3579,7 @@
       "provider": "yesim",
       "slug": "brazil",
       "source_url": "https://yesim.app/country/brazil/",
-      "fetched_at": "2026-10-20T10:11:42.972Z",
+      "fetched_at": "2026-10-21T10:17:52.789Z",
       "currency": "USD",
       "plans": [
         {
@@ -3700,7 +3700,7 @@
       "provider": "airalo",
       "slug": "cambodia",
       "source_url": "https://www.airalo.com/api/v4/countries/cambodia",
-      "fetched_at": "2026-10-20T10:02:24.213Z",
+      "fetched_at": "2026-10-21T10:07:56.439Z",
       "currency": "USD",
       "plans": [
         {
@@ -3853,7 +3853,7 @@
       "provider": "holafly",
       "slug": "cambodia",
       "source_url": "https://esim.holafly.com/esim-cambodia/",
-      "fetched_at": "2026-10-20T10:04:30.048Z",
+      "fetched_at": "2026-10-21T10:10:11.376Z",
       "currency": "USD",
       "plans": [
         {
@@ -3991,7 +3991,7 @@
       "provider": "ubigi",
       "slug": "cambodia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=khm&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:18.337Z",
+      "fetched_at": "2026-10-21T10:15:19.775Z",
       "currency": "USD",
       "plans": [
         {
@@ -4056,7 +4056,7 @@
       "provider": "yesim",
       "slug": "cambodia",
       "source_url": "https://yesim.app/country/cambodia/",
-      "fetched_at": "2026-10-20T10:12:45.205Z",
+      "fetched_at": "2026-10-21T10:19:03.108Z",
       "currency": "USD",
       "plans": [
         {
@@ -4129,7 +4129,7 @@
       "provider": "airalo",
       "slug": "canada",
       "source_url": "https://www.airalo.com/api/v4/countries/canada",
-      "fetched_at": "2026-10-20T10:00:53.710Z",
+      "fetched_at": "2026-10-21T10:06:21.292Z",
       "currency": "USD",
       "plans": [
         {
@@ -4282,7 +4282,7 @@
       "provider": "holafly",
       "slug": "canada",
       "source_url": "https://esim.holafly.com/esim-canada/",
-      "fetched_at": "2026-10-20T10:03:16.126Z",
+      "fetched_at": "2026-10-21T10:08:49.670Z",
       "currency": "USD",
       "plans": [
         {
@@ -4476,7 +4476,7 @@
       "provider": "ubigi",
       "slug": "canada",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=can&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:19.287Z",
+      "fetched_at": "2026-10-21T10:13:09.504Z",
       "currency": "USD",
       "plans": [
         {
@@ -4557,7 +4557,7 @@
       "provider": "yesim",
       "slug": "canada",
       "source_url": "https://yesim.app/country/canada/",
-      "fetched_at": "2026-10-20T10:10:33.569Z",
+      "fetched_at": "2026-10-21T10:16:41.136Z",
       "currency": "USD",
       "plans": [
         {
@@ -4678,7 +4678,7 @@
       "provider": "airalo",
       "slug": "chile",
       "source_url": "https://www.airalo.com/api/v4/countries/chile",
-      "fetched_at": "2026-10-20T10:02:09.656Z",
+      "fetched_at": "2026-10-21T10:07:40.943Z",
       "currency": "USD",
       "plans": [
         {
@@ -4823,7 +4823,7 @@
       "provider": "holafly",
       "slug": "chile",
       "source_url": "https://esim.holafly.com/esim-chile/",
-      "fetched_at": "2026-10-20T10:04:17.113Z",
+      "fetched_at": "2026-10-21T10:09:56.241Z",
       "currency": "USD",
       "plans": [
         {
@@ -4969,7 +4969,7 @@
       "provider": "ubigi",
       "slug": "chile",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=chl&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:57.588Z",
+      "fetched_at": "2026-10-21T10:14:58.030Z",
       "currency": "USD",
       "plans": [
         {
@@ -5026,7 +5026,7 @@
       "provider": "yesim",
       "slug": "chile",
       "source_url": "https://yesim.app/country/chile/",
-      "fetched_at": "2026-10-20T10:12:23.630Z",
+      "fetched_at": "2026-10-21T10:18:40.572Z",
       "currency": "USD",
       "plans": [
         {
@@ -5107,7 +5107,7 @@
       "provider": "airalo",
       "slug": "china",
       "source_url": "https://www.airalo.com/api/v4/countries/china",
-      "fetched_at": "2026-10-20T10:00:51.808Z",
+      "fetched_at": "2026-10-21T10:06:19.420Z",
       "currency": "USD",
       "plans": [
         {
@@ -5260,7 +5260,7 @@
       "provider": "holafly",
       "slug": "china",
       "source_url": "https://esim.holafly.com/esim-china/",
-      "fetched_at": "2026-10-20T10:03:14.618Z",
+      "fetched_at": "2026-10-21T10:08:48.154Z",
       "currency": "USD",
       "plans": [
         {
@@ -5454,7 +5454,7 @@
       "provider": "ubigi",
       "slug": "china",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=chn&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:17.306Z",
+      "fetched_at": "2026-10-21T10:13:07.401Z",
       "currency": "USD",
       "plans": [
         {
@@ -5527,7 +5527,7 @@
       "provider": "yesim",
       "slug": "china",
       "source_url": "https://yesim.app/country/china/",
-      "fetched_at": "2026-10-20T10:10:30.864Z",
+      "fetched_at": "2026-10-21T10:16:38.005Z",
       "currency": "USD",
       "plans": [
         {
@@ -5656,7 +5656,7 @@
       "provider": "airalo",
       "slug": "colombia",
       "source_url": "https://www.airalo.com/api/v4/countries/colombia",
-      "fetched_at": "2026-10-20T10:01:37.653Z",
+      "fetched_at": "2026-10-21T10:07:07.848Z",
       "currency": "USD",
       "plans": [
         {
@@ -5809,7 +5809,7 @@
       "provider": "holafly",
       "slug": "colombia",
       "source_url": "https://esim.holafly.com/esim-colombia/",
-      "fetched_at": "2026-10-20T10:03:50.816Z",
+      "fetched_at": "2026-10-21T10:09:26.137Z",
       "currency": "USD",
       "plans": [
         {
@@ -6003,7 +6003,7 @@
       "provider": "ubigi",
       "slug": "colombia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=col&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:13.175Z",
+      "fetched_at": "2026-10-21T10:14:10.276Z",
       "currency": "USD",
       "plans": [
         {
@@ -6060,7 +6060,7 @@
       "provider": "yesim",
       "slug": "colombia",
       "source_url": "https://yesim.app/country/colombia/",
-      "fetched_at": "2026-10-20T10:11:40.015Z",
+      "fetched_at": "2026-10-21T10:17:49.321Z",
       "currency": "USD",
       "plans": [
         {
@@ -6181,7 +6181,7 @@
       "provider": "airalo",
       "slug": "costa-rica",
       "source_url": "https://www.airalo.com/api/v4/countries/costa-rica",
-      "fetched_at": "2026-10-20T10:01:12.217Z",
+      "fetched_at": "2026-10-21T10:06:40.713Z",
       "currency": "USD",
       "plans": [
         {
@@ -6326,7 +6326,7 @@
       "provider": "holafly",
       "slug": "costa-rica",
       "source_url": "https://esim.holafly.com/esim-costa-rica/",
-      "fetched_at": "2026-10-20T10:03:31.213Z",
+      "fetched_at": "2026-10-21T10:09:05.227Z",
       "currency": "USD",
       "plans": [
         {
@@ -6520,7 +6520,7 @@
       "provider": "ubigi",
       "slug": "costa-rica",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=cri&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:44.375Z",
+      "fetched_at": "2026-10-21T10:13:35.182Z",
       "currency": "USD",
       "plans": [
         {
@@ -6593,7 +6593,7 @@
       "provider": "yesim",
       "slug": "costa-rica",
       "source_url": "https://yesim.app/country/costa-rica/",
-      "fetched_at": "2026-10-20T10:11:04.294Z",
+      "fetched_at": "2026-10-21T10:17:10.598Z",
       "currency": "USD",
       "plans": [
         {
@@ -6714,7 +6714,7 @@
       "provider": "airalo",
       "slug": "croatia",
       "source_url": "https://www.airalo.com/api/v4/countries/croatia",
-      "fetched_at": "2026-10-20T10:02:07.704Z",
+      "fetched_at": "2026-10-21T10:07:39.042Z",
       "currency": "USD",
       "plans": [
         {
@@ -6867,7 +6867,7 @@
       "provider": "holafly",
       "slug": "croatia",
       "source_url": "https://esim.holafly.com/esim-croatia/",
-      "fetched_at": "2026-10-20T10:04:15.606Z",
+      "fetched_at": "2026-10-21T10:09:54.324Z",
       "currency": "USD",
       "plans": [
         {
@@ -7061,7 +7061,7 @@
       "provider": "ubigi",
       "slug": "croatia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hrv&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:54.576Z",
+      "fetched_at": "2026-10-21T10:14:55.091Z",
       "currency": "USD",
       "plans": [
         {
@@ -7118,7 +7118,7 @@
       "provider": "yesim",
       "slug": "croatia",
       "source_url": "https://yesim.app/country/croatia/",
-      "fetched_at": "2026-10-20T10:12:21.220Z",
+      "fetched_at": "2026-10-21T10:18:37.522Z",
       "currency": "USD",
       "plans": [
         {
@@ -7239,7 +7239,7 @@
       "provider": "yesim",
       "slug": "cuba",
       "source_url": "https://yesim.app/country/cuba/",
-      "fetched_at": "2026-10-20T10:12:28.264Z",
+      "fetched_at": "2026-10-21T10:18:45.997Z",
       "currency": "USD",
       "plans": [
         {
@@ -7304,7 +7304,7 @@
       "provider": "airalo",
       "slug": "cyprus",
       "source_url": "https://www.airalo.com/api/v4/countries/cyprus",
-      "fetched_at": "2026-10-20T10:02:59.702Z",
+      "fetched_at": "2026-10-21T10:08:32.420Z",
       "currency": "USD",
       "plans": [
         {
@@ -7457,7 +7457,7 @@
       "provider": "holafly",
       "slug": "cyprus",
       "source_url": "https://esim.holafly.com/esim-cyprus/",
-      "fetched_at": "2026-10-20T10:05:00.021Z",
+      "fetched_at": "2026-10-21T10:10:47.889Z",
       "currency": "USD",
       "plans": [
         {
@@ -7651,7 +7651,7 @@
       "provider": "ubigi",
       "slug": "cyprus",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=cyp&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:10:06.239Z",
+      "fetched_at": "2026-10-21T10:16:10.883Z",
       "currency": "USD",
       "plans": [
         {
@@ -7724,7 +7724,7 @@
       "provider": "yesim",
       "slug": "cyprus",
       "source_url": "https://yesim.app/country/cyprus/",
-      "fetched_at": "2026-10-20T10:13:35.002Z",
+      "fetched_at": "2026-10-21T10:19:55.678Z",
       "currency": "USD",
       "plans": [
         {
@@ -7845,7 +7845,7 @@
       "provider": "airalo",
       "slug": "denmark",
       "source_url": "https://www.airalo.com/api/v4/countries/denmark",
-      "fetched_at": "2026-10-20T10:02:22.289Z",
+      "fetched_at": "2026-10-21T10:07:54.508Z",
       "currency": "USD",
       "plans": [
         {
@@ -7998,7 +7998,7 @@
       "provider": "holafly",
       "slug": "denmark",
       "source_url": "https://esim.holafly.com/esim-denmark/",
-      "fetched_at": "2026-10-20T10:04:28.541Z",
+      "fetched_at": "2026-10-21T10:10:09.456Z",
       "currency": "USD",
       "plans": [
         {
@@ -8192,7 +8192,7 @@
       "provider": "ubigi",
       "slug": "denmark",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=dnk&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:15.415Z",
+      "fetched_at": "2026-10-21T10:15:16.724Z",
       "currency": "USD",
       "plans": [
         {
@@ -8265,7 +8265,7 @@
       "provider": "yesim",
       "slug": "denmark",
       "source_url": "https://yesim.app/country/denmark/",
-      "fetched_at": "2026-10-20T10:12:42.764Z",
+      "fetched_at": "2026-10-21T10:19:00.788Z",
       "currency": "USD",
       "plans": [
         {
@@ -8386,7 +8386,7 @@
       "provider": "airalo",
       "slug": "dominican-republic",
       "source_url": "https://www.airalo.com/api/v4/countries/dominican-republic",
-      "fetched_at": "2026-10-20T10:01:48.718Z",
+      "fetched_at": "2026-10-21T10:07:19.343Z",
       "currency": "USD",
       "plans": [
         {
@@ -8531,7 +8531,7 @@
       "provider": "holafly",
       "slug": "dominican-republic",
       "source_url": "https://esim.holafly.com/esim-dominican-republic/",
-      "fetched_at": "2026-10-20T10:03:59.864Z",
+      "fetched_at": "2026-10-21T10:09:36.453Z",
       "currency": "USD",
       "plans": [
         {
@@ -8669,7 +8669,7 @@
       "provider": "ubigi",
       "slug": "dominican-republic",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=dom&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:28.409Z",
+      "fetched_at": "2026-10-21T10:14:28.695Z",
       "currency": "USD",
       "plans": [
         {
@@ -8742,7 +8742,7 @@
       "provider": "yesim",
       "slug": "dominican-republic",
       "source_url": "https://yesim.app/country/dominican-republic/",
-      "fetched_at": "2026-10-20T10:11:55.448Z",
+      "fetched_at": "2026-10-21T10:18:07.422Z",
       "currency": "USD",
       "plans": [
         {
@@ -8807,7 +8807,7 @@
       "provider": "airalo",
       "slug": "ecuador",
       "source_url": "https://www.airalo.com/api/v4/countries/ecuador",
-      "fetched_at": "2026-10-20T10:02:11.490Z",
+      "fetched_at": "2026-10-21T10:07:42.864Z",
       "currency": "USD",
       "plans": [
         {
@@ -8952,7 +8952,7 @@
       "provider": "holafly",
       "slug": "ecuador",
       "source_url": "https://esim.holafly.com/esim-ecuador/",
-      "fetched_at": "2026-10-20T10:04:18.622Z",
+      "fetched_at": "2026-10-21T10:09:58.297Z",
       "currency": "USD",
       "plans": [
         {
@@ -9138,7 +9138,7 @@
       "provider": "ubigi",
       "slug": "ecuador",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ecu&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:00.466Z",
+      "fetched_at": "2026-10-21T10:15:01.083Z",
       "currency": "USD",
       "plans": [
         {
@@ -9187,7 +9187,7 @@
       "provider": "yesim",
       "slug": "ecuador",
       "source_url": "https://yesim.app/country/ecuador/",
-      "fetched_at": "2026-10-20T10:12:25.798Z",
+      "fetched_at": "2026-10-21T10:18:43.713Z",
       "currency": "USD",
       "plans": [
         {
@@ -9308,7 +9308,7 @@
       "provider": "airalo",
       "slug": "egypt",
       "source_url": "https://www.airalo.com/api/v4/countries/egypt",
-      "fetched_at": "2026-10-20T10:01:50.546Z",
+      "fetched_at": "2026-10-21T10:07:21.256Z",
       "currency": "USD",
       "plans": [
         {
@@ -9453,7 +9453,7 @@
       "provider": "holafly",
       "slug": "egypt",
       "source_url": "https://esim.holafly.com/esim-egypt/",
-      "fetched_at": "2026-10-20T10:04:01.372Z",
+      "fetched_at": "2026-10-21T10:09:37.967Z",
       "currency": "USD",
       "plans": [
         {
@@ -9631,7 +9631,7 @@
       "provider": "ubigi",
       "slug": "egypt",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=egy&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:30.305Z",
+      "fetched_at": "2026-10-21T10:14:30.802Z",
       "currency": "USD",
       "plans": [
         {
@@ -9704,7 +9704,7 @@
       "provider": "yesim",
       "slug": "egypt",
       "source_url": "https://yesim.app/country/egypt/",
-      "fetched_at": "2026-10-20T10:11:58.648Z",
+      "fetched_at": "2026-10-21T10:18:10.946Z",
       "currency": "USD",
       "plans": [
         {
@@ -9841,7 +9841,7 @@
       "provider": "airalo",
       "slug": "europe",
       "source_url": "https://www.airalo.com/api/v4/regions/europe",
-      "fetched_at": "2026-10-20T10:00:46.216Z",
+      "fetched_at": "2026-10-21T10:06:13.724Z",
       "currency": "USD",
       "plans": [
         {
@@ -10010,7 +10010,7 @@
       "provider": "holafly",
       "slug": "europe",
       "source_url": "https://esim.holafly.com/esim-europe/",
-      "fetched_at": "2026-10-20T10:03:10.093Z",
+      "fetched_at": "2026-10-21T10:08:43.602Z",
       "currency": "USD",
       "plans": [
         {
@@ -10107,7 +10107,7 @@
       "provider": "ubigi",
       "slug": "europe",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:10.375Z",
+      "fetched_at": "2026-10-21T10:13:00.030Z",
       "currency": "USD",
       "plans": [
         {
@@ -10212,7 +10212,7 @@
       "provider": "yesim",
       "slug": "europe",
       "source_url": "https://yesim.app/regions/europe-esim/",
-      "fetched_at": "2026-10-20T10:10:22.291Z",
+      "fetched_at": "2026-10-21T10:16:29.264Z",
       "currency": "USD",
       "plans": [
         {
@@ -10333,7 +10333,7 @@
       "provider": "airalo",
       "slug": "fiji",
       "source_url": "https://www.airalo.com/api/v4/countries/fiji",
-      "fetched_at": "2026-10-20T10:02:42.658Z",
+      "fetched_at": "2026-10-21T10:08:15.758Z",
       "currency": "USD",
       "plans": [
         {
@@ -10454,7 +10454,7 @@
       "provider": "holafly",
       "slug": "fiji",
       "source_url": "https://esim.holafly.com/esim-fiji/",
-      "fetched_at": "2026-10-20T10:04:46.246Z",
+      "fetched_at": "2026-10-21T10:10:30.875Z",
       "currency": "USD",
       "plans": [
         {
@@ -10560,7 +10560,7 @@
       "provider": "ubigi",
       "slug": "fiji",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=fji&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:43.238Z",
+      "fetched_at": "2026-10-21T10:15:45.293Z",
       "currency": "USD",
       "plans": [
         {
@@ -10585,7 +10585,7 @@
       "provider": "yesim",
       "slug": "fiji",
       "source_url": "https://yesim.app/country/fiji/",
-      "fetched_at": "2026-10-20T10:13:11.239Z",
+      "fetched_at": "2026-10-21T10:19:31.061Z",
       "currency": "USD",
       "plans": [
         {
@@ -10666,7 +10666,7 @@
       "provider": "airalo",
       "slug": "france",
       "source_url": "https://www.airalo.com/api/v4/countries/france",
-      "fetched_at": "2026-10-20T10:00:57.468Z",
+      "fetched_at": "2026-10-21T10:06:25.188Z",
       "currency": "USD",
       "plans": [
         {
@@ -10819,7 +10819,7 @@
       "provider": "holafly",
       "slug": "france",
       "source_url": "https://esim.holafly.com/esim-france/",
-      "fetched_at": "2026-10-20T10:03:19.142Z",
+      "fetched_at": "2026-10-21T10:08:52.700Z",
       "currency": "USD",
       "plans": [
         {
@@ -11013,7 +11013,7 @@
       "provider": "ubigi",
       "slug": "france",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=fra&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:24.100Z",
+      "fetched_at": "2026-10-21T10:13:15.532Z",
       "currency": "USD",
       "plans": [
         {
@@ -11094,7 +11094,7 @@
       "provider": "yesim",
       "slug": "france",
       "source_url": "https://yesim.app/country/france/",
-      "fetched_at": "2026-10-20T10:10:40.001Z",
+      "fetched_at": "2026-10-21T10:16:47.177Z",
       "currency": "USD",
       "plans": [
         {
@@ -11215,7 +11215,7 @@
       "provider": "airalo",
       "slug": "georgia",
       "source_url": "https://www.airalo.com/api/v4/countries/georgia",
-      "fetched_at": "2026-10-20T10:02:54.121Z",
+      "fetched_at": "2026-10-21T10:08:26.838Z",
       "currency": "USD",
       "plans": [
         {
@@ -11320,7 +11320,7 @@
       "provider": "holafly",
       "slug": "georgia",
       "source_url": "https://esim.holafly.com/esim-georgia/",
-      "fetched_at": "2026-10-20T10:04:55.303Z",
+      "fetched_at": "2026-10-21T10:10:42.396Z",
       "currency": "USD",
       "plans": [
         {
@@ -11514,7 +11514,7 @@
       "provider": "ubigi",
       "slug": "georgia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=geo&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:58.727Z",
+      "fetched_at": "2026-10-21T10:16:03.152Z",
       "currency": "USD",
       "plans": [
         {
@@ -11579,7 +11579,7 @@
       "provider": "yesim",
       "slug": "georgia",
       "source_url": "https://yesim.app/country/georgia/",
-      "fetched_at": "2026-10-20T10:13:27.319Z",
+      "fetched_at": "2026-10-21T10:19:47.627Z",
       "currency": "USD",
       "plans": [
         {
@@ -11708,7 +11708,7 @@
       "provider": "airalo",
       "slug": "germany",
       "source_url": "https://www.airalo.com/api/v4/countries/germany",
-      "fetched_at": "2026-10-20T10:01:21.694Z",
+      "fetched_at": "2026-10-21T10:06:51.026Z",
       "currency": "USD",
       "plans": [
         {
@@ -11861,7 +11861,7 @@
       "provider": "holafly",
       "slug": "germany",
       "source_url": "https://esim.holafly.com/esim-germany/",
-      "fetched_at": "2026-10-20T10:03:38.753Z",
+      "fetched_at": "2026-10-21T10:09:12.805Z",
       "currency": "USD",
       "plans": [
         {
@@ -12055,7 +12055,7 @@
       "provider": "ubigi",
       "slug": "germany",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=deu&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:55.338Z",
+      "fetched_at": "2026-10-21T10:13:48.168Z",
       "currency": "USD",
       "plans": [
         {
@@ -12136,7 +12136,7 @@
       "provider": "yesim",
       "slug": "germany",
       "source_url": "https://yesim.app/country/germany/",
-      "fetched_at": "2026-10-20T10:11:18.496Z",
+      "fetched_at": "2026-10-21T10:17:25.605Z",
       "currency": "USD",
       "plans": [
         {
@@ -12257,7 +12257,7 @@
       "provider": "airalo",
       "slug": "global",
       "source_url": "https://www.airalo.com/api/v4/regions/world",
-      "fetched_at": "2026-10-20T10:01:30.169Z",
+      "fetched_at": "2026-10-21T10:07:00.169Z",
       "currency": "USD",
       "plans": [
         {
@@ -12362,7 +12362,7 @@
       "provider": "holafly",
       "slug": "global",
       "source_url": "https://esim.holafly.com/esim-global/",
-      "fetched_at": "2026-10-20T10:03:44.786Z",
+      "fetched_at": "2026-10-21T10:09:18.864Z",
       "currency": "USD",
       "plans": [
         {
@@ -12459,7 +12459,7 @@
       "provider": "ubigi",
       "slug": "global",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:03.705Z",
+      "fetched_at": "2026-10-21T10:13:57.814Z",
       "currency": "USD",
       "plans": [
         {
@@ -12532,7 +12532,7 @@
       "provider": "yesim",
       "slug": "global",
       "source_url": "https://yesim.app/global/global-package-esim/",
-      "fetched_at": "2026-10-20T10:11:29.412Z",
+      "fetched_at": "2026-10-21T10:17:37.792Z",
       "currency": "USD",
       "plans": [
         {
@@ -12597,7 +12597,7 @@
       "provider": "airalo",
       "slug": "greece",
       "source_url": "https://www.airalo.com/api/v4/countries/greece",
-      "fetched_at": "2026-10-20T10:01:23.518Z",
+      "fetched_at": "2026-10-21T10:06:52.998Z",
       "currency": "USD",
       "plans": [
         {
@@ -12750,7 +12750,7 @@
       "provider": "holafly",
       "slug": "greece",
       "source_url": "https://esim.holafly.com/esim-greece/",
-      "fetched_at": "2026-10-20T10:03:40.260Z",
+      "fetched_at": "2026-10-21T10:09:14.320Z",
       "currency": "USD",
       "plans": [
         {
@@ -12944,7 +12944,7 @@
       "provider": "ubigi",
       "slug": "greece",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=grc&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:57.232Z",
+      "fetched_at": "2026-10-21T10:13:51.189Z",
       "currency": "USD",
       "plans": [
         {
@@ -13017,7 +13017,7 @@
       "provider": "yesim",
       "slug": "greece",
       "source_url": "https://yesim.app/country/greece/",
-      "fetched_at": "2026-10-20T10:11:21.649Z",
+      "fetched_at": "2026-10-21T10:17:28.390Z",
       "currency": "USD",
       "plans": [
         {
@@ -13138,7 +13138,7 @@
       "provider": "airalo",
       "slug": "hong-kong",
       "source_url": "https://www.airalo.com/api/v4/countries/hong-kong",
-      "fetched_at": "2026-10-20T10:01:43.133Z",
+      "fetched_at": "2026-10-21T10:07:13.619Z",
       "currency": "USD",
       "plans": [
         {
@@ -13291,7 +13291,7 @@
       "provider": "holafly",
       "slug": "hong-kong",
       "source_url": "https://esim.holafly.com/esim-hong-kong/",
-      "fetched_at": "2026-10-20T10:03:55.340Z",
+      "fetched_at": "2026-10-21T10:09:31.503Z",
       "currency": "USD",
       "plans": [
         {
@@ -13485,7 +13485,7 @@
       "provider": "ubigi",
       "slug": "hong-kong",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hkg&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:20.846Z",
+      "fetched_at": "2026-10-21T10:14:19.406Z",
       "currency": "USD",
       "plans": [
         {
@@ -13550,7 +13550,7 @@
       "provider": "yesim",
       "slug": "hong-kong",
       "source_url": "https://yesim.app/country/hong-kong/",
-      "fetched_at": "2026-10-20T10:11:47.709Z",
+      "fetched_at": "2026-10-21T10:17:59.256Z",
       "currency": "USD",
       "plans": [
         {
@@ -13671,7 +13671,7 @@
       "provider": "airalo",
       "slug": "hungary",
       "source_url": "https://www.airalo.com/api/v4/countries/hungary",
-      "fetched_at": "2026-10-20T10:02:44.649Z",
+      "fetched_at": "2026-10-21T10:08:17.610Z",
       "currency": "USD",
       "plans": [
         {
@@ -13824,7 +13824,7 @@
       "provider": "holafly",
       "slug": "hungary",
       "source_url": "https://esim.holafly.com/esim-hungary/",
-      "fetched_at": "2026-10-20T10:04:47.756Z",
+      "fetched_at": "2026-10-21T10:10:32.795Z",
       "currency": "USD",
       "plans": [
         {
@@ -14018,7 +14018,7 @@
       "provider": "ubigi",
       "slug": "hungary",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=hun&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:46.031Z",
+      "fetched_at": "2026-10-21T10:15:48.278Z",
       "currency": "USD",
       "plans": [
         {
@@ -14075,7 +14075,7 @@
       "provider": "yesim",
       "slug": "hungary",
       "source_url": "https://yesim.app/country/hungary/",
-      "fetched_at": "2026-10-20T10:13:14.052Z",
+      "fetched_at": "2026-10-21T10:19:33.847Z",
       "currency": "USD",
       "plans": [
         {
@@ -14196,7 +14196,7 @@
       "provider": "airalo",
       "slug": "iceland",
       "source_url": "https://www.airalo.com/api/v4/countries/iceland",
-      "fetched_at": "2026-10-20T10:01:35.734Z",
+      "fetched_at": "2026-10-21T10:07:05.888Z",
       "currency": "USD",
       "plans": [
         {
@@ -14349,7 +14349,7 @@
       "provider": "holafly",
       "slug": "iceland",
       "source_url": "https://esim.holafly.com/esim-iceland/",
-      "fetched_at": "2026-10-20T10:03:49.309Z",
+      "fetched_at": "2026-10-21T10:09:24.218Z",
       "currency": "USD",
       "plans": [
         {
@@ -14543,7 +14543,7 @@
       "provider": "ubigi",
       "slug": "iceland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=isl&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:10.272Z",
+      "fetched_at": "2026-10-21T10:14:07.175Z",
       "currency": "USD",
       "plans": [
         {
@@ -14592,7 +14592,7 @@
       "provider": "yesim",
       "slug": "iceland",
       "source_url": "https://yesim.app/country/iceland/",
-      "fetched_at": "2026-10-20T10:11:37.818Z",
+      "fetched_at": "2026-10-21T10:17:46.481Z",
       "currency": "USD",
       "plans": [
         {
@@ -14673,7 +14673,7 @@
       "provider": "airalo",
       "slug": "india",
       "source_url": "https://www.airalo.com/api/v4/countries/india",
-      "fetched_at": "2026-10-20T10:01:04.941Z",
+      "fetched_at": "2026-10-21T10:06:33.097Z",
       "currency": "USD",
       "plans": [
         {
@@ -14818,7 +14818,7 @@
       "provider": "holafly",
       "slug": "india",
       "source_url": "https://esim.holafly.com/esim-india/",
-      "fetched_at": "2026-10-20T10:03:25.176Z",
+      "fetched_at": "2026-10-21T10:08:58.761Z",
       "currency": "USD",
       "plans": [
         {
@@ -15012,7 +15012,7 @@
       "provider": "ubigi",
       "slug": "india",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ind&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:34.875Z",
+      "fetched_at": "2026-10-21T10:13:25.717Z",
       "currency": "USD",
       "plans": [
         {
@@ -15093,7 +15093,7 @@
       "provider": "yesim",
       "slug": "india",
       "source_url": "https://yesim.app/country/india/",
-      "fetched_at": "2026-10-20T10:10:52.513Z",
+      "fetched_at": "2026-10-21T10:16:58.700Z",
       "currency": "USD",
       "plans": [
         {
@@ -15222,7 +15222,7 @@
       "provider": "airalo",
       "slug": "indonesia",
       "source_url": "https://www.airalo.com/api/v4/countries/indonesia",
-      "fetched_at": "2026-10-20T10:01:25.394Z",
+      "fetched_at": "2026-10-21T10:06:54.891Z",
       "currency": "USD",
       "plans": [
         {
@@ -15375,7 +15375,7 @@
       "provider": "holafly",
       "slug": "indonesia",
       "source_url": "https://esim.holafly.com/esim-indonesia/",
-      "fetched_at": "2026-10-20T10:03:41.768Z",
+      "fetched_at": "2026-10-21T10:09:15.834Z",
       "currency": "USD",
       "plans": [
         {
@@ -15569,7 +15569,7 @@
       "provider": "ubigi",
       "slug": "indonesia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=idn&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:59.120Z",
+      "fetched_at": "2026-10-21T10:13:53.293Z",
       "currency": "USD",
       "plans": [
         {
@@ -15642,7 +15642,7 @@
       "provider": "yesim",
       "slug": "indonesia",
       "source_url": "https://yesim.app/country/indonesia/",
-      "fetched_at": "2026-10-20T10:11:24.229Z",
+      "fetched_at": "2026-10-21T10:17:31.838Z",
       "currency": "USD",
       "plans": [
         {
@@ -15771,7 +15771,7 @@
       "provider": "airalo",
       "slug": "ireland",
       "source_url": "https://www.airalo.com/api/v4/countries/ireland",
-      "fetched_at": "2026-10-20T10:01:17.859Z",
+      "fetched_at": "2026-10-21T10:06:46.925Z",
       "currency": "USD",
       "plans": [
         {
@@ -15924,7 +15924,7 @@
       "provider": "holafly",
       "slug": "ireland",
       "source_url": "https://esim.holafly.com/esim-ireland/",
-      "fetched_at": "2026-10-20T10:03:35.739Z",
+      "fetched_at": "2026-10-21T10:09:09.776Z",
       "currency": "USD",
       "plans": [
         {
@@ -16118,7 +16118,7 @@
       "provider": "ubigi",
       "slug": "ireland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=irl&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:51.547Z",
+      "fetched_at": "2026-10-21T10:13:43.050Z",
       "currency": "USD",
       "plans": [
         {
@@ -16183,7 +16183,7 @@
       "provider": "yesim",
       "slug": "ireland",
       "source_url": "https://yesim.app/country/ireland/",
-      "fetched_at": "2026-10-20T10:11:12.679Z",
+      "fetched_at": "2026-10-21T10:17:19.720Z",
       "currency": "USD",
       "plans": [
         {
@@ -16304,7 +16304,7 @@
       "provider": "airalo",
       "slug": "israel",
       "source_url": "https://www.airalo.com/api/v4/countries/israel",
-      "fetched_at": "2026-10-20T10:01:54.459Z",
+      "fetched_at": "2026-10-21T10:07:25.376Z",
       "currency": "USD",
       "plans": [
         {
@@ -16457,7 +16457,7 @@
       "provider": "holafly",
       "slug": "israel",
       "source_url": "https://esim.holafly.com/esim-israel/",
-      "fetched_at": "2026-10-20T10:04:04.387Z",
+      "fetched_at": "2026-10-21T10:09:41.399Z",
       "currency": "USD",
       "plans": [
         {
@@ -16651,7 +16651,7 @@
       "provider": "ubigi",
       "slug": "israel",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=isr&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:36.200Z",
+      "fetched_at": "2026-10-21T10:14:37.148Z",
       "currency": "USD",
       "plans": [
         {
@@ -16716,7 +16716,7 @@
       "provider": "yesim",
       "slug": "israel",
       "source_url": "https://yesim.app/country/israel/",
-      "fetched_at": "2026-10-20T10:12:03.758Z",
+      "fetched_at": "2026-10-21T10:18:17.033Z",
       "currency": "USD",
       "plans": [
         {
@@ -16837,7 +16837,7 @@
       "provider": "airalo",
       "slug": "italy",
       "source_url": "https://www.airalo.com/api/v4/countries/italy",
-      "fetched_at": "2026-10-20T10:00:49.973Z",
+      "fetched_at": "2026-10-21T10:06:17.506Z",
       "currency": "USD",
       "plans": [
         {
@@ -16990,7 +16990,7 @@
       "provider": "holafly",
       "slug": "italy",
       "source_url": "https://esim.holafly.com/esim-italy/",
-      "fetched_at": "2026-10-20T10:03:13.111Z",
+      "fetched_at": "2026-10-21T10:08:46.639Z",
       "currency": "USD",
       "plans": [
         {
@@ -17184,7 +17184,7 @@
       "provider": "ubigi",
       "slug": "italy",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ita&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:15.421Z",
+      "fetched_at": "2026-10-21T10:13:05.304Z",
       "currency": "USD",
       "plans": [
         {
@@ -17257,7 +17257,7 @@
       "provider": "yesim",
       "slug": "italy",
       "source_url": "https://yesim.app/country/italy/",
-      "fetched_at": "2026-10-20T10:10:28.079Z",
+      "fetched_at": "2026-10-21T10:16:35.231Z",
       "currency": "USD",
       "plans": [
         {
@@ -17378,7 +17378,7 @@
       "provider": "airalo",
       "slug": "jamaica",
       "source_url": "https://www.airalo.com/api/v4/countries/jamaica",
-      "fetched_at": "2026-10-20T10:01:58.530Z",
+      "fetched_at": "2026-10-21T10:07:29.231Z",
       "currency": "USD",
       "plans": [
         {
@@ -17523,7 +17523,7 @@
       "provider": "holafly",
       "slug": "jamaica",
       "source_url": "https://esim.holafly.com/esim-jamaica/",
-      "fetched_at": "2026-10-20T10:04:08.066Z",
+      "fetched_at": "2026-10-21T10:09:45.534Z",
       "currency": "USD",
       "plans": [
         {
@@ -17645,7 +17645,7 @@
       "provider": "yesim",
       "slug": "jamaica",
       "source_url": "https://yesim.app/country/jamaica/",
-      "fetched_at": "2026-10-20T10:12:07.853Z",
+      "fetched_at": "2026-10-21T10:18:22.096Z",
       "currency": "USD",
       "plans": [
         {
@@ -17718,7 +17718,7 @@
       "provider": "airalo",
       "slug": "japan",
       "source_url": "https://www.airalo.com/api/v4/countries/japan",
-      "fetched_at": "2026-10-20T10:00:43.845Z",
+      "fetched_at": "2026-10-21T10:06:11.401Z",
       "currency": "USD",
       "plans": [
         {
@@ -17863,7 +17863,7 @@
       "provider": "holafly",
       "slug": "japan",
       "source_url": "https://esim.holafly.com/esim-japan/",
-      "fetched_at": "2026-10-20T10:03:08.577Z",
+      "fetched_at": "2026-10-21T10:08:41.544Z",
       "currency": "USD",
       "plans": [
         {
@@ -18081,7 +18081,7 @@
       "provider": "ubigi",
       "slug": "japan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=jpn&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:08.867Z",
+      "fetched_at": "2026-10-21T10:12:58.520Z",
       "currency": "USD",
       "plans": [
         {
@@ -18154,7 +18154,7 @@
       "provider": "yesim",
       "slug": "japan",
       "source_url": "https://yesim.app/country/japan/",
-      "fetched_at": "2026-10-20T10:10:20.033Z",
+      "fetched_at": "2026-10-21T10:16:26.634Z",
       "currency": "USD",
       "plans": [
         {
@@ -18275,7 +18275,7 @@
       "provider": "airalo",
       "slug": "jordan",
       "source_url": "https://www.airalo.com/api/v4/countries/jordan",
-      "fetched_at": "2026-10-20T10:02:29.693Z",
+      "fetched_at": "2026-10-21T10:08:02.113Z",
       "currency": "USD",
       "plans": [
         {
@@ -18372,7 +18372,7 @@
       "provider": "holafly",
       "slug": "jordan",
       "source_url": "https://esim.holafly.com/esim-jordan/",
-      "fetched_at": "2026-10-20T10:04:35.124Z",
+      "fetched_at": "2026-10-21T10:10:17.417Z",
       "currency": "USD",
       "plans": [
         {
@@ -18518,7 +18518,7 @@
       "provider": "ubigi",
       "slug": "jordan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=jor&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:25.434Z",
+      "fetched_at": "2026-10-21T10:15:27.210Z",
       "currency": "USD",
       "plans": [
         {
@@ -18551,7 +18551,7 @@
       "provider": "yesim",
       "slug": "jordan",
       "source_url": "https://yesim.app/country/jordan/",
-      "fetched_at": "2026-10-20T10:12:51.825Z",
+      "fetched_at": "2026-10-21T10:19:09.073Z",
       "currency": "USD",
       "plans": [
         {
@@ -18616,7 +18616,7 @@
       "provider": "airalo",
       "slug": "kenya",
       "source_url": "https://www.airalo.com/api/v4/countries/kenya",
-      "fetched_at": "2026-10-20T10:02:16.820Z",
+      "fetched_at": "2026-10-21T10:07:48.521Z",
       "currency": "USD",
       "plans": [
         {
@@ -18697,7 +18697,7 @@
       "provider": "holafly",
       "slug": "kenya",
       "source_url": "https://esim.holafly.com/esim-kenya/",
-      "fetched_at": "2026-10-20T10:04:23.734Z",
+      "fetched_at": "2026-10-21T10:10:04.097Z",
       "currency": "USD",
       "plans": [
         {
@@ -18819,7 +18819,7 @@
       "provider": "ubigi",
       "slug": "kenya",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=ken&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:06.865Z",
+      "fetched_at": "2026-10-21T10:15:07.636Z",
       "currency": "USD",
       "plans": [
         {
@@ -18884,7 +18884,7 @@
       "provider": "yesim",
       "slug": "kenya",
       "source_url": "https://yesim.app/country/kenya/",
-      "fetched_at": "2026-10-20T10:12:33.408Z",
+      "fetched_at": "2026-10-21T10:18:51.680Z",
       "currency": "USD",
       "plans": [
         {
@@ -19005,7 +19005,7 @@
       "provider": "airalo",
       "slug": "laos",
       "source_url": "https://www.airalo.com/api/v4/countries/laos",
-      "fetched_at": "2026-10-20T10:02:37.125Z",
+      "fetched_at": "2026-10-21T10:08:09.955Z",
       "currency": "USD",
       "plans": [
         {
@@ -19150,7 +19150,7 @@
       "provider": "holafly",
       "slug": "laos",
       "source_url": "https://esim.holafly.com/esim-laos/",
-      "fetched_at": "2026-10-20T10:04:41.442Z",
+      "fetched_at": "2026-10-21T10:10:24.983Z",
       "currency": "USD",
       "plans": [
         {
@@ -19296,7 +19296,7 @@
       "provider": "yesim",
       "slug": "laos",
       "source_url": "https://yesim.app/country/laos/",
-      "fetched_at": "2026-10-20T10:13:02.684Z",
+      "fetched_at": "2026-10-21T10:19:21.444Z",
       "currency": "USD",
       "plans": [
         {
@@ -19377,7 +19377,7 @@
       "provider": "airalo",
       "slug": "lebanon",
       "source_url": "https://www.airalo.com/api/v4/countries/lebanon",
-      "fetched_at": "2026-10-20T10:02:26.068Z",
+      "fetched_at": "2026-10-21T10:07:58.314Z",
       "currency": "USD",
       "plans": [
         {
@@ -19458,7 +19458,7 @@
       "provider": "airalo",
       "slug": "malaysia",
       "source_url": "https://www.airalo.com/api/v4/countries/malaysia",
-      "fetched_at": "2026-10-20T10:02:20.485Z",
+      "fetched_at": "2026-10-21T10:07:52.332Z",
       "currency": "USD",
       "plans": [
         {
@@ -19611,7 +19611,7 @@
       "provider": "holafly",
       "slug": "malaysia",
       "source_url": "https://esim.holafly.com/esim-malaysia/",
-      "fetched_at": "2026-10-20T10:04:27.034Z",
+      "fetched_at": "2026-10-21T10:10:07.534Z",
       "currency": "USD",
       "plans": [
         {
@@ -19805,7 +19805,7 @@
       "provider": "ubigi",
       "slug": "malaysia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mys&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:12.638Z",
+      "fetched_at": "2026-10-21T10:15:13.729Z",
       "currency": "USD",
       "plans": [
         {
@@ -19870,7 +19870,7 @@
       "provider": "yesim",
       "slug": "malaysia",
       "source_url": "https://yesim.app/country/malaysia/",
-      "fetched_at": "2026-10-20T10:12:39.821Z",
+      "fetched_at": "2026-10-21T10:18:57.548Z",
       "currency": "USD",
       "plans": [
         {
@@ -19991,7 +19991,7 @@
       "provider": "airalo",
       "slug": "maldives",
       "source_url": "https://www.airalo.com/api/v4/countries/maldives",
-      "fetched_at": "2026-10-20T10:02:55.987Z",
+      "fetched_at": "2026-10-21T10:08:28.664Z",
       "currency": "USD",
       "plans": [
         {
@@ -20008,7 +20008,7 @@
       "provider": "holafly",
       "slug": "maldives",
       "source_url": "https://esim.holafly.com/esim-maldives/",
-      "fetched_at": "2026-10-20T10:04:56.908Z",
+      "fetched_at": "2026-10-21T10:10:44.313Z",
       "currency": "USD",
       "plans": [
         {
@@ -20106,7 +20106,7 @@
       "provider": "yesim",
       "slug": "maldives",
       "source_url": "https://yesim.app/country/maldives/",
-      "fetched_at": "2026-10-20T10:13:29.396Z",
+      "fetched_at": "2026-10-21T10:19:50.647Z",
       "currency": "USD",
       "plans": [
         {
@@ -20203,7 +20203,7 @@
       "provider": "airalo",
       "slug": "mexico",
       "source_url": "https://www.airalo.com/api/v4/countries/mexico",
-      "fetched_at": "2026-10-20T10:00:55.611Z",
+      "fetched_at": "2026-10-21T10:06:23.191Z",
       "currency": "USD",
       "plans": [
         {
@@ -20356,7 +20356,7 @@
       "provider": "holafly",
       "slug": "mexico",
       "source_url": "https://esim.holafly.com/esim-mexico/",
-      "fetched_at": "2026-10-20T10:03:17.635Z",
+      "fetched_at": "2026-10-21T10:08:51.185Z",
       "currency": "USD",
       "plans": [
         {
@@ -20550,7 +20550,7 @@
       "provider": "ubigi",
       "slug": "mexico",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mex&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:21.185Z",
+      "fetched_at": "2026-10-21T10:13:12.511Z",
       "currency": "USD",
       "plans": [
         {
@@ -20615,7 +20615,7 @@
       "provider": "yesim",
       "slug": "mexico",
       "source_url": "https://yesim.app/country/mexico/",
-      "fetched_at": "2026-10-20T10:10:36.784Z",
+      "fetched_at": "2026-10-21T10:16:44.306Z",
       "currency": "USD",
       "plans": [
         {
@@ -20736,7 +20736,7 @@
       "provider": "airalo",
       "slug": "morocco",
       "source_url": "https://www.airalo.com/api/v4/countries/morocco",
-      "fetched_at": "2026-10-20T10:01:46.881Z",
+      "fetched_at": "2026-10-21T10:07:17.444Z",
       "currency": "USD",
       "plans": [
         {
@@ -20865,7 +20865,7 @@
       "provider": "holafly",
       "slug": "morocco",
       "source_url": "https://esim.holafly.com/esim-morocco/",
-      "fetched_at": "2026-10-20T10:03:58.356Z",
+      "fetched_at": "2026-10-21T10:09:34.938Z",
       "currency": "USD",
       "plans": [
         {
@@ -21043,7 +21043,7 @@
       "provider": "ubigi",
       "slug": "morocco",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=mar&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:26.497Z",
+      "fetched_at": "2026-10-21T10:14:25.707Z",
       "currency": "USD",
       "plans": [
         {
@@ -21116,7 +21116,7 @@
       "provider": "yesim",
       "slug": "morocco",
       "source_url": "https://yesim.app/country/morocco/",
-      "fetched_at": "2026-10-20T10:11:53.386Z",
+      "fetched_at": "2026-10-21T10:18:04.785Z",
       "currency": "USD",
       "plans": [
         {
@@ -21245,7 +21245,7 @@
       "provider": "airalo",
       "slug": "netherlands",
       "source_url": "https://www.airalo.com/api/v4/countries/netherlands",
-      "fetched_at": "2026-10-20T10:03:05.496Z",
+      "fetched_at": "2026-10-21T10:08:38.415Z",
       "currency": "USD",
       "plans": [
         {
@@ -21398,7 +21398,7 @@
       "provider": "holafly",
       "slug": "netherlands",
       "source_url": "https://esim.holafly.com/esim-netherlands/",
-      "fetched_at": "2026-10-20T10:05:04.546Z",
+      "fetched_at": "2026-10-21T10:10:53.276Z",
       "currency": "USD",
       "plans": [
         {
@@ -21592,7 +21592,7 @@
       "provider": "ubigi",
       "slug": "netherlands",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nld&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:10:14.015Z",
+      "fetched_at": "2026-10-21T10:16:20.064Z",
       "currency": "USD",
       "plans": [
         {
@@ -21665,7 +21665,7 @@
       "provider": "yesim",
       "slug": "netherlands",
       "source_url": "https://yesim.app/country/netherlands/",
-      "fetched_at": "2026-10-20T10:13:43.594Z",
+      "fetched_at": "2026-10-21T10:20:05.803Z",
       "currency": "USD",
       "plans": [
         {
@@ -21786,7 +21786,7 @@
       "provider": "airalo",
       "slug": "new-zealand",
       "source_url": "https://www.airalo.com/api/v4/countries/new-zealand",
-      "fetched_at": "2026-10-20T10:01:33.840Z",
+      "fetched_at": "2026-10-21T10:07:04.005Z",
       "currency": "USD",
       "plans": [
         {
@@ -21939,7 +21939,7 @@
       "provider": "holafly",
       "slug": "new-zealand",
       "source_url": "https://esim.holafly.com/esim-new-zealand/",
-      "fetched_at": "2026-10-20T10:03:47.801Z",
+      "fetched_at": "2026-10-21T10:09:22.298Z",
       "currency": "USD",
       "plans": [
         {
@@ -22133,7 +22133,7 @@
       "provider": "ubigi",
       "slug": "new-zealand",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nzl&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:07.489Z",
+      "fetched_at": "2026-10-21T10:14:04.080Z",
       "currency": "USD",
       "plans": [
         {
@@ -22198,7 +22198,7 @@
       "provider": "yesim",
       "slug": "new-zealand",
       "source_url": "https://yesim.app/country/new-zealand/",
-      "fetched_at": "2026-10-20T10:11:34.807Z",
+      "fetched_at": "2026-10-21T10:17:43.472Z",
       "currency": "USD",
       "plans": [
         {
@@ -22319,7 +22319,7 @@
       "provider": "airalo",
       "slug": "norway",
       "source_url": "https://www.airalo.com/api/v4/countries/norway",
-      "fetched_at": "2026-10-20T10:02:02.357Z",
+      "fetched_at": "2026-10-21T10:07:33.326Z",
       "currency": "USD",
       "plans": [
         {
@@ -22472,7 +22472,7 @@
       "provider": "holafly",
       "slug": "norway",
       "source_url": "https://esim.holafly.com/esim-norway/",
-      "fetched_at": "2026-10-20T10:04:11.081Z",
+      "fetched_at": "2026-10-21T10:09:49.372Z",
       "currency": "USD",
       "plans": [
         {
@@ -22666,7 +22666,7 @@
       "provider": "ubigi",
       "slug": "norway",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=nor&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:46.162Z",
+      "fetched_at": "2026-10-21T10:14:45.913Z",
       "currency": "USD",
       "plans": [
         {
@@ -22739,7 +22739,7 @@
       "provider": "yesim",
       "slug": "norway",
       "source_url": "https://yesim.app/country/norway/",
-      "fetched_at": "2026-10-20T10:12:13.067Z",
+      "fetched_at": "2026-10-21T10:18:28.068Z",
       "currency": "USD",
       "plans": [
         {
@@ -22860,7 +22860,7 @@
       "provider": "airalo",
       "slug": "pakistan",
       "source_url": "https://www.airalo.com/api/v4/countries/pakistan",
-      "fetched_at": "2026-10-20T10:02:18.665Z",
+      "fetched_at": "2026-10-21T10:07:50.389Z",
       "currency": "USD",
       "plans": [
         {
@@ -23005,7 +23005,7 @@
       "provider": "holafly",
       "slug": "pakistan",
       "source_url": "https://esim.holafly.com/esim-pakistan/",
-      "fetched_at": "2026-10-20T10:04:25.525Z",
+      "fetched_at": "2026-10-21T10:10:06.019Z",
       "currency": "USD",
       "plans": [
         {
@@ -23199,7 +23199,7 @@
       "provider": "ubigi",
       "slug": "pakistan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pak&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:09.756Z",
+      "fetched_at": "2026-10-21T10:15:10.730Z",
       "currency": "USD",
       "plans": [
         {
@@ -23272,7 +23272,7 @@
       "provider": "yesim",
       "slug": "pakistan",
       "source_url": "https://yesim.app/country/pakistan/",
-      "fetched_at": "2026-10-20T10:12:36.639Z",
+      "fetched_at": "2026-10-21T10:18:54.892Z",
       "currency": "USD",
       "plans": [
         {
@@ -23401,7 +23401,7 @@
       "provider": "airalo",
       "slug": "panama",
       "source_url": "https://www.airalo.com/api/v4/countries/panama",
-      "fetched_at": "2026-10-20T10:02:00.463Z",
+      "fetched_at": "2026-10-21T10:07:31.353Z",
       "currency": "USD",
       "plans": [
         {
@@ -23546,7 +23546,7 @@
       "provider": "holafly",
       "slug": "panama",
       "source_url": "https://esim.holafly.com/esim-panama/",
-      "fetched_at": "2026-10-20T10:04:09.575Z",
+      "fetched_at": "2026-10-21T10:09:47.450Z",
       "currency": "USD",
       "plans": [
         {
@@ -23684,7 +23684,7 @@
       "provider": "ubigi",
       "slug": "panama",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pan&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:43.345Z",
+      "fetched_at": "2026-10-21T10:14:43.813Z",
       "currency": "USD",
       "plans": [
         {
@@ -23749,7 +23749,7 @@
       "provider": "yesim",
       "slug": "panama",
       "source_url": "https://yesim.app/country/panama/",
-      "fetched_at": "2026-10-20T10:12:09.851Z",
+      "fetched_at": "2026-10-21T10:18:24.445Z",
       "currency": "USD",
       "plans": [
         {
@@ -23830,7 +23830,7 @@
       "provider": "airalo",
       "slug": "peru",
       "source_url": "https://www.airalo.com/api/v4/countries/peru",
-      "fetched_at": "2026-10-20T10:01:41.321Z",
+      "fetched_at": "2026-10-21T10:07:11.718Z",
       "currency": "USD",
       "plans": [
         {
@@ -23975,7 +23975,7 @@
       "provider": "holafly",
       "slug": "peru",
       "source_url": "https://esim.holafly.com/esim-peru/",
-      "fetched_at": "2026-10-20T10:03:53.834Z",
+      "fetched_at": "2026-10-21T10:09:29.989Z",
       "currency": "USD",
       "plans": [
         {
@@ -24169,7 +24169,7 @@
       "provider": "ubigi",
       "slug": "peru",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=per&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:18.052Z",
+      "fetched_at": "2026-10-21T10:14:16.424Z",
       "currency": "USD",
       "plans": [
         {
@@ -24234,7 +24234,7 @@
       "provider": "yesim",
       "slug": "peru",
       "source_url": "https://yesim.app/country/peru/",
-      "fetched_at": "2026-10-20T10:11:45.156Z",
+      "fetched_at": "2026-10-21T10:17:55.789Z",
       "currency": "USD",
       "plans": [
         {
@@ -24315,7 +24315,7 @@
       "provider": "airalo",
       "slug": "philippines",
       "source_url": "https://www.airalo.com/api/v4/countries/philippines",
-      "fetched_at": "2026-10-20T10:01:03.104Z",
+      "fetched_at": "2026-10-21T10:06:31.210Z",
       "currency": "USD",
       "plans": [
         {
@@ -24468,7 +24468,7 @@
       "provider": "holafly",
       "slug": "philippines",
       "source_url": "https://esim.holafly.com/esim-philippines/",
-      "fetched_at": "2026-10-20T10:03:23.666Z",
+      "fetched_at": "2026-10-21T10:08:57.247Z",
       "currency": "USD",
       "plans": [
         {
@@ -24662,7 +24662,7 @@
       "provider": "ubigi",
       "slug": "philippines",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=phl&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:32.997Z",
+      "fetched_at": "2026-10-21T10:13:22.720Z",
       "currency": "USD",
       "plans": [
         {
@@ -24743,7 +24743,7 @@
       "provider": "yesim",
       "slug": "philippines",
       "source_url": "https://yesim.app/country/philippines/",
-      "fetched_at": "2026-10-20T10:10:49.727Z",
+      "fetched_at": "2026-10-21T10:16:55.771Z",
       "currency": "USD",
       "plans": [
         {
@@ -24872,7 +24872,7 @@
       "provider": "airalo",
       "slug": "poland",
       "source_url": "https://www.airalo.com/api/v4/countries/poland",
-      "fetched_at": "2026-10-20T10:03:01.726Z",
+      "fetched_at": "2026-10-21T10:08:34.281Z",
       "currency": "USD",
       "plans": [
         {
@@ -25025,7 +25025,7 @@
       "provider": "holafly",
       "slug": "poland",
       "source_url": "https://esim.holafly.com/esim-poland/",
-      "fetched_at": "2026-10-20T10:05:01.530Z",
+      "fetched_at": "2026-10-21T10:10:49.811Z",
       "currency": "USD",
       "plans": [
         {
@@ -25219,7 +25219,7 @@
       "provider": "ubigi",
       "slug": "poland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=pol&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:10:09.176Z",
+      "fetched_at": "2026-10-21T10:16:13.930Z",
       "currency": "USD",
       "plans": [
         {
@@ -25284,7 +25284,7 @@
       "provider": "yesim",
       "slug": "poland",
       "source_url": "https://yesim.app/country/poland/",
-      "fetched_at": "2026-10-20T10:13:37.639Z",
+      "fetched_at": "2026-10-21T10:19:59.232Z",
       "currency": "USD",
       "plans": [
         {
@@ -25405,7 +25405,7 @@
       "provider": "airalo",
       "slug": "portugal",
       "source_url": "https://www.airalo.com/api/v4/countries/portugal",
-      "fetched_at": "2026-10-20T10:01:16.053Z",
+      "fetched_at": "2026-10-21T10:06:45.019Z",
       "currency": "USD",
       "plans": [
         {
@@ -25558,7 +25558,7 @@
       "provider": "holafly",
       "slug": "portugal",
       "source_url": "https://esim.holafly.com/esim-portugal/",
-      "fetched_at": "2026-10-20T10:03:34.229Z",
+      "fetched_at": "2026-10-21T10:09:08.262Z",
       "currency": "USD",
       "plans": [
         {
@@ -25752,7 +25752,7 @@
       "provider": "ubigi",
       "slug": "portugal",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=prt&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:48.687Z",
+      "fetched_at": "2026-10-21T10:13:39.951Z",
       "currency": "USD",
       "plans": [
         {
@@ -25825,7 +25825,7 @@
       "provider": "yesim",
       "slug": "portugal",
       "source_url": "https://yesim.app/country/portugal/",
-      "fetched_at": "2026-10-20T10:11:09.874Z",
+      "fetched_at": "2026-10-21T10:17:16.907Z",
       "currency": "USD",
       "plans": [
         {
@@ -25946,7 +25946,7 @@
       "provider": "holafly",
       "slug": "puerto-rico",
       "source_url": "https://esim.holafly.com/esim-puerto-rico/",
-      "fetched_at": "2026-10-20T10:04:50.774Z",
+      "fetched_at": "2026-10-21T10:10:36.631Z",
       "currency": "USD",
       "plans": [
         {
@@ -26092,7 +26092,7 @@
       "provider": "yesim",
       "slug": "puerto-rico",
       "source_url": "https://yesim.app/country/puerto-rico/",
-      "fetched_at": "2026-10-20T10:13:19.227Z",
+      "fetched_at": "2026-10-21T10:19:39.188Z",
       "currency": "USD",
       "plans": [
         {
@@ -26181,47 +26181,15 @@
       "provider": "airalo",
       "slug": "qatar",
       "source_url": "https://www.airalo.com/api/v4/countries/qatar",
-      "fetched_at": "2026-10-20T10:03:03.610Z",
+      "fetched_at": "2026-10-21T10:08:36.201Z",
       "currency": "USD",
       "plans": [
-        {
-          "data_gb": 5,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 17,
-          "plan_name": "Pearl Mobile: 5 GB - 30 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 10,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 29,
-          "plan_name": "Pearl Mobile: 10 GB - 30 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 20,
-          "unlimited": false,
-          "validity_days": 30,
-          "price": 45,
-          "plan_name": "Pearl Mobile: 20 GB - 30 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": null,
-          "unlimited": true,
-          "validity_days": 10,
-          "price": 38,
-          "plan_name": "Pearl Mobile: Unlimited - 10 days",
-          "network": "Vodafone"
-        },
         {
           "data_gb": null,
           "unlimited": true,
           "validity_days": 3,
           "price": 19.5,
-          "plan_name": "Pearl Mobile: Unlimited - 3 days",
+          "plan_name": "Qatar Unlimited: Unlimited - 3 days",
           "network": "Vodafone"
         },
         {
@@ -26229,7 +26197,7 @@
           "unlimited": true,
           "validity_days": 5,
           "price": 28.5,
-          "plan_name": "Pearl Mobile: Unlimited - 5 days",
+          "plan_name": "Qatar Unlimited: Unlimited - 5 days",
           "network": "Vodafone"
         },
         {
@@ -26237,7 +26205,15 @@
           "unlimited": true,
           "validity_days": 7,
           "price": 36,
-          "plan_name": "Pearl Mobile: Unlimited - 7 days",
+          "plan_name": "Qatar Unlimited: Unlimited - 7 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": null,
+          "unlimited": true,
+          "validity_days": 10,
+          "price": 38,
+          "plan_name": "Qatar Unlimited: Unlimited - 10 days",
           "network": "Vodafone"
         },
         {
@@ -26245,71 +26221,7 @@
           "unlimited": true,
           "validity_days": 15,
           "price": 49,
-          "plan_name": "Pearl Mobile: Unlimited - 15 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 1,
-          "unlimited": false,
-          "validity_days": 3,
-          "price": 4.5,
-          "plan_name": "Pearl Mobile: 1 GB - 3 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 3,
-          "unlimited": false,
-          "validity_days": 3,
-          "price": 9.5,
-          "plan_name": "Pearl Mobile: 3 GB - 3 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 3,
-          "unlimited": false,
-          "validity_days": 7,
-          "price": 10,
-          "plan_name": "Pearl Mobile: 3 GB - 7 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 5,
-          "unlimited": false,
-          "validity_days": 7,
-          "price": 15,
-          "plan_name": "Pearl Mobile: 5 GB - 7 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 10,
-          "unlimited": false,
-          "validity_days": 7,
-          "price": 26,
-          "plan_name": "Pearl Mobile: 10 GB - 7 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 5,
-          "unlimited": false,
-          "validity_days": 15,
-          "price": 16,
-          "plan_name": "Pearl Mobile: 5 GB - 15 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 10,
-          "unlimited": false,
-          "validity_days": 15,
-          "price": 28,
-          "plan_name": "Pearl Mobile: 10 GB - 15 days",
-          "network": "Vodafone"
-        },
-        {
-          "data_gb": 20,
-          "unlimited": false,
-          "validity_days": 15,
-          "price": 43,
-          "plan_name": "Pearl Mobile: 20 GB - 15 days",
+          "plan_name": "Qatar Unlimited: Unlimited - 15 days",
           "network": "Vodafone"
         },
         {
@@ -26317,7 +26229,95 @@
           "unlimited": true,
           "validity_days": 30,
           "price": 99,
-          "plan_name": "Pearl Mobile: Unlimited - 30 days",
+          "plan_name": "Qatar Unlimited: Unlimited - 30 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 1,
+          "unlimited": false,
+          "validity_days": 3,
+          "price": 4.5,
+          "plan_name": "Qatar: 1 GB - 3 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 3,
+          "price": 9.5,
+          "plan_name": "Qatar: 3 GB - 3 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 3,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 10,
+          "plan_name": "Qatar: 3 GB - 7 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 15,
+          "plan_name": "Qatar: 5 GB - 7 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 7,
+          "price": 26,
+          "plan_name": "Qatar: 10 GB - 7 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 15,
+          "price": 16,
+          "plan_name": "Qatar: 5 GB - 15 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 15,
+          "price": 28,
+          "plan_name": "Qatar: 10 GB - 15 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 15,
+          "price": 43,
+          "plan_name": "Qatar: 20 GB - 15 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 5,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 17,
+          "plan_name": "Qatar: 5 GB - 30 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 10,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 29,
+          "plan_name": "Qatar: 10 GB - 30 days",
+          "network": "Vodafone"
+        },
+        {
+          "data_gb": 20,
+          "unlimited": false,
+          "validity_days": 30,
+          "price": 45,
+          "plan_name": "Qatar: 20 GB - 30 days",
           "network": "Vodafone"
         }
       ]
@@ -26326,7 +26326,7 @@
       "provider": "holafly",
       "slug": "qatar",
       "source_url": "https://esim.holafly.com/esim-qatar/",
-      "fetched_at": "2026-10-20T10:05:03.037Z",
+      "fetched_at": "2026-10-21T10:10:51.761Z",
       "currency": "USD",
       "plans": [
         {
@@ -26456,7 +26456,7 @@
       "provider": "ubigi",
       "slug": "qatar",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=qat&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:10:11.068Z",
+      "fetched_at": "2026-10-21T10:16:16.946Z",
       "currency": "USD",
       "plans": [
         {
@@ -26497,7 +26497,7 @@
       "provider": "yesim",
       "slug": "qatar",
       "source_url": "https://yesim.app/country/qatar/",
-      "fetched_at": "2026-10-20T10:13:40.524Z",
+      "fetched_at": "2026-10-21T10:20:02.924Z",
       "currency": "USD",
       "plans": [
         {
@@ -26626,7 +26626,7 @@
       "provider": "airalo",
       "slug": "romania",
       "source_url": "https://www.airalo.com/api/v4/countries/romania",
-      "fetched_at": "2026-10-20T10:02:40.836Z",
+      "fetched_at": "2026-10-21T10:08:13.831Z",
       "currency": "USD",
       "plans": [
         {
@@ -26771,7 +26771,7 @@
       "provider": "holafly",
       "slug": "romania",
       "source_url": "https://esim.holafly.com/esim-romania/",
-      "fetched_at": "2026-10-20T10:04:44.458Z",
+      "fetched_at": "2026-10-21T10:10:28.955Z",
       "currency": "USD",
       "plans": [
         {
@@ -26965,7 +26965,7 @@
       "provider": "ubigi",
       "slug": "romania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=rou&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:40.398Z",
+      "fetched_at": "2026-10-21T10:15:42.294Z",
       "currency": "USD",
       "plans": [
         {
@@ -27022,7 +27022,7 @@
       "provider": "yesim",
       "slug": "romania",
       "source_url": "https://yesim.app/country/romania/",
-      "fetched_at": "2026-10-20T10:13:09.060Z",
+      "fetched_at": "2026-10-21T10:19:28.430Z",
       "currency": "USD",
       "plans": [
         {
@@ -27143,7 +27143,7 @@
       "provider": "holafly",
       "slug": "russia",
       "source_url": "https://esim.holafly.com/esim-russia/",
-      "fetched_at": "2026-10-20T10:04:49.265Z",
+      "fetched_at": "2026-10-21T10:10:34.712Z",
       "currency": "USD",
       "plans": [
         {
@@ -27240,7 +27240,7 @@
       "provider": "ubigi",
       "slug": "russia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=rus&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:48.860Z",
+      "fetched_at": "2026-10-21T10:15:51.355Z",
       "currency": "USD",
       "plans": [
         {
@@ -27321,7 +27321,7 @@
       "provider": "yesim",
       "slug": "russia",
       "source_url": "https://yesim.app/country/russia/",
-      "fetched_at": "2026-10-20T10:13:16.615Z",
+      "fetched_at": "2026-10-21T10:19:36.528Z",
       "currency": "USD",
       "plans": [
         {
@@ -27442,7 +27442,7 @@
       "provider": "airalo",
       "slug": "saudi-arabia",
       "source_url": "https://www.airalo.com/api/v4/countries/saudi-arabia",
-      "fetched_at": "2026-10-20T10:02:05.918Z",
+      "fetched_at": "2026-10-21T10:07:37.160Z",
       "currency": "USD",
       "plans": [
         {
@@ -27595,7 +27595,7 @@
       "provider": "holafly",
       "slug": "saudi-arabia",
       "source_url": "https://esim.holafly.com/esim-saudi-arabia/",
-      "fetched_at": "2026-10-20T10:04:14.098Z",
+      "fetched_at": "2026-10-21T10:09:52.808Z",
       "currency": "USD",
       "plans": [
         {
@@ -27781,7 +27781,7 @@
       "provider": "ubigi",
       "slug": "saudi-arabia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=sau&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:51.823Z",
+      "fetched_at": "2026-10-21T10:14:52.141Z",
       "currency": "USD",
       "plans": [
         {
@@ -27822,7 +27822,7 @@
       "provider": "yesim",
       "slug": "saudi-arabia",
       "source_url": "https://yesim.app/country/saudi-arabia/",
-      "fetched_at": "2026-10-20T10:12:18.656Z",
+      "fetched_at": "2026-10-21T10:18:34.030Z",
       "currency": "USD",
       "plans": [
         {
@@ -27951,7 +27951,7 @@
       "provider": "airalo",
       "slug": "singapore",
       "source_url": "https://www.airalo.com/api/v4/countries/singapore",
-      "fetched_at": "2026-10-20T10:01:27.253Z",
+      "fetched_at": "2026-10-21T10:06:56.875Z",
       "currency": "USD",
       "plans": [
         {
@@ -28104,7 +28104,7 @@
       "provider": "holafly",
       "slug": "singapore",
       "source_url": "https://esim.holafly.com/esim-singapore/",
-      "fetched_at": "2026-10-20T10:03:43.277Z",
+      "fetched_at": "2026-10-21T10:09:17.348Z",
       "currency": "USD",
       "plans": [
         {
@@ -28298,7 +28298,7 @@
       "provider": "ubigi",
       "slug": "singapore",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=sgp&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:02.197Z",
+      "fetched_at": "2026-10-21T10:13:56.305Z",
       "currency": "USD",
       "plans": [
         {
@@ -28371,7 +28371,7 @@
       "provider": "yesim",
       "slug": "singapore",
       "source_url": "https://yesim.app/country/singapore/",
-      "fetched_at": "2026-10-20T10:11:27.307Z",
+      "fetched_at": "2026-10-21T10:17:35.447Z",
       "currency": "USD",
       "plans": [
         {
@@ -28492,7 +28492,7 @@
       "provider": "airalo",
       "slug": "south-africa",
       "source_url": "https://www.airalo.com/api/v4/countries/south-africa",
-      "fetched_at": "2026-10-20T10:01:52.409Z",
+      "fetched_at": "2026-10-21T10:07:23.227Z",
       "currency": "USD",
       "plans": [
         {
@@ -28645,7 +28645,7 @@
       "provider": "holafly",
       "slug": "south-africa",
       "source_url": "https://esim.holafly.com/esim-south-africa/",
-      "fetched_at": "2026-10-20T10:04:02.880Z",
+      "fetched_at": "2026-10-21T10:09:39.484Z",
       "currency": "USD",
       "plans": [
         {
@@ -28831,7 +28831,7 @@
       "provider": "ubigi",
       "slug": "south-africa",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=zaf&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:33.263Z",
+      "fetched_at": "2026-10-21T10:14:33.845Z",
       "currency": "USD",
       "plans": [
         {
@@ -28912,7 +28912,7 @@
       "provider": "yesim",
       "slug": "south-africa",
       "source_url": "https://yesim.app/country/south-africa/",
-      "fetched_at": "2026-10-20T10:12:01.084Z",
+      "fetched_at": "2026-10-21T10:18:14.269Z",
       "currency": "USD",
       "plans": [
         {
@@ -28985,7 +28985,7 @@
       "provider": "airalo",
       "slug": "south-korea",
       "source_url": "https://www.airalo.com/api/v4/countries/south-korea",
-      "fetched_at": "2026-10-20T10:01:19.833Z",
+      "fetched_at": "2026-10-21T10:06:48.883Z",
       "currency": "USD",
       "plans": [
         {
@@ -29138,7 +29138,7 @@
       "provider": "holafly",
       "slug": "south-korea",
       "source_url": "https://esim.holafly.com/esim-south-korea/",
-      "fetched_at": "2026-10-20T10:03:37.246Z",
+      "fetched_at": "2026-10-21T10:09:11.291Z",
       "currency": "USD",
       "plans": [
         {
@@ -29332,7 +29332,7 @@
       "provider": "ubigi",
       "slug": "south-korea",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=kor&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:53.445Z",
+      "fetched_at": "2026-10-21T10:13:45.159Z",
       "currency": "USD",
       "plans": [
         {
@@ -29405,7 +29405,7 @@
       "provider": "yesim",
       "slug": "south-korea",
       "source_url": "https://yesim.app/country/south-korea/",
-      "fetched_at": "2026-10-20T10:11:15.775Z",
+      "fetched_at": "2026-10-21T10:17:22.940Z",
       "currency": "USD",
       "plans": [
         {
@@ -29518,7 +29518,7 @@
       "provider": "airalo",
       "slug": "spain",
       "source_url": "https://www.airalo.com/api/v4/countries/spain",
-      "fetched_at": "2026-10-20T10:01:01.234Z",
+      "fetched_at": "2026-10-21T10:06:29.234Z",
       "currency": "USD",
       "plans": [
         {
@@ -29671,7 +29671,7 @@
       "provider": "holafly",
       "slug": "spain",
       "source_url": "https://esim.holafly.com/esim-spain/",
-      "fetched_at": "2026-10-20T10:03:22.159Z",
+      "fetched_at": "2026-10-21T10:08:55.731Z",
       "currency": "USD",
       "plans": [
         {
@@ -29865,7 +29865,7 @@
       "provider": "ubigi",
       "slug": "spain",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=esp&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:29.972Z",
+      "fetched_at": "2026-10-21T10:13:20.610Z",
       "currency": "USD",
       "plans": [
         {
@@ -29938,7 +29938,7 @@
       "provider": "yesim",
       "slug": "spain",
       "source_url": "https://yesim.app/country/spain/",
-      "fetched_at": "2026-10-20T10:10:46.017Z",
+      "fetched_at": "2026-10-21T10:16:52.860Z",
       "currency": "USD",
       "plans": [
         {
@@ -30059,7 +30059,7 @@
       "provider": "airalo",
       "slug": "sri-lanka",
       "source_url": "https://www.airalo.com/api/v4/countries/sri-lanka",
-      "fetched_at": "2026-10-20T10:02:38.994Z",
+      "fetched_at": "2026-10-21T10:08:11.871Z",
       "currency": "USD",
       "plans": [
         {
@@ -30212,7 +30212,7 @@
       "provider": "holafly",
       "slug": "sri-lanka",
       "source_url": "https://esim.holafly.com/esim-sri-lanka/",
-      "fetched_at": "2026-10-20T10:04:42.950Z",
+      "fetched_at": "2026-10-21T10:10:26.902Z",
       "currency": "USD",
       "plans": [
         {
@@ -30398,7 +30398,7 @@
       "provider": "ubigi",
       "slug": "sri-lanka",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=lka&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:38.495Z",
+      "fetched_at": "2026-10-21T10:15:39.221Z",
       "currency": "USD",
       "plans": [
         {
@@ -30463,7 +30463,7 @@
       "provider": "yesim",
       "slug": "sri-lanka",
       "source_url": "https://yesim.app/country/sri-lanka/",
-      "fetched_at": "2026-10-20T10:13:05.867Z",
+      "fetched_at": "2026-10-21T10:19:24.955Z",
       "currency": "USD",
       "plans": [
         {
@@ -30592,7 +30592,7 @@
       "provider": "airalo",
       "slug": "sweden",
       "source_url": "https://www.airalo.com/api/v4/countries/sweden",
-      "fetched_at": "2026-10-20T10:02:04.167Z",
+      "fetched_at": "2026-10-21T10:07:35.212Z",
       "currency": "USD",
       "plans": [
         {
@@ -30745,7 +30745,7 @@
       "provider": "holafly",
       "slug": "sweden",
       "source_url": "https://esim.holafly.com/esim-sweden/",
-      "fetched_at": "2026-10-20T10:04:12.590Z",
+      "fetched_at": "2026-10-21T10:09:50.888Z",
       "currency": "USD",
       "plans": [
         {
@@ -30939,7 +30939,7 @@
       "provider": "ubigi",
       "slug": "sweden",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=swe&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:49.048Z",
+      "fetched_at": "2026-10-21T10:14:48.951Z",
       "currency": "USD",
       "plans": [
         {
@@ -31004,7 +31004,7 @@
       "provider": "yesim",
       "slug": "sweden",
       "source_url": "https://yesim.app/country/sweden/",
-      "fetched_at": "2026-10-20T10:12:15.766Z",
+      "fetched_at": "2026-10-21T10:18:31.242Z",
       "currency": "USD",
       "plans": [
         {
@@ -31125,7 +31125,7 @@
       "provider": "airalo",
       "slug": "switzerland",
       "source_url": "https://www.airalo.com/api/v4/countries/switzerland",
-      "fetched_at": "2026-10-20T10:01:45.006Z",
+      "fetched_at": "2026-10-21T10:07:15.539Z",
       "currency": "USD",
       "plans": [
         {
@@ -31278,7 +31278,7 @@
       "provider": "holafly",
       "slug": "switzerland",
       "source_url": "https://esim.holafly.com/esim-switzerland/",
-      "fetched_at": "2026-10-20T10:03:56.847Z",
+      "fetched_at": "2026-10-21T10:09:33.018Z",
       "currency": "USD",
       "plans": [
         {
@@ -31480,7 +31480,7 @@
       "provider": "ubigi",
       "slug": "switzerland",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=che&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:23.700Z",
+      "fetched_at": "2026-10-21T10:14:22.649Z",
       "currency": "USD",
       "plans": [
         {
@@ -31553,7 +31553,7 @@
       "provider": "yesim",
       "slug": "switzerland",
       "source_url": "https://yesim.app/country/switzerland/",
-      "fetched_at": "2026-10-20T10:11:50.633Z",
+      "fetched_at": "2026-10-21T10:18:02.564Z",
       "currency": "USD",
       "plans": [
         {
@@ -31674,7 +31674,7 @@
       "provider": "airalo",
       "slug": "taiwan",
       "source_url": "https://www.airalo.com/api/v4/countries/taiwan",
-      "fetched_at": "2026-10-20T10:01:32.000Z",
+      "fetched_at": "2026-10-21T10:07:02.095Z",
       "currency": "USD",
       "plans": [
         {
@@ -31827,7 +31827,7 @@
       "provider": "holafly",
       "slug": "taiwan",
       "source_url": "https://esim.holafly.com/esim-taiwan/",
-      "fetched_at": "2026-10-20T10:03:46.294Z",
+      "fetched_at": "2026-10-21T10:09:20.784Z",
       "currency": "USD",
       "plans": [
         {
@@ -32021,7 +32021,7 @@
       "provider": "ubigi",
       "slug": "taiwan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=twn&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:05.603Z",
+      "fetched_at": "2026-10-21T10:14:00.866Z",
       "currency": "USD",
       "plans": [
         {
@@ -32094,7 +32094,7 @@
       "provider": "yesim",
       "slug": "taiwan",
       "source_url": "https://yesim.app/country/taiwan/",
-      "fetched_at": "2026-10-20T10:11:32.049Z",
+      "fetched_at": "2026-10-21T10:17:40.370Z",
       "currency": "USD",
       "plans": [
         {
@@ -32183,7 +32183,7 @@
       "provider": "airalo",
       "slug": "tanzania",
       "source_url": "https://www.airalo.com/api/v4/countries/tanzania",
-      "fetched_at": "2026-10-20T10:02:27.894Z",
+      "fetched_at": "2026-10-21T10:08:00.229Z",
       "currency": "USD",
       "plans": [
         {
@@ -32328,7 +32328,7 @@
       "provider": "holafly",
       "slug": "tanzania",
       "source_url": "https://esim.holafly.com/esim-tanzania/",
-      "fetched_at": "2026-10-20T10:04:33.614Z",
+      "fetched_at": "2026-10-21T10:10:15.498Z",
       "currency": "USD",
       "plans": [
         {
@@ -32474,7 +32474,7 @@
       "provider": "ubigi",
       "slug": "tanzania",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tza&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:22.634Z",
+      "fetched_at": "2026-10-21T10:15:24.287Z",
       "currency": "USD",
       "plans": [
         {
@@ -32523,7 +32523,7 @@
       "provider": "yesim",
       "slug": "tanzania",
       "source_url": "https://yesim.app/country/tanzania/",
-      "fetched_at": "2026-10-20T10:12:49.417Z",
+      "fetched_at": "2026-10-21T10:19:06.988Z",
       "currency": "USD",
       "plans": [
         {
@@ -32596,7 +32596,7 @@
       "provider": "airalo",
       "slug": "thailand",
       "source_url": "https://www.airalo.com/api/v4/countries/thailand",
-      "fetched_at": "2026-10-20T10:00:59.367Z",
+      "fetched_at": "2026-10-21T10:06:27.337Z",
       "currency": "USD",
       "plans": [
         {
@@ -32749,7 +32749,7 @@
       "provider": "holafly",
       "slug": "thailand",
       "source_url": "https://esim.holafly.com/esim-thailand/",
-      "fetched_at": "2026-10-20T10:03:20.650Z",
+      "fetched_at": "2026-10-21T10:08:54.216Z",
       "currency": "USD",
       "plans": [
         {
@@ -32943,7 +32943,7 @@
       "provider": "ubigi",
       "slug": "thailand",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tha&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:27.071Z",
+      "fetched_at": "2026-10-21T10:13:17.626Z",
       "currency": "USD",
       "plans": [
         {
@@ -33016,7 +33016,7 @@
       "provider": "yesim",
       "slug": "thailand",
       "source_url": "https://yesim.app/country/thailand/",
-      "fetched_at": "2026-10-20T10:10:42.865Z",
+      "fetched_at": "2026-10-21T10:16:50.079Z",
       "currency": "USD",
       "plans": [
         {
@@ -33145,7 +33145,7 @@
       "provider": "airalo",
       "slug": "tunisia",
       "source_url": "https://www.airalo.com/api/v4/countries/tunisia",
-      "fetched_at": "2026-10-20T10:02:33.450Z",
+      "fetched_at": "2026-10-21T10:08:06.211Z",
       "currency": "USD",
       "plans": [
         {
@@ -33290,7 +33290,7 @@
       "provider": "holafly",
       "slug": "tunisia",
       "source_url": "https://esim.holafly.com/esim-tunisia/",
-      "fetched_at": "2026-10-20T10:04:38.140Z",
+      "fetched_at": "2026-10-21T10:10:21.279Z",
       "currency": "USD",
       "plans": [
         {
@@ -33476,7 +33476,7 @@
       "provider": "ubigi",
       "slug": "tunisia",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tun&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:31.285Z",
+      "fetched_at": "2026-10-21T10:15:32.402Z",
       "currency": "USD",
       "plans": [
         {
@@ -33541,7 +33541,7 @@
       "provider": "yesim",
       "slug": "tunisia",
       "source_url": "https://yesim.app/country/tunisia/",
-      "fetched_at": "2026-10-20T10:12:57.831Z",
+      "fetched_at": "2026-10-21T10:19:16.046Z",
       "currency": "USD",
       "plans": [
         {
@@ -33662,7 +33662,7 @@
       "provider": "airalo",
       "slug": "turkey",
       "source_url": "https://www.airalo.com/api/v4/countries/turkey",
-      "fetched_at": "2026-10-20T10:01:10.390Z",
+      "fetched_at": "2026-10-21T10:06:38.788Z",
       "currency": "USD",
       "plans": [
         {
@@ -33815,7 +33815,7 @@
       "provider": "holafly",
       "slug": "turkey",
       "source_url": "https://esim.holafly.com/esim-turkey/",
-      "fetched_at": "2026-10-20T10:03:29.702Z",
+      "fetched_at": "2026-10-21T10:09:03.308Z",
       "currency": "USD",
       "plans": [
         {
@@ -34009,7 +34009,7 @@
       "provider": "ubigi",
       "slug": "turkey",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=tur&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:41.531Z",
+      "fetched_at": "2026-10-21T10:13:33.088Z",
       "currency": "USD",
       "plans": [
         {
@@ -34098,7 +34098,7 @@
       "provider": "yesim",
       "slug": "turkey",
       "source_url": "https://yesim.app/country/turkey/",
-      "fetched_at": "2026-10-20T10:11:01.716Z",
+      "fetched_at": "2026-10-21T10:17:07.453Z",
       "currency": "USD",
       "plans": [
         {
@@ -34227,7 +34227,7 @@
       "provider": "airalo",
       "slug": "uae",
       "source_url": "https://www.airalo.com/api/v4/countries/united-arab-emirates",
-      "fetched_at": "2026-10-20T10:01:56.445Z",
+      "fetched_at": "2026-10-21T10:07:27.278Z",
       "currency": "USD",
       "plans": [
         {
@@ -34469,7 +34469,7 @@
       "provider": "ubigi",
       "slug": "uae",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=are&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:08:39.010Z",
+      "fetched_at": "2026-10-21T10:14:39.255Z",
       "currency": "USD",
       "plans": [
         {
@@ -34542,7 +34542,7 @@
       "provider": "airalo",
       "slug": "united-kingdom",
       "source_url": "https://www.airalo.com/api/v4/countries/united-kingdom",
-      "fetched_at": "2026-10-20T10:00:48.108Z",
+      "fetched_at": "2026-10-21T10:06:15.616Z",
       "currency": "USD",
       "plans": [
         {
@@ -34695,7 +34695,7 @@
       "provider": "holafly",
       "slug": "united-kingdom",
       "source_url": "https://esim.holafly.com/esim-united-kingdom/",
-      "fetched_at": "2026-10-20T10:03:11.602Z",
+      "fetched_at": "2026-10-21T10:08:45.119Z",
       "currency": "USD",
       "plans": [
         {
@@ -34889,7 +34889,7 @@
       "provider": "ubigi",
       "slug": "united-kingdom",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=gbr&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:13.357Z",
+      "fetched_at": "2026-10-21T10:13:02.140Z",
       "currency": "USD",
       "plans": [
         {
@@ -34970,7 +34970,7 @@
       "provider": "yesim",
       "slug": "united-kingdom",
       "source_url": "https://yesim.app/country/united-kingdom/",
-      "fetched_at": "2026-10-20T10:10:25.570Z",
+      "fetched_at": "2026-10-21T10:16:32.395Z",
       "currency": "USD",
       "plans": [
         {
@@ -35091,7 +35091,7 @@
       "provider": "airalo",
       "slug": "united-states",
       "source_url": "https://www.airalo.com/api/v4/countries/united-states",
-      "fetched_at": "2026-10-20T10:00:42.068Z",
+      "fetched_at": "2026-10-21T10:06:09.509Z",
       "currency": "USD",
       "plans": [
         {
@@ -35244,7 +35244,7 @@
       "provider": "holafly",
       "slug": "united-states",
       "source_url": "https://esim.holafly.com/esim-usa/",
-      "fetched_at": "2026-10-20T10:03:07.066Z",
+      "fetched_at": "2026-10-21T10:08:40.027Z",
       "currency": "USD",
       "plans": [
         {
@@ -35462,7 +35462,7 @@
       "provider": "ubigi",
       "slug": "united-states",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=usa&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:06.886Z",
+      "fetched_at": "2026-10-21T10:12:56.410Z",
       "currency": "USD",
       "plans": [
         {
@@ -35559,7 +35559,7 @@
       "provider": "yesim",
       "slug": "united-states",
       "source_url": "https://yesim.app/country/united-states/",
-      "fetched_at": "2026-10-20T10:10:17.365Z",
+      "fetched_at": "2026-10-21T10:16:23.662Z",
       "currency": "USD",
       "plans": [
         {
@@ -35680,7 +35680,7 @@
       "provider": "airalo",
       "slug": "uzbekistan",
       "source_url": "https://www.airalo.com/api/v4/countries/uzbekistan",
-      "fetched_at": "2026-10-20T10:02:50.286Z",
+      "fetched_at": "2026-10-21T10:08:23.101Z",
       "currency": "USD",
       "plans": [
         {
@@ -35817,7 +35817,7 @@
       "provider": "holafly",
       "slug": "uzbekistan",
       "source_url": "https://esim.holafly.com/esim-uzbekistan/",
-      "fetched_at": "2026-10-20T10:04:52.282Z",
+      "fetched_at": "2026-10-21T10:10:38.553Z",
       "currency": "USD",
       "plans": [
         {
@@ -35963,7 +35963,7 @@
       "provider": "ubigi",
       "slug": "uzbekistan",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=uzb&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:09:53.236Z",
+      "fetched_at": "2026-10-21T10:15:55.900Z",
       "currency": "USD",
       "plans": [
         {
@@ -36028,7 +36028,7 @@
       "provider": "yesim",
       "slug": "uzbekistan",
       "source_url": "https://yesim.app/country/uzbekistan/",
-      "fetched_at": "2026-10-20T10:13:22.018Z",
+      "fetched_at": "2026-10-21T10:19:41.846Z",
       "currency": "USD",
       "plans": [
         {
@@ -36149,7 +36149,7 @@
       "provider": "airalo",
       "slug": "vietnam",
       "source_url": "https://www.airalo.com/api/v4/countries/vietnam",
-      "fetched_at": "2026-10-20T10:01:08.579Z",
+      "fetched_at": "2026-10-21T10:06:36.871Z",
       "currency": "USD",
       "plans": [
         {
@@ -36302,7 +36302,7 @@
       "provider": "holafly",
       "slug": "vietnam",
       "source_url": "https://esim.holafly.com/esim-vietnam/",
-      "fetched_at": "2026-10-20T10:03:28.193Z",
+      "fetched_at": "2026-10-21T10:09:01.793Z",
       "currency": "USD",
       "plans": [
         {
@@ -36496,7 +36496,7 @@
       "provider": "ubigi",
       "slug": "vietnam",
       "source_url": "https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=vnm&wmc-currency=USD",
-      "fetched_at": "2026-10-20T10:07:39.621Z",
+      "fetched_at": "2026-10-21T10:13:30.989Z",
       "currency": "USD",
       "plans": [
         {
@@ -36561,7 +36561,7 @@
       "provider": "yesim",
       "slug": "vietnam",
       "source_url": "https://yesim.app/country/vietnam/",
-      "fetched_at": "2026-10-20T10:10:58.745Z",
+      "fetched_at": "2026-10-21T10:17:04.569Z",
       "currency": "USD",
       "plans": [
         {
